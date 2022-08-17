@@ -1,0 +1,33 @@
+Movies
+-
+ID varchar pk FK >- Credits.ID FK >- Rating.ID FK >- Runtime.ID FK >- Genre.ID
+Title varchar
+Release Year
+Rating varchar FK >- Rating.Rating
+Runtime int FK >- Runtime.Runtime
+Genre varchar FK >- Genre.Genre
+IMDB_Score varchar FK >- Runtime.IMDB_Score FK >- Genre.IMDB_Score FK >- Rating.IMDB_Score
+
+Credits
+-
+ID varchar pk
+Name varchar
+Role varchar
+
+Rating
+-
+ID varchar pk
+Rating varchar
+IMDB_Score varchar
+
+Runtime
+-
+ID varchar pk
+Runtime int
+IMDB_Score varchar
+
+Genre
+-
+ID varchar pk
+Genre varchar
+IMDB_Score varchar

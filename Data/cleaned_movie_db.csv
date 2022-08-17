@@ -1,0 +1,1534 @@
+index,title,id,movie,release_year,age_certification,runtime,genres,production_countries,imdb_id,imdb_score,imdb_votes,tmdb_popularity,tmdb_score
+1,Taxi Driver,tm84618,MOVIE,1976,R,113,"[''crime'', ''drama'']",['US'],tt0075314,8.3,795222,27.612,8.2
+4,The Exorcist,tm190788,MOVIE,1973,R,133,['horror'],['US'],tt0070047,8.1,391942,95.337,7.7
+6,Dirty Harry,tm14873,MOVIE,1971,R,102,"[''thriller'', ''crime'', ''action'']",['US'],tt0066999,7.7,153463,14.745,7.5
+7,My Fair Lady,tm185072,MOVIE,1964,G,170,"[''drama'', ''music'', ''romance'', ''family'']",['US'],tt0058385,7.8,94121,15.949,7.6
+8,The Blue Lagoon,tm98978,MOVIE,1980,R,104,"[''romance'', ''drama'']",['US'],tt0080453,5.8,69053,44.038,6.2
+9,Bonnie and Clyde,tm119281,MOVIE,1967,R,110,"[''drama'', ''crime'', ''action'']",['US'],tt0061418,7.7,111189,15.309,7.5
+10,The Professionals,tm67378,MOVIE,1966,PG-13,117,"[''western'', ''action'', ''european'']",['US'],tt0060862,7.3,16168,12.155,7.1
+11,The Guns of Navarone,tm44204,MOVIE,1961,,158,"[''war'', ''action'', ''drama'']","[''US'', ''GB'']",tt0054953,7.5,50150,15.405,7.4
+13,Richard Pryor: Live in Concert,tm69997,MOVIE,1979,R,78,"[''comedy'', ''documentation'']",['US'],tt0079807,8.1,5141,4.681,7.5
+14,The Long Riders,tm96649,MOVIE,1980,R,99,"[''western'', ''crime'']",['US'],tt0081071,6.9,11329,8.808,6.6
+15,White Christmas,tm16479,MOVIE,1954,,115,"[''romance'', ''comedy'', ''music'']",['US'],tt0047673,7.5,42373,9.71,7.2
+17,The Queen,tm14491,MOVIE,1968,,68,['documentation'],['US'],tt0183686,7.2,1117,2.419,6.5
+19,FTA,tm156453,MOVIE,1972,R,97,"[''comedy'', ''documentation'', ''music'']",['US'],tt0068562,6.2,411,2.466,6.1
+46,Top Gun,tm119776,MOVIE,1986,PG,110,"[''drama'', ''action'']",['US'],tt0092099,6.9,329656,112.137,7
+48,Stand by Me,tm111075,MOVIE,1986,R,89,['drama'],['US'],tt0092005,8.1,392790,16.096,7.9
+49,Once Upon a Time in America,tm180542,MOVIE,1984,R,229,"[''drama'', ''crime'', ''european'']","[''US'', ''IT'']",tt0087843,8.3,342335,21.322,8.4
+50,When Harry Met Sally...,tm138875,MOVIE,1989,R,96,"[''romance'', ''comedy'', ''drama'']",['US'],tt0098635,7.7,212913,16.005,7.4
+51,Teenage Mutant Ninja Turtles,tm155792,MOVIE,1990,PG,93,"[''scifi'', ''action'', ''comedy'', ''family'']","[''HK'', ''US'']",tt0100758,6.7,92647,22.75,6.6
+52,Full Metal Jacket,tm22327,MOVIE,1987,R,116,"[''drama'', ''war'']","[''GB'', ''US'']",tt0093058,8.3,723306,36.502,8.1
+53,Christine,tm54450,MOVIE,1983,R,90,"[''horror'', ''thriller'', ''european'']",['US'],tt0085333,6.7,80945,19.311,6.8
+54,A Nightmare on Elm Street,tm2386,MOVIE,1984,R,91,['horror'],['US'],tt0087800,7.4,230543,53.853,7.3
+56,Awakenings,tm145608,MOVIE,1990,PG-13,120,"[''drama'', ''european'']",['US'],tt0099077,7.8,137549,13.761,7.8
+58,Annie,tm41289,MOVIE,1982,PG,127,"[''drama'', ''family'', ''comedy'']",['US'],tt0083564,6.6,44866,15.857,6.5
+59,Pet Sematary,tm132694,MOVIE,1989,R,103,"[''horror'', ''fantasy'', ''thriller'']",['US'],tt0098084,6.5,102212,32.854,6.6
+61,She's Gotta Have It,tm117580,MOVIE,1986,R,84,"[''comedy'', ''romance'']",['US'],tt0091939,6.7,14277,6.212,6.7
+62,Eddie Murphy Raw,tm20712,MOVIE,1987,R,93,"[''comedy'', ''documentation'']",['US'],tt0092948,7.6,19646,9.727,7.3
+63,Endless Love,tm130586,MOVIE,1981,R,116,"[''drama'', ''romance'']",['US'],tt0082329,4.9,8374,19.518,5.6
+70,Sam Kinison: Breaking the Rules,tm21953,MOVIE,1987,R,50,"[''comedy'', ''documentation'']",['US'],tt0307403,7.2,651,1.791,7.2
+71,Tim Allen: Men Are Pigs,tm152839,MOVIE,1990,,30,"[''comedy'', ''documentation'']",['US'],tt0259057,6,353,1.46,6.3
+73,The George McKenna Story,tm114356,MOVIE,1988,,100,['drama'],['US'],tt0091106,6,901,1.631,6.1
+74,Unspeakable Acts,tm147829,MOVIE,1990,,100,['drama'],['US'],tt0100848,6,448,2.596,5.3
+79,Too Young The Hero,tm38736,MOVIE,1988,,100,"[''drama'', ''war'']",['US'],tt0096286,6.7,494,1.291,6.9
+80,Adam: His Song Continues,tm258072,MOVIE,1986,,100,"[''crime'', ''drama'']",['US'],tt0090589,7,209,2.203,7
+82,The Ryan White Story,tm137013,MOVIE,1989,,102,['drama'],['US'],tt0098237,7.2,857,1.714,6.4
+83,In Defense of a Married Man,tm157853,MOVIE,1990,,94,"[''drama'', ''crime'']",['US'],tt0099833,5.6,200,2.768,4.9
+86,Quiet Victory: The Charlie Wedemeyer Story,tm55091,MOVIE,1988,,100,['drama'],['US'],tt0095945,7.1,144,2.673,8
+88,Strange Voices,tm24110,MOVIE,1987,,100,['drama'],['US'],tt0094052,6.3,357,2.564,6.8
+90,A Stoning in Fulham County,tm51083,MOVIE,1988,,120,"[''crime'', ''drama'', ''thriller'']",['US'],tt0096179,5.8,380,1.509,5.8
+96,Bill Hicks: Sane Man,tm132164,MOVIE,1989,R,81,['comedy'],['US'],,,,3.245,7.5
+104,The Quick and the Dead,tm11556,MOVIE,1995,R,107,"[''western'', ''thriller'', ''action'', ''romance'']","[''US'', ''JP'']",tt0114214,6.5,92224,17.543,6.5
+108,Forrest Gump,tm122434,MOVIE,1994,PG-13,142,"[''drama'', ''romance'', ''comedy'']",['US'],tt0109830,8.8,1994599,57.114,8.5
+109,Happy Gilmore,tm106462,MOVIE,1996,PG-13,92,"[''comedy'', ''sport'']",['US'],tt0116483,7,217534,16.583,6.6
+111,Saving Private Ryan,tm57554,MOVIE,1998,R,169,"[''drama'', ''war'']",['US'],tt0120815,8.6,1346020,54.874,8.2
+115,Gattaca,tm192405,MOVIE,1997,PG-13,106,"[''thriller'', ''drama'', ''scifi'']",['US'],tt0119177,7.8,298168,18.355,7.6
+117,Blade,tm55553,MOVIE,1998,R,120,"[''action'', ''scifi'', ''horror'']",['US'],tt0120611,7.1,267181,47.411,6.7
+118,You've Got Mail,tm56574,MOVIE,1998,PG,119,"[''romance'', ''drama'', ''comedy'']",['US'],tt0128853,6.7,209258,15.015,6.6
+119,Starship Troopers,tm192037,MOVIE,1997,R,129,"[''scifi'', ''thriller'', ''action'']",['US'],tt0120201,7.3,288960,22.126,7
+122,Donnie Brasco,tm191989,MOVIE,1997,R,127,"[''thriller'', ''drama'', ''crime'']",['US'],tt0119008,7.7,300073,14.769,7.5
+124,U.S. Marshals,tm65686,MOVIE,1998,PG-13,126,"[''thriller'', ''crime'', ''action'']",['US'],tt0120873,6.5,103263,28.657,6.5
+126,Wild Things,tm54903,MOVIE,1998,R,108,"[''drama'', ''thriller'', ''crime'', ''european'']",['US'],tt0194542,6.6,118811,22.205,6.3
+127,Last Action Hero,tm187187,MOVIE,1993,PG-13,130,"[''comedy'', ''action'', ''fantasy'']",['US'],tt0107362,6.4,149290,18.865,6.4
+128,Seven Years in Tibet,tm191772,MOVIE,1997,PG-13,136,"[''drama'', ''history'', ''war'']",['US'],tt0120102,7.1,141308,14.442,7.2
+129,The Devil's Advocate,tm191848,MOVIE,1997,,144,"[''horror'', ''thriller'', ''drama'']","[''DE'', ''US'']",tt0118971,7.5,361422,34.774,7.4
+130,A River Runs Through It,tm121879,MOVIE,1992,PG,123,['drama'],['US'],tt0105265,7.2,59086,16.558,7.1
+131,"Girl, Interrupted",tm44402,MOVIE,1999,R,127,"[''drama'', ''european'']","[''US'', ''DE'']",tt0172493,7.3,180532,17.613,7.5
+135,Any Given Sunday,tm53419,MOVIE,1999,R,162,"[''drama'', ''sport'']",['US'],tt0146838,6.9,118479,13.825,6.8
+136,Menace II Society,tm189764,MOVIE,1993,R,97,"[''drama'', ''crime'', ''thriller'']",['US'],tt0107554,7.5,57399,15.347,7.5
+137,Desperado,tm9323,MOVIE,1995,R,104,"[''thriller'', ''action'', ''crime'', ''western'', ''european'']",['US'],tt0112851,7.1,183638,19.718,6.9
+138,The Mask of Zorro,tm46173,MOVIE,1998,PG-13,136,"[''action'', ''thriller'', ''western'', ''comedy'', ''romance'']",['US'],tt0120746,6.8,181306,25.426,6.5
+139,The Patriot,tm19673,MOVIE,2000,R,165,"[''drama'', ''action'', ''history'', ''war'']","[''DE'', ''US'']",tt0187393,7.2,270231,20.438,7.1
+140,Road Trip,tm24877,MOVIE,2000,R,93,['comedy'],['US'],tt0215129,6.5,167670,16.989,6.2
+141,Free Willy,tm189433,MOVIE,1993,PG,112,"[''drama'', ''family'']","[''US'', ''FR'']",tt0106965,6,75244,31.688,6.2
+143,3 Ninjas Kick Back,tm1822,MOVIE,1994,PG,93,"[''action'', ''comedy'', ''family'', ''sport'']","[''US'', ''JP'']",tt15327306,4.5,9208,9.773,5.5
+144,In the Line of Fire,tm187791,MOVIE,1993,R,128,"[''drama'', ''thriller'', ''action'', ''crime'']",['US'],tt0107206,7.2,101939,15.02,7
+145,The Replacements,tm19494,MOVIE,2000,PG-13,118,"[''comedy'', ''sport'']",['US'],tt0191397,6.6,64087,13.465,6.6
+146,Johnny Mnemonic,tm10739,MOVIE,1995,R,97,"[''scifi'', ''thriller'', ''action'', ''drama'']","[''US'', ''CA'']",tt0113481,5.6,71062,11.747,5.7
+147,Little Women,tm113576,MOVIE,1994,PG,115,"[''drama'', ''family'', ''romance'']",['US'],tt0110367,7.3,57621,17.027,7.3
+148,Anaconda,tm191387,MOVIE,1997,PG-13,89,"[''thriller'', ''horror'', ''action'']","[''PE'', ''US'', ''BR'']",tt0118615,4.8,103459,31.57,5.1
+149,My Girl,tm6859,MOVIE,1991,PG,103,"[''comedy'', ''drama'', ''family'', ''romance'', ''european'']",['US'],tt0102492,6.9,79800,21.381,7.4
+150,Cliffhanger,tm186589,MOVIE,1993,R,112,"[''thriller'', ''action'', ''animation'']","[''IT'', ''US'', ''FR'']",tt0106582,6.5,128179,20.292,6.4
+151,I Know What You Did Last Summer,tm191374,MOVIE,1997,R,101,"[''horror'', ''thriller'']",['US'],tt0119345,5.7,142696,18.102,5.9
+152,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,tm8446,MOVIE,1991,PG,88,"[''scifi'', ''action'', ''comedy'', ''family'']","[''US'', ''HK'']",tt0103060,6,55499,16.459,6.1
+154,Hollow Man,tm21596,MOVIE,2000,R,112,"[''scifi'', ''action'', ''horror'', ''thriller'']","[''DE'', ''US'']",tt0164052,5.8,130099,24.125,5.9
+155,Godzilla,tm48430,MOVIE,1998,PG-13,133,"[''thriller'', ''scifi'', ''action'']",['US'],tt0120685,5.4,191722,38.87,5.6
+157,Spawn,tm192199,MOVIE,1997,PG-13,96,"[''fantasy'', ''horror'', ''scifi'', ''thriller'', ''action'', ''drama'']",['US'],tt0120177,5.2,67761,15.124,5.3
+158,Dennis the Menace,tm184205,MOVIE,1993,PG,95,"[''comedy'', ''family'']",['US'],tt0106701,5.6,60779,24.079,5.8
+159,The Net,tm12499,MOVIE,1995,PG-13,114,"[''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt0113957,5.9,66127,11.838,6
+160,The Devil's Own,tm192431,MOVIE,1997,R,107,"[''thriller'', ''drama'', ''action'', ''crime'', ''european'']",['US'],tt0962637,6.2,64625,11.387,6.1
+162,Teenage Mutant Ninja Turtles III,tm190486,MOVIE,1993,PG,96,"[''fantasy'', ''scifi'', ''action'', ''comedy'', ''family'']","[''HK'', ''US'']",tt0108308,4.7,33128,15.356,5.4
+163,The General's Daughter,tm61103,MOVIE,1999,R,116,"[''drama'', ''crime'', ''thriller'']","[''US'', ''DE'']",tt0144214,6.4,58726,11.976,6.4
+164,The Next Karate Kid,tm117488,MOVIE,1994,PG,107,"[''drama'', ''family'', ''romance'', ''sport'', ''action'']",['US'],tt0110657,4.5,30138,20.882,5.3
+165,I Still Know What You Did Last Summer,tm55732,MOVIE,1998,R,100,"[''thriller'', ''horror'']",['US'],tt0130018,4.7,73269,17.756,5.3
+166,Double Team,tm191431,MOVIE,1997,R,93,"[''scifi'', ''action'', ''comedy'', ''thriller'']","[''US'', ''HK'']",tt0119013,4.7,34127,12.697,5.1
+167,Under Suspicion,tm17721,MOVIE,2000,R,110,"[''thriller'', ''crime'', ''drama'', ''european'']",['US'],tt0164212,6.5,25432,11.459,6.1
+171,Geronimo: An American Legend,tm190811,MOVIE,1993,PG-13,115,"[''western'', ''drama'', ''history'']",['US'],tt0107004,6.5,11506,10.551,6.3
+172,The Mirror Has Two Faces,tm107659,MOVIE,1996,PG-13,126,"[''romance'', ''comedy'', ''drama'']",['US'],tt0117057,6.6,19829,8.391,6.7
+174,Bill Hicks: One Night Stand,tm7135,MOVIE,1991,NC-17,30,['comedy'],['US'],,,,1.08,7.5
+175,Knight Rider 2000,tm7073,MOVIE,1991,G,91,"[''action'', ''scifi'']",['US'],tt0102227,4.5,3178,8.52,5.1
+176,The Last Days,tm63514,MOVIE,1998,PG-13,87,"[''drama'', ''documentation'', ''war'']",['US'],tt0174852,7.9,4247,4.869,7.8
+178,Heavy,tm10811,MOVIE,1995,R,105,"[''romance'', ''drama'']",['US'],tt0113280,6.8,4921,5.31,6.8
+180,Sankofa,tm188606,MOVIE,1993,,124,"[''drama'', ''european'']","[''GH'', ''GB'', ''US'', ''BF'', ''DE'']",tt0108041,7,678,2.783,6.5
+183,Jerry Seinfeld: I'm Telling You for the Last Time,tm64817,MOVIE,1998,G,75,"[''comedy'', ''documentation'']",['US'],tt0500140,7.9,5834,5.834,7.6
+190,Tim Allen: Rewires America,tm7951,MOVIE,1991,PG,30,"[''comedy'', ''documentation'']",['US'],tt0294967,5.9,195,1.339,7
+197,A Triumph of the Heart: The Ricky Bell Story,tm424630,MOVIE,1991,,100,"[''drama'', ''sport'']",['US'],tt0103123,7.2,248,3.255,5.1
+208,Nightmare in Columbia County,tm7810,MOVIE,1991,,100,"[''drama'', ''crime'', ''thriller'']",['US'],tt0102537,5.5,341,1.603,6
+210,Sam Kinison: Family Entertainment Hour,tm8687,MOVIE,1991,,49,['comedy'],['US'],,,,2.545,6
+221,Sam Kinison: Live in Vegas,tm21911,MOVIE,1991,,72,"[''comedy'', ''music'', ''documentation'']",['US'],tt0249934,6.6,272,1.37,6
+224,Monty Python: Live at Aspen,tm57169,MOVIE,1998,,58,"[''comedy'', ''documentation'']","[''US'', ''GB'']",tt0287570,7.8,1092,3.291,6.9
+225,Sinbad: Afros and Bellbottoms,tm184224,MOVIE,1993,PG-13,59,"[''comedy'', ''documentation'']",['US'],tt0938331,7.8,166,2.935,5.5
+227,Sinbad: Son of a Preacher Man,tm104933,MOVIE,1996,,56,"[''comedy'', ''documentation'']",['US'],tt0938333,6.7,115,2.328,5.8
+234,Chronicle of a Disappearance,tm110766,MOVIE,1996,,88,['drama'],"[''US'', ''FR'', ''DE'', ''PS'']",tt0115895,6.9,718,1.958,6.7
+236,Sinbad: Nothin' but the Funk,tm64729,MOVIE,1998,,55,"[''comedy'', ''documentation'']",['US'],tt0938332,6.2,65,1.822,5.3
+254,Forgetting Sarah Marshall,tm33545,MOVIE,2008,R,111,"[''comedy'', ''drama'', ''romance'']",['US'],tt0800039,7.1,280121,18.358,6.5
+255,War of the Worlds,tm172683,MOVIE,2005,PG-13,117,"[''thriller'', ''action'', ''scifi'']",['US'],tt0407304,6.5,439027,38.657,6.5
+260,Inception,tm92641,MOVIE,2010,PG-13,148,"[''scifi'', ''music'', ''thriller'', ''action'']","[''GB'', ''US'']",tt1375666,8.8,2268288,109.09,8.4
+261,The Other Guys,tm102740,MOVIE,2010,,107,"[''crime'', ''action'', ''comedy'']",['US'],tt1386588,6.6,263019,50.29,6.3
+262,How to Train Your Dragon,tm87484,MOVIE,2010,PG,98,"[''fantasy'', ''animation'', ''action'', ''comedy'', ''family'', ''drama'']",['US'],tt0892769,8.1,719717,71.782,7.8
+264,Casino Royale,tm39030,MOVIE,2006,,139,"[''thriller'', ''action'', ''european'']","[''GB'', ''US'', ''BS'', ''CZ'', ''DE'']",tt0381061,8,644336,41.332,7.5
+265,Michael Clayton,tm78592,MOVIE,2007,R,120,"[''thriller'', ''crime'', ''drama'']",['US'],tt0465538,7.2,163878,11.418,6.7
+268,Jackass: The Movie,tm116324,MOVIE,2002,R,88,"[''action'', ''comedy'', ''documentation'']",['US'],tt0322802,6.6,92305,30.13,6.3
+271,Zoolander,tm34310,MOVIE,2001,PG-13,90,"[''comedy'', ''european'']","[''US'', ''DE'']",tt0196229,6.5,260975,19.411,6.2
+273,Charlie and the Chocolate Factory,tm160815,MOVIE,2005,PG,106,"[''fantasy'', ''comedy'', ''family'']","[''GB'', ''US'', ''AU'']",tt0367594,6.6,465995,156.231,7
+274,Cleaner,tm78671,MOVIE,2007,R,88,"[''thriller'', ''crime'']",['US'],tt0896798,6.1,41052,9.202,6
+275,Harold & Kumar Go to White Castle,tm89036,MOVIE,2004,R,88,['comedy'],['US'],tt0366551,7,193053,15.067,6.5
+276,The Social Network,tm86803,MOVIE,2010,PG-13,121,['drama'],['US'],tt1285016,7.8,681286,33.023,7.3
+277,Road to Perdition,tm105329,MOVIE,2002,R,117,"[''thriller'', ''documentation'', ''crime'', ''drama'']",['US'],tt0257044,7.7,263212,17.73,7.4
+279,Blow,tm35463,MOVIE,2001,R,124,"[''drama'', ''crime'']",['US'],tt0221027,7.5,255099,19.789,7.4
+280,Shooter,tm84371,MOVIE,2007,R,124,"[''thriller'', ''action'', ''drama'']",['US'],tt0822854,7.2,329417,42.882,7.1
+281,Big Fish,tm139658,MOVIE,2003,PG-13,125,"[''drama'', ''fantasy'', ''romance'']",['US'],tt0319061,8,435503,21.904,7.8
+282,The Bourne Ultimatum,tm79442,MOVIE,2007,PG-13,115,"[''thriller'', ''action'']","[''DE'', ''ES'', ''US'', ''FR'']",tt0440963,8,627009,25.464,7.4
+283,Public Enemies,tm131038,MOVIE,2009,R,143,"[''crime'', ''drama'', ''history'', ''action'', ''european'']",['US'],tt1152836,7,297525,111.535,6.7
+285,Sherlock Holmes,tm154187,MOVIE,2009,PG-13,129,"[''crime'', ''action'', ''thriller'']","[''GB'', ''US'', ''AU'', ''DE'']",tt0988045,7.6,620154,28.317,7.2
+286,Love Actually,tm133767,MOVIE,2003,R,139,"[''drama'', ''comedy'', ''romance'']","[''GB'', ''US'']",tt0314331,7.6,474176,21.297,7.1
+287,Closer,tm88738,MOVIE,2004,R,94,"[''drama'', ''romance'']","[''GB'', ''US'']",tt0376541,7.2,215678,55.362,6.8
+289,Something's Gotta Give,tm148270,MOVIE,2003,PG-13,128,"[''romance'', ''drama'', ''comedy'']",['US'],tt0337741,6.7,120400,15.068,6.6
+290,Grown Ups,tm93055,MOVIE,2010,PG-13,102,"[''comedy'', ''drama'', ''european'']",['US'],tt1375670,5.9,247229,95.229,6.3
+291,The Blind Side,tm133374,MOVIE,2009,PG-13,129,"[''drama'', ''sport'']",['US'],tt0878804,7.6,323939,63.816,7.7
+292,Quantum of Solace,tm26897,MOVIE,2008,PG-13,106,"[''thriller'', ''action'']","[''GB'', ''US'']",tt0830515,6.6,441023,30.147,6.3
+293,The Ring,tm109304,MOVIE,2002,PG-13,111,"[''horror'', ''european'']","[''JP'', ''US'']",tt0298130,7.1,341888,37.892,6.6
+295,Into the Wild,tm76066,MOVIE,2007,R,140,['drama'],['US'],tt0758758,8.1,611379,15.658,7.8
+296,True Grit,tm90190,MOVIE,2010,PG-13,110,"[''western'', ''drama'']",['US'],tt1403865,7.6,333378,16.059,7.3
+297,Blade Runner: The Final Cut,tm997728,MOVIE,2007,R,117,"[''action'', ''thriller'', ''scifi'']",['US'],,,,0.055091,9
+298,Rambo,tm29737,MOVIE,2008,R,92,"[''thriller'', ''action'', ''war'', ''european'']","[''US'', ''DE'']",tt0462499,7,228799,58.435,6.6
+299,Stardust,tm84906,MOVIE,2007,PG-13,122,"[''fantasy'', ''romance'', ''family'']","[''US'', ''IS'', ''GB'']",tt0486655,7.6,269043,17.538,7.2
+301,The Last Samurai,tm142086,MOVIE,2003,R,154,"[''drama'', ''history'', ''war'', ''action'']","[''NZ'', ''JP'', ''US'']",tt0325710,7.8,429097,33.643,7.5
+304,The Book of Eli,tm95252,MOVIE,2010,R,118,"[''thriller'', ''action'', ''drama'', ''european'']",['US'],tt1037705,6.8,312538,25.45,6.8
+305,Identity,tm136808,MOVIE,2003,R,90,['thriller'],['US'],tt0340770,7.3,240433,16.442,7.2
+307,Apocalypse Now Redux,tm195620,MOVIE,2001,R,196,"[''drama'', ''war'', ''thriller'', ''horror'']",['US'],,,,4.147341,9.8
+308,Shrek Forever After,tm109137,MOVIE,2010,PG,93,"[''fantasy'', ''comedy'', ''family'', ''romance'', ''animation'']",['US'],tt0892791,6.3,200354,89.833,6.3
+309,Hairspray,tm84613,MOVIE,2007,PG,117,"[''comedy'', ''drama'', ''romance'']","[''US'', ''GB'']",tt0427327,6.7,128190,11.48,6.7
+310,Corpse Bride,tm173551,MOVIE,2005,PG,77,"[''fantasy'', ''romance'', ''animation'', ''drama'', ''family'']",['US'],tt0121164,7.3,265023,96.975,7.5
+311,Let Me In,tm94606,MOVIE,2010,R,116,"[''horror'', ''drama'', ''fantasy'', ''thriller'', ''european'']","[''GB'', ''US'']",tt1228987,7.1,120208,24.49,6.8
+312,Monster,tm136308,MOVIE,2003,R,110,"[''crime'', ''drama'', ''thriller'', ''european'']",['US'],tt0340855,7.3,149218,16.951,7.2
+313,Without a Paddle,tm82985,MOVIE,2004,PG-13,95,"[''thriller'', ''comedy'']",['US'],tt0364751,5.8,47049,13.29,5.5
+314,Once Upon a Time in Mexico,tm145593,MOVIE,2003,R,102,"[''drama'', ''action'', ''crime'', ''thriller'']",['US'],tt0285823,6.3,160449,14.895,6.3
+315,Cloudy with a Chance of Meatballs,tm150260,MOVIE,2009,PG,90,"[''animation'', ''drama'', ''romance'', ''comedy'', ''family'', ''fantasy'', ''scifi'']",['US'],tt0844471,6.9,226225,54.58,6.6
+317,Blade II,tm119111,MOVIE,2002,R,117,"[''thriller'', ''fantasy'', ''scifi'', ''action'', ''horror'']",['US'],tt0187738,6.7,214461,50.32,6.5
+318,Chloe,tm130647,MOVIE,2009,R,99,"[''thriller'', ''drama'', ''romance'', ''european'']","[''US'', ''CA'', ''FR'']",tt1352824,6.3,72916,10.688,6
+319,Blood Diamond,tm32919,MOVIE,2006,R,143,"[''thriller'', ''drama'']","[''US'', ''DE'']",tt0450259,8,536858,40.209,7.5
+320,The Lake House,tm23935,MOVIE,2006,PG,105,"[''drama'', ''fantasy'', ''romance'', ''documentation'']",['US'],tt0410297,6.8,148043,15.36,6.9
+321,Terminator 3: Rise of the Machines,tm137143,MOVIE,2003,R,109,"[''thriller'', ''scifi'', ''action'', ''european'']","[''GB'', ''US'', ''DE'']",tt0181852,6.3,393998,38.918,6.1
+322,Beerfest,tm28905,MOVIE,2006,R,110,['comedy'],['US'],tt0486551,6.2,67748,12.377,6
+323,Heist,tm44486,MOVIE,2001,R,107,"[''thriller'', ''drama'', ''action'', ''crime'', ''european'']",['US'],tt0252503,6.5,36361,12.634,6.3
+324,Catch and Release,tm39487,MOVIE,2006,PG-13,111,"[''romance'', ''comedy'', ''drama'']",['US'],tt0395495,5.9,26157,9.67,5.9
+325,Just Like Heaven,tm169949,MOVIE,2005,PG-13,95,"[''drama'', ''romance'', ''fantasy'', ''comedy'']",['US'],tt0425123,6.7,106755,12.741,6.9
+327,Four Brothers,tm184913,MOVIE,2005,R,109,"[''crime'', ''action'', ''drama'', ''thriller'']",['US'],tt0430105,6.8,144656,28.154,6.7
+328,John Q,tm118637,MOVIE,2002,PG-13,116,"[''drama'', ''thriller'', ''crime'']",['US'],tt0251160,7,131999,17.663,7.2
+329,Not Another Teen Movie,tm58382,MOVIE,2001,R,89,['comedy'],['US'],tt0277371,5.7,104604,27.273,5.8
+330,21,tm40009,MOVIE,2008,PG-13,123,"[''drama'', ''crime'', ''history'', ''thriller'']",['US'],tt0478087,6.8,247039,40.786,6.7
+332,Terminator Salvation,tm154470,MOVIE,2009,PG-13,110,"[''thriller'', ''scifi'', ''fantasy'', ''war'', ''action'']","[''US'', ''DE'', ''IT'', ''GB'']",tt0438488,6.5,357557,72.272,6
+333,Deck the Halls,tm22294,MOVIE,2006,PG,93,"[''comedy'', ''family'']",['US'],tt0790604,5,27797,13.817,5.5
+334,The Girl Next Door,tm78067,MOVIE,2007,R,91,"[''thriller'', ''drama'', ''crime'', ''horror'']",['US'],tt0830558,6.5,26035,13.823,6.6
+335,The Cat in the Hat,tm148379,MOVIE,2003,PG,81,"[''fantasy'', ''comedy'', ''family'']",['US'],tt0312528,4,81971,69.974,5.3
+336,Jackass 2.5,tm76428,MOVIE,2007,,64,"[''documentation'', ''comedy'']",['US'],,,,20.424,6.1
+337,Final Destination 3,tm21467,MOVIE,2006,R,93,"[''horror'', ''thriller'', ''action'', ''crime'', ''fantasy'', ''european'']","[''CA'', ''DE'', ''US'']",tt0414982,5.8,139797,50.649,6.1
+338,Thir13en Ghosts,tm46436,MOVIE,2001,R,91,"[''thriller'', ''horror'', ''fantasy'']","[''CA'', ''US'']",tt0245674,5.6,86492,46.785,6.2
+339,The One,tm57190,MOVIE,2001,PG-13,87,"[''scifi'', ''thriller'', ''action'']",['US'],tt0267804,5.9,91584,21.013,6.1
+342,Coach Carter,tm159310,MOVIE,2005,PG-13,130,"[''drama'', ''sport'', ''european'']","[''US'', ''DE'']",tt0393162,7.3,143670,26.022,7.5
+343,Blade: Trinity,tm89592,MOVIE,2004,R,106,"[''action'', ''thriller'', ''fantasy'', ''horror'', ''scifi'']",['US'],tt0359013,5.8,175210,34.514,5.9
+344,Monster-in-Law,tm167516,MOVIE,2005,PG-13,101,"[''romance'', ''comedy'']","[''US'', ''DE'']",tt0369735,5.5,60693,18.681,6.2
+345,Halloween,tm79895,MOVIE,2007,R,109,['horror'],['US'],tt0373883,6,118815,30.617,6.2
+346,How Do You Know,tm88045,MOVIE,2010,PG-13,121,"[''drama'', ''comedy'', ''romance'']",['US'],tt1341188,5.4,49599,11.864,5.3
+347,The Sweetest Thing,tm111600,MOVIE,2002,R,84,"[''comedy'', ''romance'']",['US'],tt0253867,5.1,58516,11.061,5.5
+348,The Final Destination,tm143938,MOVIE,2009,R,82,"[''horror'', ''fantasy'', ''scifi'', ''action'', ''thriller'']",['US'],tt1144884,5.1,104166,51.108,5.6
+349,The Other Boleyn Girl,tm31187,MOVIE,2008,PG-13,115,"[''romance'', ''drama'', ''history'']","[''GB'', ''US'']",tt0467200,6.7,111694,18.67,6.6
+350,Friday the 13th,tm141390,MOVIE,2009,R,97,"[''horror'', ''thriller'']",['US'],tt0758746,5.5,105938,42.83,5.8
+351,The Bucket List,tm74780,MOVIE,2007,PG-13,97,"[''drama'', ''comedy'', ''european'']",['US'],tt0825232,7.4,242733,19.365,7.2
+352,Freddy vs. Jason,tm150214,MOVIE,2003,R,97,"[''horror'', ''action'']","[''IT'', ''US'']",tt0329101,5.7,117986,50.824,6
+354,Memoirs of a Geisha,tm176528,MOVIE,2005,PG-13,145,"[''drama'', ''romance'', ''european'']","[''FR'', ''JP'', ''US'']",tt0397535,7.3,146847,25.556,7.7
+355,A Nightmare on Elm Street,tm102337,MOVIE,2010,R,95,"[''horror'', ''thriller'', ''crime'', ''drama'']",['US'],tt1179056,5.2,99192,46.304,5.5
+356,Body of Lies,tm36188,MOVIE,2008,R,128,"[''drama'', ''action'', ''thriller'']","[''GB'', ''US'']",tt0758774,7.1,224896,16.693,6.6
+357,A Cinderella Story,tm88382,MOVIE,2004,PG,95,"[''romance'', ''comedy'', ''family'']","[''CA'', ''US'']",tt0356470,5.9,86395,31.774,6.5
+359,Osmosis Jones,tm47523,MOVIE,2001,PG,95,"[''animation'', ''action'', ''comedy'', ''crime'', ''family'', ''fantasy'', ''scifi'']",['US'],tt0181739,6.3,35711,14.652,6.5
+360,Scary Movie 4,tm24088,MOVIE,2006,PG-13,83,"[''comedy'', ''horror'']",['US'],tt0362120,5.1,120188,45.906,5.5
+361,The Texas Chainsaw Massacre,tm137362,MOVIE,2003,R,98,"[''horror'', ''crime'']",['US'],tt0324216,6.2,140741,73.702,6.2
+362,Fun with Dick and Jane,tm177068,MOVIE,2005,PG-13,90,"[''comedy'', ''crime'']",['US'],tt0369441,6.1,143998,15.505,6.2
+363,TMNT,tm82442,MOVIE,2007,PG,87,"[''animation'', ''comedy'', ''family'', ''fantasy'', ''scifi'', ''action'']","[''US'', ''HK'']",tt0453556,6.2,64062,22.181,6.1
+364,Due Date,tm90864,MOVIE,2010,R,95,"[''drama'', ''comedy'']",['US'],tt1231583,6.5,339626,31.661,6.3
+365,Cop Out,tm101249,MOVIE,2010,R,107,"[''comedy'', ''thriller'', ''action'', ''crime'']",['US'],tt1385867,5.5,87673,10.863,5.6
+373,New York Minute,tm89684,MOVIE,2004,PG,87,"[''comedy'', ''crime'', ''family'', ''romance'']",['US'],tt0363282,4.8,23307,10.357,6.2
+376,Dreamer: Inspired By a True Story,tm183963,MOVIE,2005,PG,106,"[''drama'', ''family'', ''sport'', ''fantasy'']",['US'],tt0487897,6.8,13034,10.751,6.9
+377,Monster House,tm27268,MOVIE,2006,PG,91,"[''fantasy'', ''animation'', ''comedy'', ''family'']",['US'],tt0385880,6.6,114942,47.456,6.6
+378,Starsky & Hutch,tm81270,MOVIE,2004,PG-13,101,"[''comedy'', ''crime'']",['US'],tt0335438,6.1,145981,14.252,5.8
+379,Tears of the Sun,tm137342,MOVIE,2003,R,121,"[''drama'', ''thriller'', ''war'', ''action'']",['US'],tt0314353,6.6,121066,33.904,6.8
+382,The Cave,tm161263,MOVIE,2005,PG-13,97,"[''horror'', ''thriller'', ''scifi'', ''action'', ''european'']","[''DE'', ''US'']",tt0403424,5.1,38445,15.813,5.3
+384,The Texas Chainsaw Massacre: The Beginning,tm26638,MOVIE,2006,R,91,"[''horror'', ''thriller'', ''documentation'']",['US'],tt0420294,5.8,72366,63.011,6.1
+385,I Am Sam,tm55303,MOVIE,2001,PG-13,132,['drama'],['US'],tt0277027,7.6,149082,18.529,7.6
+386,The Spiderwick Chronicles,tm31189,MOVIE,2008,PG,96,"[''fantasy'', ''thriller'', ''action'', ''drama'', ''family'']",['US'],tt0416236,6.5,94628,30.838,6.6
+387,Rumor Has It...,tm165593,MOVIE,2005,PG-13,97,"[''comedy'', ''drama'', ''romance'']",['US'],tt0398375,5.5,57894,13.404,5.6
+390,I Now Pronounce You Chuck & Larry,tm78767,MOVIE,2007,PG-13,115,"[''comedy'', ''romance'']",['US'],tt0762107,5.9,146625,46.06,6
+392,World Trade Center,tm36644,MOVIE,2006,PG-13,129,"[''thriller'', ''history'', ''drama'']",['US'],tt0469641,6,83129,15.774,6.1
+393,Premonition,tm77649,MOVIE,2007,PG-13,96,"[''thriller'', ''drama'', ''fantasy'']",['US'],tt0477071,5.9,78119,18.308,6.3
+395,Eagle Eye,tm33113,MOVIE,2008,PG-13,118,"[''thriller'', ''action'', ''european'']","[''US'', ''DE'']",tt1059786,6.6,185430,14.168,6.4
+396,The Contractor,tm78189,MOVIE,2007,R,105,"[''thriller'', ''european'']","[''BG'', ''GB'', ''US'']",,,,12.99,5.6
+398,The Men Who Stare at Goats,tm147211,MOVIE,2009,R,94,"[''comedy'', ''war'']","[''GB'', ''US'']",tt1234548,6.2,131564,17.344,6
+400,Friends with Money,tm29555,MOVIE,2006,R,88,"[''romance'', ''comedy'', ''drama'']",['US'],tt0436331,5.8,30186,11.389,5.1
+401,Legend of the Guardians: The Owls of Ga'Hoole,tm93225,MOVIE,2010,PG,100,"[''fantasy'', ''family'', ''action'', ''war'', ''drama'', ''thriller'', ''animation'']","[''US'', ''AU'']",tt1219342,6.9,82623,21.915,6.8
+403,Good Luck Chuck,tm86189,MOVIE,2007,,101,"[''comedy'', ''romance'']","[''CA'', ''US'']",tt0452625,5.6,89755,23.64,5.9
+405,Louis C.K.: Hilarious,tm104880,MOVIE,2010,,84,['comedy'],['US'],tt1421373,8.4,11973,7.387,7.9
+406,Death at a Funeral,tm101334,MOVIE,2010,R,92,['comedy'],['US'],tt1321509,5.6,49599,11.687,5.8
+407,Gifted Hands: The Ben Carson Story,tm135451,MOVIE,2009,,86,['drama'],['US'],tt1295085,7.6,10210,36.942,7.8
+409,No Direction Home: Bob Dylan,tm186461,MOVIE,2005,G,208,"[''music'', ''documentation'']","[''GB'', ''US'', ''JP'']",,,,8.676,7.7
+411,Blood and Bone,tm141707,MOVIE,2009,R,93,"[''thriller'', ''action'', ''crime'', ''drama'', ''sport'']",['US'],tt0346631,6.7,33051,26.858,7.4
+418,Felon,tm27168,MOVIE,2008,R,103,"[''crime'', ''thriller'', ''drama'', ''action'']",['US'],tt1117385,7.4,78039,12.24,7.2
+421,Stuart Little 2,tm114476,MOVIE,2002,G,78,"[''comedy'', ''fantasy'', ''animation'', ''family'']",['US'],tt0243585,5.5,53746,32.09,5.7
+424,Did You Hear About the Morgans?,tm130574,MOVIE,2009,PG-13,103,"[''comedy'', ''romance'', ''drama'']",['US'],tt1314228,4.9,40289,8.795,5.4
+429,Chaos,tm160800,MOVIE,2005,R,106,"[''action'', ''crime'', ''drama'', ''thriller'', ''european'']","[''GB'', ''US'', ''CA'']",tt0402910,6.4,54633,27.157,6.3
+431,Katt Williams: The Pimp Chronicles Pt. 1,tm22493,MOVIE,2006,,46,"[''comedy'', ''documentation'']",['US'],tt0865482,7.6,1780,2.581,6.3
+433,Comedian,tm112381,MOVIE,2002,R,82,"[''comedy'', ''documentation'']",['US'],tt0328962,6.9,6948,5.927,6.7
+434,Delta Farce,tm71119,MOVIE,2007,PG-13,90,"[''action'', ''comedy'']",['US'],tt0800003,3.6,11138,8.685,5
+436,Christmas with the Kranks,tm86995,MOVIE,2004,PG,99,"[''comedy'', ''family'']",['US'],tt0388419,5.4,49090,13.399,6.1
+438,Love Happens,tm137530,MOVIE,2009,PG-13,109,"[''drama'', ''romance'']","[''CA'', ''GB'', ''US'']",tt4809870,5.6,32837,14.783,5.9
+446,Open Season 2,tm53999,MOVIE,2008,PG,76,['comedy'],['US'],,,,18.986,5.8
+448,Jeff Dunham: Arguing with Myself,tm30289,MOVIE,2006,PG-13,76,"[''comedy'', ''documentation'']",['US'],tt0806102,8,3984,4.891,6.7
+449,From Within,tm38896,MOVIE,2008,R,89,"[''thriller'', ''horror'', ''documentation'', ''war'', ''european'']",['US'],tt1063056,5.6,7585,9.543,5.6
+451,And Then Came Lola,tm156001,MOVIE,2009,PG,71,"[''comedy'', ''drama'', ''romance'']",['US'],tt1123894,3.9,1683,5.896,5.4
+461,I Will Follow,tm165259,MOVIE,2010,PG-13,76,['drama'],['US'],tt1624426,5.9,865,4.098,5.7
+462,Alpha and Omega,tm97544,MOVIE,2010,PG,88,"[''animation'', ''romance'', ''comedy'', ''family'']","[''IN'', ''CA'', ''US'']",tt1213012,5.1,14272,16.15,5.8
+465,Waist Deep,tm22342,MOVIE,2006,R,97,"[''thriller'', ''drama'', ''crime'', ''action'']",['US'],tt0456020,5.8,9957,10.736,6.6
+467,First Sunday,tm41508,MOVIE,2008,PG-13,96,"[''comedy'', ''crime'', ''drama'']",['US'],tt0486578,4.5,10834,10.605,5.7
+469,This Is the Life,tm52352,MOVIE,2008,,97,"[''documentation'', ''music'']",['US'],tt1178658,6.3,263,2.163,7.4
+470,My Suicide,tm170873,MOVIE,2009,R,107,"[''comedy'', ''drama'']",['US'],tt0492896,7,1936,5.485,6.1
+475,Zach Galifianakis: Live at the Purple Onion,tm75022,MOVIE,2007,,61,['comedy'],['US'],,,,6.223,7
+477,Jim Gaffigan: Beyond the Pale,tm22989,MOVIE,2006,,72,"[''comedy'', ''documentation'']",['US'],tt0815456,7.9,3940,4.223,7.1
+493,Linewatch,tm31564,MOVIE,2008,R,90,"[''thriller'', ''crime'', ''drama'']",['US'],tt1047832,5.4,2862,5.456,5.2
+494,The Boy Who Cried Werewolf,tm95238,MOVIE,2010,G,97,"[''fantasy'', ''horror'', ''comedy'', ''family'']","[''US'', ''CA'']",tt1451423,5.9,3264,12.362,6.5
+495,Dostana,tm54147,MOVIE,2008,PG-13,145,"[''drama'', ''comedy'', ''romance'']","[''US'', ''IN'']",tt1185420,6.5,14944,6.172,6.2
+496,Whitney Cummings: Money Shot,tm99776,MOVIE,2010,,48,"[''comedy'', ''documentation'']",['US'],tt1659261,6.2,907,2,5.9
+500,Mike Birbiglia: What I Should Have Said Was Nothing,tm59880,MOVIE,2008,,60,['comedy'],['US'],tt1188112,7.6,1789,4.893,7.5
+509,Swades,tm82765,MOVIE,2004,G,189,"[''drama'', ''european'']","[''IN'', ''US'']",tt0367110,8.1,89085,7.152,7.4
+519,A Lion in the House,tm25842,MOVIE,2006,,225,['documentation'],['US'],tt0492472,8.7,312,2.821,6.5
+525,Kevin James: Sweat the Small Stuff,tm44634,MOVIE,2001,,42,"[''comedy'', ''documentation'']",['US'],tt0305727,7.4,1083,3.702,7.4
+529,Jim Gaffigan: King Baby,tm139349,MOVIE,2009,,72,"[''comedy'', ''documentation'']",['US'],tt1390471,7.7,2548,6.123,7
+537,Sir! No Sir!,tm175687,MOVIE,2005,,85,"[''war'', ''documentation'']",['US'],tt0469589,7.6,778,1.911,7
+544,Jeff Dunham's Very Special Christmas Special,tm38454,MOVIE,2008,PG-13,85,"[''comedy'', ''documentation'']",['US'],tt1295909,7.4,3028,4.188,7
+552,Kevin Hart: I'm a Grown Little Man,tm147686,MOVIE,2009,R,72,"[''comedy'', ''documentation'']",['US'],tt1420554,7.5,4333,7.107,7.3
+560,Splatter,tm352863,MOVIE,2009,,29,['horror'],['US'],tt6999072,,,2.047,3.4
+564,Doing Hard Time,tm84348,MOVIE,2004,R,95,['crime'],['US'],,,,6.132,5.4
+565,Sergio,tm144835,MOVIE,2009,,94,['documentation'],['US'],tt1333656,7.4,880,3.644,8.1
+594,Spookley the Square Pumpkin,tm80487,MOVIE,2004,G,47,"[''family'', ''animation'']",['US'],,,,3.355,4.6
+638,Frank & Cindy,tm241875,MOVIE,2007,,73,"[''documentation'', ''music'', ''drama'']",['US'],tt0986354,7,344,0.86,7
+640,Ezra,tm85563,MOVIE,2007,,105,"[''drama'', ''european'']","[''NG'', ''GB'', ''US'', ''AT'', ''FR'', ''DE'']",tt0923688,6.4,274,3.384,5.7
+650,Anchor Baby,tm456581,MOVIE,2010,,95,"[''documentation'', ''drama'', ''thriller'']",['US'],tt3296300,6.3,79,0.84,6
+654,Interview with a Serial Killer,tm352243,MOVIE,2008,PG-13,44,"[''documentation'', ''crime'']",['US'],tt6978288,5.9,595,1.543,5.1
+679,Ijé: The Journey,tm91176,MOVIE,2010,,106,['drama'],"[''NG'', ''US'']",tt1578582,7,108,1.035,
+690,Tango with Me,tm639940,MOVIE,2010,,104,"[''drama'', ''family'', ''romance'']",['US'],tt1686795,6.3,46,0.6,
+691,To and from New York,tm404676,MOVIE,2006,,82,[],['US'],,,,1.889,5.8
+697,Brother's Shadow,tm252951,MOVIE,2006,,91,['drama'],['US'],tt0468458,6.1,147,1.698,7
+701,Hop,tm170758,MOVIE,2011,PG,95,"[''comedy'', ''fantasy'', ''animation'', ''family'']",['US'],tt1411704,5.4,33734,12.008,5.7
+702,"Crazy, Stupid, Love.",tm166064,MOVIE,2011,PG-13,118,"[''romance'', ''comedy'', ''drama'']",['US'],tt1570728,7.4,507878,30.363,7.3
+705,Margin Call,tm170442,MOVIE,2011,R,107,"[''thriller'', ''drama'']",['US'],tt1615147,7.1,125883,17.311,6.8
+706,Django Unchained,tm41792,MOVIE,2012,R,165,"[''western'', ''drama'']",['US'],tt1853728,8.4,1472668,56.588,8.1
+708,Looper,tm50018,MOVIE,2012,R,119,"[''thriller'', ''scifi'', ''drama'', ''crime'', ''action'']",['US'],tt1276104,7.4,566791,48.347,6.9
+711,Argo,tm60292,MOVIE,2012,R,120,"[''drama'', ''thriller'']","[''US'', ''GB'']",tt1024648,7.7,600392,17.419,7.3
+713,Midnight in Paris,tm164877,MOVIE,2011,PG-13,94,"[''fantasy'', ''romance'', ''comedy'']","[''US'', ''ES'']",tt1605783,7.7,413541,26.775,7.5
+716,Warrior,tm166548,MOVIE,2011,PG-13,140,"[''drama'', ''action'', ''sport'']",['US'],tt1291584,8.2,463276,74.092,7.8
+718,Les Misérables,tm32982,MOVIE,2012,PG-13,157,"[''drama'', ''romance'', ''history'', ''war'']","[''GB'', ''US'']",tt1707386,7.5,325132,18,7.3
+720,The Girl with the Dragon Tattoo,tm161802,MOVIE,2011,R,158,"[''crime'', ''thriller'', ''drama'']","[''NO'', ''SE'', ''US'']",tt1568346,7.8,454917,23.091,7.4
+721,Contagion,tm158304,MOVIE,2011,PG-13,106,"[''thriller'', ''scifi'', ''action'', ''drama'']","[''US'', ''AE'']",tt1598778,6.8,300074,26.205,6.6
+722,Battleship,tm72140,MOVIE,2012,PG-13,131,"[''scifi'', ''thriller'', ''action'', ''documentation'']",['US'],tt1440129,5.8,246008,44.046,5.8
+723,Killing Them Softly,tm37153,MOVIE,2012,R,104,"[''crime'', ''thriller'', ''drama'']",['US'],tt1767297,6.2,141289,15.681,6
+724,Just Go with It,tm160433,MOVIE,2011,PG-13,117,"[''romance'', ''comedy'']",['US'],tt1564367,6.4,239367,89.01,6.6
+725,Dark Shadows,tm39896,MOVIE,2012,PG-13,113,"[''comedy'', ''fantasy'', ''horror'']",['US'],tt1077368,6.2,262998,53.366,6
+726,Sherlock Holmes: A Game of Shadows,tm178201,MOVIE,2011,PG-13,129,"[''crime'', ''thriller'', ''action'']","[''US'', ''GB'']",tt1515091,7.4,446531,47.884,7.1
+727,Silver Linings Playbook,tm59428,MOVIE,2012,R,122,"[''drama'', ''romance'', ''comedy'']",['US'],tt1045658,7.7,697481,26.254,7.1
+730,Sucker Punch,tm176356,MOVIE,2011,PG-13,110,"[''fantasy'', ''thriller'', ''action'']","[''US'', ''CA'']",tt0978764,6,241111,73.193,6.1
+731,Jackass 3.5,tm176507,MOVIE,2011,,85,"[''action'', ''comedy'', ''documentation'']",['US'],,,,21.659,6.3
+734,Total Recall,tm74848,MOVIE,2012,PG-13,120,"[''thriller'', ''scifi'', ''crime'', ''action'']","[''CA'', ''US'']",tt1386703,6.2,252051,76.648,6
+736,Project X,tm68272,MOVIE,2012,R,88,['comedy'],['US'],tt1636826,6.6,204959,168.423,6.8
+738,Soul Surfer,tm160132,MOVIE,2011,PG,112,"[''drama'', ''family'', ''sport'']",['US'],tt1596346,7,49101,44.641,7.1
+740,Final Destination 5,tm172716,MOVIE,2011,R,92,"[''horror'', ''thriller'', ''action'', ''fantasy'', ''documentation'', ''european'']",['US'],tt1622979,5.9,114505,63.749,6
+741,Puss in Boots,tm278681,MOVIE,2011,PG,79,"[''comedy'', ''animation'', ''family'', ''fantasy'', ''action'']",['US'],tt0448694,6.6,156144,41.19,6.4
+742,Savages,tm40319,MOVIE,2012,R,131,"[''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt1615065,6.4,129199,16.038,6.4
+744,Hall Pass,tm173624,MOVIE,2011,R,105,"[''romance'', ''comedy'']",['US'],tt0480687,5.9,125098,27.533,5.6
+750,Hostel: Part III,tm178395,MOVIE,2011,R,88,['horror'],['US'],,,,31.292,5.1
+752,The Rite,tm173195,MOVIE,2011,PG-13,114,"[''drama'', ''thriller'', ''horror'']","[''US'', ''HU'', ''IT'']",tt1161864,6,96915,24.872,6.1
+756,Mean Girls 2,tm175346,MOVIE,2011,PG-13,96,['comedy'],['US'],tt1679235,4.1,23287,39.834,5.3
+757,A Very Harold & Kumar Christmas,tm160371,MOVIE,2011,R,108,"[''comedy'', ''fantasy'', ''romance'']",['US'],tt1268799,6.2,69241,16.887,6
+762,Red Riding Hood,tm174256,MOVIE,2011,PG-13,100,"[''fantasy'', ''thriller'', ''horror'', ''drama'', ''romance'']","[''CA'', ''US'']",tt1486185,5.4,111483,23.463,6
+765,New Year's Eve,tm165995,MOVIE,2011,PG-13,113,"[''comedy'', ''romance'', ''documentation'']",['US'],tt1598822,5.6,85658,24.531,5.9
+766,The Smurfs,tm168921,MOVIE,2011,PG,103,"[''fantasy'', ''comedy'', ''family'', ''animation'']",['US'],tt0472181,5.4,89316,40.268,5.8
+767,Jack and Jill,tm178323,MOVIE,2011,PG,91,"[''comedy'', ''horror'']",['US'],tt0810913,3.3,83727,43.997,4.3
+768,Everything Must Go,tm106278,MOVIE,2011,R,97,"[''comedy'', ''drama'']",['US'],tt1531663,6.4,50431,7.287,6.1
+770,John Mulaney: New in Town,tm72845,MOVIE,2012,,58,"[''comedy'', ''documentation'']",['US'],tt2246779,8.2,6608,5.184,8.1
+774,Arthur Christmas,tm174683,MOVIE,2011,PG,97,"[''drama'', ''animation'', ''family'', ''comedy'', ''fantasy'']","[''GB'', ''US'']",tt1430607,7.1,58296,15.795,6.7
+777,A Perfect Ending,tm39313,MOVIE,2012,,110,"[''drama'', ''romance'']",['US'],tt1823059,5.7,4308,14.915,6.3
+784,Bill Burr: You People Are All The Same,tm28171,MOVIE,2012,R,68,['comedy'],['US'],tt2290153,8.2,7370,7.25,7.5
+785,Bully,tm161904,MOVIE,2011,PG-13,92,"[''drama'', ''documentation'']",['US'],tt1682181,7.4,10266,8.112,7.2
+786,The History of Future Folk,tm56296,MOVIE,2012,,86,"[''comedy'', ''music'', ''scifi'']",['US'],tt2245195,7.1,3398,4.882,6.8
+787,Cloudburst,tm171292,MOVIE,2011,,93,"[''romance'', ''drama'', ''comedy'']","[''US'', ''CA'']",tt1466054,7.2,2281,6.12,6.4
+788,Donald Glover: Weirdo,tm183039,MOVIE,2012,,65,"[''comedy'', ''documentation'']",['US'],tt2345525,7.4,3511,5.327,6.8
+789,A Princess for Christmas,tm160361,MOVIE,2011,PG,89,"[''comedy'', ''family'', ''romance'', ''drama'']",['US'],tt1083448,6.3,8222,24.928,7.1
+790,Middle of Nowhere,tm34331,MOVIE,2012,R,101,['drama'],['US'],tt1211890,6.5,1818,3.689,6.7
+792,Kung Fu Panda: Secrets of the Scroll,tm238681,MOVIE,2012,G,23,['comedy'],['US'],,,,15.915,6.8
+793,What About Dick?,tm72251,MOVIE,2012,G,80,['comedy'],"[''US'', ''GB'']",,,,5.564,7.4
+794,Escape from Planet Earth,tm183547,MOVIE,2012,PG,89,"[''comedy'', ''family'', ''scifi'', ''animation'']","[''CA'', ''US'']",tt0765446,5.8,25639,20.273,5.7
+796,Sebastian Maniscalco: What's Wrong with People?,tm53034,MOVIE,2012,,75,['comedy'],['US'],tt2215489,8,1194,3.129,7.9
+797,Undefeated,tm174190,MOVIE,2011,PG-13,113,"[''documentation'', ''sport'']",['US'],tt1860355,7.7,7051,8.21,7.7
+806,Mosquita y Mari,tm52062,MOVIE,2012,,85,['drama'],['US'],tt1978480,6.3,918,3.43,6.2
+809,Joan Rivers: Don't Start with Me,tm31739,MOVIE,2012,R,68,['comedy'],['US'],tt2519318,6.6,408,2.277,6
+810,Sniper: Reloaded,tm170395,MOVIE,2011,R,91,['thriller'],"[''US'', ''ZA'', ''DE'']",,,,13.963,6.1
+813,Maria Bamford: The Special Special Special!,tm49451,MOVIE,2012,,50,['comedy'],['US'],tt2547430,7,567,1.896,7
+818,Big Time Movie,tm40860,MOVIE,2012,G,65,"[''comedy'', ''family'', ''music'']",['US'],tt2163203,6.1,1936,11.432,7.6
+824,Jeff Dunham: Minding the Monsters,tm37175,MOVIE,2012,PG-13,80,['comedy'],['US'],tt2461736,7,1401,3.463,6.2
+825,Jeff Dunham: Controlled Chaos,tm181856,MOVIE,2011,,90,"[''comedy'', ''documentation'']",['US'],tt2058636,7.4,2272,3.707,6.3
+833,Blitz Patrollie,tm53829,MOVIE,2012,,101,"[''comedy'', ''action'', ''crime'']",['US'],tt2336284,5.4,145,1.72,
+835,6 Bullets,tm65765,MOVIE,2012,R,115,"[''thriller'', ''drama'', ''action'', ''crime'']",['US'],tt1975249,6,14898,25.607,6
+838,An Elf's Story,tm169128,MOVIE,2011,,24,"[''fantasy'', ''animation'', ''family'']",['US'],tt2094761,5.2,504,2.184,2.7
+841,Without Gorky,tm630933,MOVIE,2011,,58,['documentation'],['US'],tt1854593,6.6,97,1.095,
+845,Jim Gaffigan: Mr. Universe,tm67444,MOVIE,2012,,77,['comedy'],['US'],,,,3.908,6.9
+848,Lavell Crawford: Can a Brother Get Some Love?,tm164090,MOVIE,2011,NC-17,90,"[''comedy'', ''documentation'']",['US'],tt2084872,6.9,230,2.601,6.6
+855,FRED 3: Camp Fred,tm53395,MOVIE,2012,PG,81,"[''comedy'', ''family'']",['US'],tt2395219,2,2625,6.233,5.6
+858,Katt Williams: Kattpacalypse,tm48579,MOVIE,2012,R,60,['comedy'],['US'],tt2370686,5.5,635,2.392,5.6
+862,Tom Papa: Live in New York City,tm161632,MOVIE,2011,,57,['comedy'],['US'],tt1910649,7.2,490,1.546,6.1
+893,Taxi Ballad,tm946846,MOVIE,2012,,93,['drama'],"[''AE'', ''US'', ''LB'']",,,,0.6,
+904,"Darling, Something''s Wrong with Your Head",tm172504,MOVIE,2011,,78,"[''drama'', ''romance'', ''war'', ''european'']","[''NL'', ''US'', ''AE'', ''PS'']",tt1670646,6.7,129,3.689,5.8
+910,Moshe Kasher: Live in Oakland,tm51412,MOVIE,2012,,60,['comedy'],['US'],tt2229301,6.7,330,1.12,7.1
+920,Paddington,tm140389,MOVIE,2014,PG,96,"[''comedy'', ''animation'', ''family'', ''fantasy'', ''european'']","[''FR'', ''GB'', ''US'']",tt1109624,7.2,111092,34.655,7.1
+922,Nightcrawler,tm151663,MOVIE,2014,R,118,"[''crime'', ''thriller'', ''drama'']",['US'],tt2872718,7.8,523686,54.186,7.7
+925,Her,tm169422,MOVIE,2013,R,126,"[''drama'', ''romance'', ''scifi'']",['US'],tt1798709,8,586679,29.436,7.9
+926,42,tm169719,MOVIE,2013,PG-13,128,"[''drama'', ''sport'']",['US'],tt0453562,7.5,93314,13.936,7.1
+927,The Imitation Game,tm140877,MOVIE,2014,PG-13,113,"[''thriller'', ''drama'', ''war'']","[''US'', ''GB'']",tt2084970,8,748654,46.71,8
+928,The Call,tm171042,MOVIE,2013,R,94,"[''crime'', ''thriller'', ''drama'', ''horror'', ''european'']",['US'],tt1911644,6.7,120475,36.703,6.8
+930,Big Eyes,tm148147,MOVIE,2014,PG-13,106,"[''drama'', ''documentation'', ''crime'', ''romance'']","[''CA'', ''US'']",tt1126590,7.2,51,12.271,7
+932,Oldboy,tm183523,MOVIE,2013,R,104,"[''thriller'', ''action'', ''drama'']",['US'],tt1321511,5.7,75015,18.58,5.9
+933,Rush,tm176864,MOVIE,2013,R,123,"[''drama'', ''action'', ''sport'', ''european'']","[''US'', ''DE'', ''GB'']",tt1979320,8.1,465254,34.763,7.7
+935,How to Train Your Dragon 2,tm134967,MOVIE,2014,PG,102,"[''fantasy'', ''comedy'', ''family'', ''animation'', ''action'']",['US'],tt1646971,7.8,327565,68.926,7.7
+936,Begin Again,tm143227,MOVIE,2013,R,104,"[''comedy'', ''music'', ''romance'', ''drama'']",['US'],tt1980929,7.4,154049,17.267,7.3
+937,The Conjuring,tm160621,MOVIE,2013,R,107,"[''thriller'', ''horror'']",['US'],tt1457767,7.5,491048,150.432,7.5
+938,Insidious: Chapter 2,tm180572,MOVIE,2013,PG-13,106,"[''thriller'', ''horror'']",['US'],tt2226417,6.5,167549,52.127,6.7
+942,A Walk Among the Tombstones,tm148671,MOVIE,2014,R,113,"[''drama'', ''thriller'', ''action'', ''crime'']",['US'],tt0365907,6.5,120389,73.108,6.3
+943,Olympus Has Fallen,tm182429,MOVIE,2013,R,119,"[''thriller'', ''action'', ''drama'']",['US'],tt2302755,6.5,272334,84.497,6.4
+944,The Giver,tm153284,MOVIE,2014,PG-13,97,"[''drama'', ''scifi'', ''romance'', ''thriller'']",['US'],tt0435651,6.4,118117,15.835,6.5
+948,Creep,tm151807,MOVIE,2014,R,77,"[''horror'', ''thriller'']",['US'],tt2428170,6.3,52233,13.284,6.4
+949,St. Vincent,tm145655,MOVIE,2014,PG-13,102,"[''comedy'', ''drama'']",['US'],tt2170593,7.2,102103,21.451,7.1
+953,The Green Inferno,tm161525,MOVIE,2013,R,100,"[''horror'', ''thriller'']","[''CA'', ''CL'', ''US'']",tt2403021,5.3,43149,35.625,5.6
+954,Dark Skies,tm175843,MOVIE,2013,PG-13,97,"[''thriller'', ''horror'', ''scifi'', ''documentation'']",['US'],tt4190332,6.3,75139,25.799,6.3
+956,The Frozen Ground,tm181270,MOVIE,2013,R,105,"[''thriller'', ''drama'', ''crime'']",['US'],tt2005374,6.4,62183,11.872,6.3
+959,Empire State,tm168400,MOVIE,2013,R,94,"[''drama'', ''crime'', ''thriller'', ''action'', ''european'']",['US'],tt2171867,5.2,21368,42.802,5.4
+961,Shrek the Musical,tm237143,MOVIE,2013,PG-13,130,"[''fantasy'', ''family'', ''comedy'']",['US'],tt3070936,6.9,3634,15.817,7.3
+962,The Butler,tm176630,MOVIE,2013,PG-13,132,"[''drama'', ''european'']",['US'],tt1327773,7.2,114013,12.932,7.4
+965,Scary Movie 5,tm178712,MOVIE,2013,PG-13,86,"[''comedy'', ''horror'']",['US'],tt0795461,3.5,70814,72.044,4.8
+969,Cloudy with a Chance of Meatballs 2,tm187979,MOVIE,2013,PG,95,"[''comedy'', ''family'', ''fantasy'', ''scifi'', ''drama'', ''animation'']",['US'],tt1985966,6.3,100637,41.511,6.4
+973,Penguins of Madagascar,tm161282,MOVIE,2014,PG,92,"[''comedy'', ''animation'', ''family'', ''scifi'']",['US'],tt1911658,6.6,88708,84.347,6.5
+974,Redemption,tm165521,MOVIE,2013,R,100,"[''thriller'', ''action'', ''european'']","[''US'', ''GB'']",,,,59.493,6.2
+975,Texas Chainsaw 3D,tm184608,MOVIE,2013,R,92,"[''horror'', ''thriller'']",['US'],tt1572315,4.8,49312,46.799,5.4
+976,Jackass Presents: Bad Grandpa .5,tm144046,MOVIE,2014,PG-13,86,['comedy'],['US'],tt3766424,6.3,,20.423,5.9
+979,Mr. Peabody & Sherman,tm161029,MOVIE,2014,PG,92,"[''action'', ''family'', ''animation'', ''history'', ''scifi'', ''romance'', ''comedy'', ''fantasy'']",['US'],tt0864835,6.8,68790,30.69,6.7
+980,Vampire Academy,tm143474,MOVIE,2014,PG-13,104,"[''fantasy'', ''horror'', ''thriller'', ''action'', ''comedy'', ''drama'']",['US'],tt1686821,5.4,54190,17.252,6.3
+981,"I, Frankenstein",tm140342,MOVIE,2014,PG-13,92,"[''horror'', ''thriller'', ''scifi'', ''action'', ''fantasy'']","[''AU'', ''US'']",tt1418377,5.1,80733,16.066,5.3
+982,Seventh Son,tm141648,MOVIE,2014,PG-13,120,"[''fantasy'', ''action'']","[''US'', ''GB'', ''CN'', ''CA'']",tt1121096,5.5,76395,49.025,5.5
+985,Sabotage,tm142856,MOVIE,2014,R,109,"[''drama'', ''thriller'', ''western'', ''action'', ''crime'']",['US'],tt1742334,5.7,63007,27.573,5.6
+990,Life of Crime,tm178211,MOVIE,2013,R,94,"[''comedy'', ''crime'']",['US'],tt1663207,5.8,18793,15.068,5.7
+991,Get on Up,tm144121,MOVIE,2014,PG-13,139,"[''drama'', ''music'']",['US'],tt2473602,6.9,24456,9.246,6.7
+993,The November Man,tm151447,MOVIE,2014,R,108,"[''crime'', ''action'', ''thriller'']","[''GB'', ''US'']",tt2402157,6.3,67243,14.82,6.1
+998,The Big Wedding,tm181533,MOVIE,2013,R,90,"[''comedy'', ''drama'', ''romance'']",['US'],tt1931435,5.6,49549,8.928,5.9
+1002,The Battered Bastards of Baseball,tm148976,MOVIE,2014,R,80,"[''documentation'', ''sport'']",['US'],tt3445270,8,3953,6.34,7.6
+1007,Bo Burnham: What.,tm162271,MOVIE,2013,,60,"[''comedy'', ''music'', ''documentation'']",['US'],tt3210258,8.3,11488,5.747,7.9
+1008,The Smurfs 2,tm166628,MOVIE,2013,PG,105,"[''fantasy'', ''animation'', ''comedy'', ''family'']",['US'],tt2017020,5.3,41571,36.043,5.8
+1009,Metallica: Through the Never,tm171228,MOVIE,2013,R,93,['music'],['US'],tt2172935,7.1,17433,16.923,6.8
+1010,Walk of Shame,tm136601,MOVIE,2014,R,95,['comedy'],['US'],tt2463288,6,54065,20.142,5.9
+1011,Search Party,tm143757,MOVIE,2014,R,93,['comedy'],['US'],tt2758904,5.6,7789,6.29,5.4
+1013,Thanks for Sharing,tm71148,MOVIE,2013,R,112,"[''drama'', ''comedy'', ''romance'']",['US'],tt1932718,6.4,28204,7.824,5.9
+1014,Copenhagen,tm161562,MOVIE,2014,,98,"[''drama'', ''romance'']","[''US'', ''DK'']",tt2459156,7.1,13135,6,6.7
+1015,Cowspiracy: The Sustainability Secret,tm151716,MOVIE,2014,,90,['documentation'],['US'],tt4344904,8.2,24845,10.13,7.8
+1017,The Haunting in Connecticut 2: Ghosts of Georgia,tm180599,MOVIE,2013,R,101,"[''horror'', ''thriller'', ''drama'']",['US'],tt1457765,5.2,17170,19.018,5.8
+1019,Mike Birbiglia: My Girlfriend's Boyfriend,tm171965,MOVIE,2013,,75,"[''drama'', ''documentation'', ''comedy'', ''romance'']",['US'],tt2937390,8,3284,3.449,7.5
+1020,Elena,tm185208,MOVIE,2013,PG-13,82,"[''documentation'', ''european'', ''drama'', ''family'']","[''US'', ''BR'']",tt2719278,7.6,1823,4.112,7.4
+1023,Bill Burr: I'm Sorry You Feel That Way,tm149038,MOVIE,2014,,80,"[''comedy'', ''documentation'']",['US'],tt3823690,8.3,7954,6.968,7.7
+1025,A Haunted House 2,tm159362,MOVIE,2014,R,86,"[''comedy'', ''horror'', ''fantasy'']",['US'],tt2828996,4.6,21514,86.877,6.1
+1028,We Steal Secrets: The Story of WikiLeaks,tm172710,MOVIE,2013,R,162,['documentation'],['US'],tt1824254,6.9,7873,6.838,6.6
+1030,Free Birds,tm174289,MOVIE,2013,PG,91,"[''comedy'', ''family'', ''scifi'', ''animation'']",['US'],tt1621039,5.8,23917,16.617,5.9
+1031,The Square,tm187390,MOVIE,2013,,88,"[''drama'', ''history'', ''documentation'']","[''GB'', ''US'', ''EG'']",tt2486682,8.1,8949,5.613,7.8
+1032,The Short Game,tm171929,MOVIE,2013,PG,100,"[''documentation'', ''sport'']",['US'],tt2466830,7.3,1518,5.747,7.3
+1035,Jinxed,tm180643,MOVIE,2013,G,70,"[''fantasy'', ''comedy'', ''family'']","[''CA'', ''US'']",tt2934844,6.4,1444,7.932,6.7
+1038,Company of Heroes,tm177223,MOVIE,2013,R,100,['drama'],['US'],,,,9.176,5.4
+1042,Tom Segura: Completely Normal,tm152904,MOVIE,2014,,74,"[''comedy'', ''documentation'']",['US'],tt3500822,7.7,2570,3.372,7.2
+1050,LEGO DC Comics Super Heroes: Batman Be-Leaguered,tm144021,MOVIE,2014,,22,"[''comedy'', ''family'', ''scifi'', ''animation'', ''action'']",['US'],tt4189294,6.5,1305,8.144,6.9
+1060,Dragons: Dawn Of The Dragon Racers,tm139617,MOVIE,2014,,26,['fantasy'],['US'],,,,50.509,7.2
+1063,A Fairly Odd Summer,tm158671,MOVIE,2014,G,68,"[''fantasy'', ''animation'', ''comedy'', ''family'']",['US'],tt3149536,4,533,10.552,5.9
+1076,LEGO Marvel Super Heroes: Maximum Overload,tm180802,MOVIE,2013,PG,20,"[''action'', ''animation'']",['US'],,,,10.788,6.2
+1080,Jim Gaffigan: Obsessed,tm151210,MOVIE,2014,,70,"[''comedy'', ''documentation'']",['US'],tt3481550,7.6,2226,4.903,7.3
+1081,Mission Blue,tm149578,MOVIE,2014,PG,94,"[''documentation'', ''drama'']",['US'],tt2004304,7.9,1950,6.267,7.5
+1082,From One Second to the Next,tm182534,MOVIE,2013,,34,['documentation'],['US'],,,,2.936,7.1
+1083,The Meaning of Monty Python,tm360904,MOVIE,2013,,60,['documentation'],['US'],,,,3.738,7.5
+1091,Mitt,tm153055,MOVIE,2014,,93,"[''documentation'', ''family'']",['US'],tt3336722,6.9,2579,3.769,6.3
+1098,Sniper: Legacy,tm140334,MOVIE,2014,R,94,"[''thriller'', ''european'']",['US'],,,,12.202,6
+1110,Jim Jefferies: Bare,tm149914,MOVIE,2014,R,76,['comedy'],['US'],tt3958494,8,5407,7.515,7.5
+1113,Imperial Dreams,tm140911,MOVIE,2014,,87,['drama'],['US'],tt3331028,6.7,4452,7.323,6.5
+1115,Silent,tm137379,MOVIE,2014,,3,"[''animation'', ''family'', ''action'']",['US'],,,,2.956,7
+1118,Print the Legend,tm158436,MOVIE,2014,,100,"[''documentation'', ''drama'', ''history'']",['US'],tt3703872,7,1967,5.218,6.7
+1124,BoJack Horseman Christmas Special,tm458034,MOVIE,2014,,25,[],['US'],,,,1.566,7.1
+1125,Aziz Ansari: Buried Alive,tm175954,MOVIE,2013,,79,"[''comedy'', ''documentation'']",['US'],tt2836450,7.2,3980,6.539,7
+1126,Marc Maron: Thinky Pain,tm182227,MOVIE,2013,,90,['comedy'],['US'],tt3004634,7.3,1876,4.861,7.2
+1131,Free to Play,tm151860,MOVIE,2014,,75,"[''documentation'', ''action'']","[''UA'', ''US'', ''CN'', ''DE'', ''SG'']",tt3203290,7.9,13308,8.3,7
+3307,Five Feet Apart,tm417416,MOVIE,2019,PG-13,116,"[''romance'', ''drama'']",['US'],tt6472976,7.2,61878,61.598,8.3
+1132,"The Other One: The Long, Strange Trip of Bob Weir",tm139922,MOVIE,2014,,85,"[''music'', ''documentation'']",['US'],tt3692768,7.3,1649,3.199,7.3
+1138,Ralphie May: Imperfectly Yours,tm215339,MOVIE,2013,,69,"[''comedy'', ''documentation'']",['US'],tt3219820,5.4,150,2.497,4.9
+1148,SampleThis,tm185736,MOVIE,2013,,85,"[''documentation'', ''music'']",['US'],tt2407418,6.4,466,3.188,6.6
+1149,The War Against Women,tm460055,MOVIE,2013,,62,"[''documentation'', ''war'']","[''US'', ''ES'']",tt3856034,7.3,74,2.699,6.3
+1153,Mars at Sunrise,tm162259,MOVIE,2014,,75,['drama'],['US'],tt2714424,7.8,43,1.215,
+1158,100 Things to Do Before High School,tm132675,MOVIE,2014,,44,[],['US'],,,,0.0094417458789051,
+1173,My Own Man,tm202914,MOVIE,2014,,82,"[''drama'', ''comedy'', ''family'', ''documentation'']",['US'],tt3812618,6.4,445,3.493,7
+1178,Chelsea Handler: Uganda Be Kidding Me Live,tm155507,MOVIE,2014,,71,['comedy'],['US'],tt4079776,5.8,1165,3.445,6.4
+1179,Wyatt Cenac: Brooklyn,tm159701,MOVIE,2014,,67,['comedy'],['US'],tt4286560,6.3,228,2.08,6.2
+1183,D.L. Hughley: Clear,tm149541,MOVIE,2014,,59,['comedy'],['US'],tt3589494,6.9,249,2.807,6.6
+1198,Sommore: Chandelier Status,tm188108,MOVIE,2013,,75,['comedy'],['US'],tt3012832,6.6,95,0.995,7
+1199,E-Team,tm147405,MOVIE,2014,,88,"[''documentation'', ''war'']",['US'],tt3458282,7.1,873,3.108,6
+1205,Todd Glass Talks About Stuff,tm177376,MOVIE,2013,,46,['comedy'],['US'],,,,1.4,
+1209,Doctor Bello,tm176553,MOVIE,2013,,95,"[''drama'', ''action'']","[''NG'', ''US'']",tt2723358,4.8,54,1.879,6
+1231,Hell or High Water,tm243100,MOVIE,2016,R,102,"[''western'', ''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt2582782,7.6,224900,27.45,7.3
+1234,It Follows,tm150928,MOVIE,2015,R,101,"[''horror'', ''thriller'']",['US'],tt3235888,6.8,233165,278.419,6.6
+1241,Kung Fu Panda 3,tm120108,MOVIE,2016,PG,95,"[''comedy'', ''animation'', ''action'', ''family'', ''fantasy'', ''drama'']","[''US'', ''CN'']",tt2267968,7.1,152791,73.412,6.9
+1242,Ouija: Origin of Evil,tm206698,MOVIE,2016,PG-13,99,"[''thriller'', ''horror'', ''drama'']",['US'],tt4361050,5.3,6,40.822,6.1
+1244,Nocturnal Animals,tm239727,MOVIE,2016,R,115,"[''drama'', ''thriller'']",['US'],tt4551306,7.5,264884,54.29,7.5
+1245,The Gift,tm199607,MOVIE,2015,R,108,"[''thriller'', ''drama'', ''documentation'']","[''AU'', ''US'']",tt4178092,7.1,151679,11.328,6.7
+1249,War Dogs,tm204163,MOVIE,2016,R,114,"[''crime'', ''drama'', ''comedy'', ''war'']",['US'],tt2005151,7.1,208185,59.104,6.9
+1250,Blackhat,tm135307,MOVIE,2015,R,133,"[''thriller'', ''action'', ''crime'']",['US'],tt2717822,5.4,58192,57.038,5.4
+1253,The Hateful Eight,tm138905,MOVIE,2015,R,188,"[''western'', ''crime'', ''drama'', ''thriller'']",['US'],tt3460252,7.8,570138,23.205,7.7
+1254,Crimson Peak,tm137693,MOVIE,2015,R,119,"[''thriller'', ''drama'', ''horror'', ''romance'', ''fantasy'']",['US'],tt2554274,6.5,143899,23.276,6.6
+1257,Tangerine,tm136465,MOVIE,2015,R,87,"[''comedy'', ''drama'', ''crime'']",['US'],tt3824458,7.1,31385,8.572,7
+1259,Legend,tm195209,MOVIE,2015,R,132,"[''thriller'', ''crime'', ''drama'', ''european'']","[''US'', ''FR'', ''GB'']",tt3569230,6.9,175273,72.35,7
+1267,"Hail, Caesar!",tm120609,MOVIE,2016,PG-13,106,"[''drama'', ''comedy'', ''music'']",['US'],tt0475290,6.3,132821,10.97,5.9
+1271,The Edge of Seventeen,tm233377,MOVIE,2016,R,104,"[''comedy'', ''drama'']",['US'],tt1878870,7.3,120488,27.428,7.2
+1273,Steve Jobs,tm193769,MOVIE,2015,R,122,['drama'],"[''GB'', ''US'']",tt3565344,7.2,166288,13.009,6.8
+1280,London Has Fallen,tm143984,MOVIE,2016,R,99,"[''thriller'', ''crime'', ''drama'', ''action'']","[''BG'', ''GB'', ''US'']",tt3300542,5.9,155997,36.762,6.1
+1281,Mr. Right,tm212927,MOVIE,2016,R,95,"[''comedy'', ''romance'', ''action'']",['US'],tt2091935,6.3,55118,18.043,6.4
+1284,Chappie,tm143085,MOVIE,2015,R,120,"[''scifi'', ''drama'', ''thriller'', ''action'', ''crime'']","[''MX'', ''ZA'', ''US'']",tt1823672,6.8,247192,110.843,6.8
+1285,Christine,tm209987,MOVIE,2016,R,115,['drama'],['US'],tt4666726,6.9,14977,8.408,6.8
+1290,Hush,tm239676,MOVIE,2016,R,82,"[''horror'', ''thriller'']",['US'],tt5022702,6.6,123667,12.617,6.7
+1293,The Conjuring 2,tm138297,MOVIE,2016,R,134,"[''thriller'', ''horror'', ''drama'']",['US'],tt3065204,7.3,260693,171.543,7.3
+1296,Unfriended,tm134791,MOVIE,2015,R,82,"[''thriller'', ''horror'', ''drama'']",['US'],tt3901018,5.5,73854,22.647,5.5
+1300,In a Valley of Violence,tm135106,MOVIE,2016,R,104,"[''thriller'', ''western'', ''drama'', ''crime'', ''action'']",['US'],tt3608930,6,18452,18.124,6
+1303,"Hello, My Name Is Doris",tm196125,MOVIE,2015,R,95,"[''romance'', ''comedy'', ''drama'']",['US'],tt3766394,6.6,20377,14.663,6.4
+1307,A Monster Calls,tm196296,MOVIE,2016,PG-13,108,"[''fantasy'', ''drama'', ''thriller'', ''animation'', ''family'', ''european'']","[''ES'', ''US'', ''GB'']",tt3416532,7.5,86614,25.422,7.2
+1312,Loving,tm219233,MOVIE,2016,PG-13,123,"[''drama'', ''romance'']","[''GB'', ''US'']",tt4669986,7,34139,16.292,6.7
+1317,The Danish Girl,tm199700,MOVIE,2015,R,119,"[''drama'', ''romance'', ''european'']","[''DE'', ''GB'', ''US'', ''BE'', ''DK'']",tt0810819,7.1,180805,19.604,7.6
+1318,He Never Died,tm200126,MOVIE,2015,R,99,"[''horror'', ''fantasy'', ''drama'', ''thriller'', ''comedy'']","[''CA'', ''US'']",tt3823012,6.4,19936,10.044,6.1
+1319,Home,tm132273,MOVIE,2015,PG,95,"[''fantasy'', ''scifi'', ''comedy'', ''family'', ''animation'']",['US'],tt2224026,6.6,100705,37.237,6.8
+1322,Before I Wake,tm139532,MOVIE,2016,PG-13,97,"[''drama'', ''fantasy'', ''horror'', ''thriller'']",['US'],tt3176922,6.2,45243,13.359,6.4
+1324,The Fundamentals of Caring,tm219248,MOVIE,2016,R,97,"[''drama'', ''comedy'']",['US'],tt2452386,7.3,70542,10.667,7.3
+1325,Winter on Fire: Ukraine's Fight for Freedom,tm220594,MOVIE,2015,,98,['documentation'],"[''UA'', ''GB'', ''US'']",tt4908644,8.3,17710,11.354,8
+1327,Batman: The Killing Joke,tm239743,MOVIE,2016,R,72,"[''drama'', ''crime'', ''thriller'', ''animation'', ''action'']",['US'],tt4853102,6.4,55806,29.498,6.6
+1328,Cop Car,tm138614,MOVIE,2015,R,86,"[''thriller'', ''crime'']",['US'],tt4209984,6.3,32547,10.384,5.9
+1329,Bastille Day,tm205890,MOVIE,2016,R,92,"[''action'', ''drama'', ''thriller'', ''crime'']","[''US'', ''FR'', ''LU'', ''GB'']",tt4649162,6.3,42763,14.921,6.3
+1330,Sinister 2,tm139841,MOVIE,2015,R,97,"[''horror'', ''thriller'']","[''GB'', ''US'', ''CA'']",tt2752772,5.3,53733,26.423,5.8
+1331,Other People,tm233521,MOVIE,2016,,97,"[''comedy'', ''drama'']",['US'],tt4158876,6.8,11243,7.611,6.4
+1333,13th,tm244788,MOVIE,2016,,100,"[''documentation'', ''history'', ''crime'']",['US'],tt5895028,8.2,34914,10.311,8
+1334,American Ultra,tm208622,MOVIE,2015,R,96,"[''comedy'', ''action'', ''scifi'']","[''US'', ''CH'']",tt3316948,6.1,89912,15.041,6.1
+1336,Spectral,tm204035,MOVIE,2016,PG-13,109,"[''scifi'', ''action'', ''thriller'']",['US'],tt2106651,6.3,58407,38.64,6.4
+1342,Advantageous,tm136321,MOVIE,2015,,92,"[''scifi'', ''drama'', ''family'']",['US'],tt4209960,6.2,5378,7.157,6
+1343,The Bye Bye Man,tm233465,MOVIE,2016,PG-13,96,"[''thriller'', ''fantasy'', ''horror'', ''drama'']",['US'],tt4032232,4.3,23588,22.899,5.2
+1345,Beasts of No Nation,tm136257,MOVIE,2015,R,137,"[''war'', ''drama'']","[''US'', ''GH'']",tt1365050,7.7,80129,11.978,7.6
+1348,Self/less,tm140843,MOVIE,2015,PG-13,116,"[''scifi'', ''thriller'', ''action'', ''drama'']",['US'],tt2157712,6.5,98127,24.934,6.4
+1349,Collateral Beauty,tm238722,MOVIE,2016,PG-13,97,"[''drama'', ''romance'']",['US'],tt4682786,6.7,99053,25.719,7.3
+1352,Team Foxcatcher,tm239683,MOVIE,2016,,91,"[''documentation'', ''crime'', ''history'', ''sport'']",['US'],tt5598216,7.3,6496,8.626,7.1
+1353,"What Happened, Miss Simone?",tm147082,MOVIE,2015,,101,"[''music'', ''documentation'']",['US'],tt5108670,7.6,13703,9.586,7.5
+1355,Circle,tm206512,MOVIE,2015,,87,"[''scifi'', ''thriller'', ''horror'', ''drama'', ''european'']",['US'],tt4473464,6,52925,12.217,6
+1356,The Forest,tm200690,MOVIE,2016,R,95,"[''thriller'', ''scifi'', ''drama'', ''fantasy'', ''horror'']",['US'],tt3387542,4.8,42148,27.63,5.2
+1357,Demonic,tm155102,MOVIE,2015,R,83,"[''thriller'', ''horror'']","[''GB'', ''US'']",tt1841642,5.3,14882,6.835,5.3
+1361,Barry,tm245378,MOVIE,2016,,104,['drama'],['US'],tt5477566,5.9,7116,10.953,5.8
+1367,Frank & Lola,tm138672,MOVIE,2016,,88,"[''drama'', ''romance'', ''thriller'', ''crime'']",['US'],tt1290138,5.9,6029,9.626,5.6
+1370,Blue Jay,tm253083,MOVIE,2016,,81,"[''romance'', ''drama'']",['US'],tt5912454,7.3,17033,8.648,7
+1371,Bert Kreischer: The Machine,tm316731,MOVIE,2016,,70,['comedy'],['US'],tt6545220,7.6,1513,2.851,7.8
+1372,ARQ,tm244403,MOVIE,2016,R,88,"[''scifi'', ''thriller'', ''action'']",['US'],tt5640450,6.3,38463,17.371,6.1
+1374,Ratchet & Clank,tm139194,MOVIE,2016,PG,94,"[''action'', ''animation'', ''comedy'', ''family'', ''scifi'', ''fantasy'']","[''US'', ''CA'']",tt2870834,5.5,10764,14.238,5.8
+1376,Bill Hicks: Reflections,tm235227,MOVIE,2015,,34,['documentation'],['US'],,,,0.901,6.7
+1377,Pee-wee's Big Holiday,tm233317,MOVIE,2016,PG,90,"[''comedy'', ''family'']",['US'],tt0837156,6.1,7985,10.761,6.2
+1383,The Young Messiah,tm123789,MOVIE,2016,PG-13,120,"[''drama'', ''fantasy'']",['US'],tt1002563,5.6,3542,20.107,6.3
+1388,White Girl,tm233533,MOVIE,2016,,88,"[''drama'', ''horror'', ''crime'']",['US'],tt4134536,5.7,10646,17.452,5.7
+1391,Our Brand Is Crisis,tm166321,MOVIE,2015,R,108,"[''comedy'', ''drama'']",['US'],tt1018765,6.1,22147,12.35,5.8
+1392,The Ridiculous 6,tm214825,MOVIE,2015,PG-13,119,"[''western'', ''action'', ''comedy'']",['US'],tt2479478,4.8,47935,52.167,5.1
+1393,Special Correspondents,tm238661,MOVIE,2016,PG-13,100,['comedy'],"[''US'', ''CA'', ''GB'']",tt4181052,5.8,23669,14.187,5.7
+1394,Jem and the Holograms,tm142881,MOVIE,2015,PG,119,"[''fantasy'', ''drama'', ''family'', ''music'', ''romance'', ''scifi'']",['US'],tt3614814,4.1,7804,11.088,5.5
+1395,Mascots,tm243121,MOVIE,2016,,89,['comedy'],['US'],tt4936176,5.8,7381,6.767,5.4
+1397,The Do-Over,tm239707,MOVIE,2016,PG-13,108,"[''action'', ''comedy'']",['US'],tt4769836,5.7,45146,13.392,5.7
+1398,Bo Burnham: Make Happy,tm242736,MOVIE,2016,,60,"[''comedy'', ''music'', ''documentation'']",['US'],tt5777636,8.4,14356,7.462,8.1
+1403,For the Love of Spock,tm208903,MOVIE,2016,,105,['documentation'],"[''CA'', ''US'']",tt4572820,7.6,4349,10.672,7.5
+1407,Dream/Killer,tm205437,MOVIE,2015,,107,"[''crime'', ''documentation'']",['US'],tt4504438,7.4,1938,4.566,6.7
+1409,Amanda Knox,tm247642,MOVIE,2016,,92,"[''crime'', ''documentation'', ''european'']","[''DK'', ''US'']",tt5952332,6.9,23969,11.45,6.7
+1410,Tallulah,tm219276,MOVIE,2016,,111,"[''drama'', ''romance'', ''comedy'']",['US'],tt1639084,6.7,20111,8.44,6.8
+1411,By the Sea,tm135543,MOVIE,2015,R,122,"[''drama'', ''european'', ''romance'']","[''US'', ''FR'']",tt3707106,5.3,20541,9.388,5.6
+1412,Marco Polo: One Hundred Eyes,tm233544,MOVIE,2015,,28,"[''action'', ''history'', ''drama'']",['US'],tt5248968,7.8,10742,9.676,7.2
+1420,Results,tm138792,MOVIE,2015,R,105,"[''comedy'', ''romance'']",['US'],tt3824412,5.4,7073,7.885,5.1
+1421,I Am the Pretty Thing That Lives in the House,tm244880,MOVIE,2016,,89,"[''thriller'', ''drama'', ''horror'']","[''CA'', ''US'']",tt5059406,4.6,14491,9.791,4.4
+1425,Legends of the Hidden Temple,tm308241,MOVIE,2016,PG,68,['family'],['US'],tt5333842,5.7,896,6.75,6.8
+1432,Sebastian Maniscalco: Why Would You Do That?,tm244052,MOVIE,2016,,63,['comedy'],['US'],tt6295304,7.3,1063,3.29,7.8
+1436,Sleight,tm232953,MOVIE,2016,R,89,"[''thriller'', ''crime'', ''drama'', ''scifi'', ''action'']",['US'],tt4573516,5.9,8644,8.409,5.4
+1437,Sniper: Ghost Shooter,tm240007,MOVIE,2016,R,100,['drama'],['US'],,,,24.896,6.6
+1438,Middle School: The Worst Years of My Life,tm233493,MOVIE,2016,PG,92,"[''comedy'', ''family'', ''animation'']",['US'],tt4981636,6,8972,15.219,6.9
+1440,Rock the Kasbah,tm140436,MOVIE,2015,R,100,"[''comedy'', ''music'', ''war'']","[''MA'', ''US'']",tt3165590,5.5,11963,11.689,5.4
+1445,A Very Murray Christmas,tm228242,MOVIE,2015,,56,"[''comedy'', ''music'']",['US'],tt4537842,5.5,15428,6.405,5.3
+1448,Kevin Hart: What Now?,tm209950,MOVIE,2016,R,96,"[''comedy'', ''documentation'']",['US'],tt4669186,5.9,9458,8.106,6.5
+1449,Extraction,tm205935,MOVIE,2015,R,92,"[''thriller'', ''action'']","[''GB'', ''US'']",tt4382872,4.1,11180,19.682,4.6
+1450,Tramps,tm244134,MOVIE,2016,,83,"[''romance'', ''comedy'', ''documentation'', ''european'']",['US'],tt9049178,6.5,5460,10.796,6.1
+1453,LEGO Marvel Super Heroes: Avengers Reassembled!,tm233616,MOVIE,2015,,22,"[''animation'', ''comedy'', ''scifi'', ''action'']",['US'],tt5371572,6.1,843,13.662,6.5
+1454,Incarnate,tm211510,MOVIE,2016,PG-13,91,"[''horror'', ''thriller'']",['US'],tt3216348,5.2,12918,14.776,5.4
+1456,Term Life,tm219173,MOVIE,2016,R,93,"[''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt2978102,5.6,7860,20.41,5.9
+1459,Tig,tm214085,MOVIE,2015,,95,['documentation'],['US'],tt3986532,7.4,2649,5.604,7.2
+1460,John Mulaney: The Comeback Kid,tm229542,MOVIE,2015,PG,62,"[''comedy'', ''documentation'']",['US'],tt5069564,7.9,8471,4.657,7.8
+1464,Minimalism: A Documentary About the Important Things,tm241314,MOVIE,2015,,79,['documentation'],['US'],tt4685424,6.7,15656,10.028,6.6
+1469,Lavender,tm246870,MOVIE,2016,,92,"[''thriller'', ''drama'']","[''CA'', ''US'']",tt9237490,5.3,7005,15.816,5.7
+1471,True Memoirs of an International Assassin,tm266844,MOVIE,2016,PG-13,98,"[''action'', ''comedy'', ''crime'']",['US'],tt1542768,5.9,22466,12.817,5.8
+1473,The Darkness,tm238748,MOVIE,2016,PG-13,92,"[''thriller'', ''horror'']",['US'],tt1878841,4.5,15848,14.011,4.8
+1474,Hot Girls Wanted,tm193125,MOVIE,2015,,84,['documentation'],['US'],tt4382552,6.1,17447,44.727,5.9
+1483,Anthony Jeselnik: Thoughts and Prayers,tm229140,MOVIE,2015,,59,['comedy'],['US'],,,,6.22,7.4
+1494,Opening Night,tm139870,MOVIE,2016,,90,"[''comedy'', ''thriller'', ''drama'', ''action'', ''crime'']",['US'],tt8215284,6,2610,11.431,5.9
+1495,LEGO Jurassic World: The Indominus Escape,tm266628,MOVIE,2016,G,24,"[''family'', ''animation'', ''comedy'']",['US'],,,,13.027,5.7
+1497,"Surviving Compton: Dre, Suge and Michel''le",tm267429,MOVIE,2016,,87,"[''drama'', ''documentation'']",['US'],tt8070856,6.6,645,3.512,6.3
+1507,Mercy,tm239947,MOVIE,2016,,82,"[''thriller'', ''drama'']",['US'],tt5710042,4.1,3402,9.957,4.3
+1510,Septembers of Shiraz,tm218186,MOVIE,2015,PG-13,110,"[''drama'', ''thriller'', ''western'']",['US'],tt3661298,7.9,38,8.075,5.8
+1511,Ordinary World,tm242755,MOVIE,2016,,86,"[''drama'', ''family'', ''comedy'', ''music'']",['US'],tt6102594,5.5,3034,7.766,6
+1515,Jeff Foxworthy & Larry the Cable Guy: We've Been Thinking,tm242002,MOVIE,2016,,74,['comedy'],['US'],tt5571712,5.6,614,2.907,5.8
+1517,Demetri Martin: Live (At The Time),tm220317,MOVIE,2015,,61,"[''comedy'', ''documentation'']",['US'],tt4512714,7.4,2163,4.491,6.9
+1520,Rebirth,tm244638,MOVIE,2016,,101,['thriller'],['US'],tt4902716,4.9,5156,6.244,4.6
+1521,Audrie & Daisy,tm232954,MOVIE,2016,,95,"[''documentation'', ''crime'']",['US'],tt5278460,7.2,6586,8.819,7.2
+1523,Riot,tm225275,MOVIE,2015,,87,['action'],['US'],tt4642044,5.1,3332,13.12,5.9
+1524,Anjelah Johnson: Not Fancy,tm227922,MOVIE,2015,,63,"[''comedy'', ''documentation'']",['US'],tt4199110,5.7,686,3.318,4.8
+1527,Colin Quinn: The New York Story,tm272413,MOVIE,2016,,62,['comedy'],['US'],tt6257714,6.8,990,3.746,6.3
+1532,Tony Robbins: I Am Not Your Guru,tm239762,MOVIE,2016,,115,['documentation'],['US'],tt5151716,6.7,4335,9.812,6.6
+1533,I Am Michael,tm132524,MOVIE,2015,,98,"[''drama'', ''romance'']",['US'],tt5116866,5.6,5495,8.06,5.6
+1534,Justin Timberlake + The Tennessee Kids,tm245297,MOVIE,2016,,90,"[''documentation'', ''music'']",['US'],tt5001772,7.8,2173,4.71,7.6
+1543,Gabriel Iglesias: I'm Sorry for What I Said When I Was Hungry,tm281182,MOVIE,2016,PG-13,87,"[''comedy'', ''documentation'']",['US'],tt6302122,7.4,2519,4.242,7.2
+1545,Jim Jefferies: Freedumb,tm245148,MOVIE,2016,R,86,"[''comedy'', ''documentation'']",['US'],tt5849950,7.7,5393,6.07,7.3
+1549,6 Years,tm195764,MOVIE,2015,,84,"[''romance'', ''drama'']",['US'],tt3984280,5.6,12441,8.384,5.4
+1551,Manson Family Vacation,tm195870,MOVIE,2015,,85,"[''drama'', ''comedy'', ''thriller'']",['US'],tt4154218,5.8,2965,7.823,5.9
+1552,Garfunkel and Oates: Trying to be Special,tm246056,MOVIE,2016,,62,"[''comedy'', ''music'']",['US'],tt5602318,7.3,899,3.59,7.5
+1554,Strange Weather,tm240895,MOVIE,2016,R,95,['drama'],['US'],tt5205210,6,1499,12.599,6
+1555,Rainbow Time,tm246579,MOVIE,2016,,91,"[''drama'', ''comedy'']",['US'],tt5167174,5.9,710,4.336,5.9
+1556,Extremis,tm243849,MOVIE,2016,,24,['documentation'],['US'],,,,5.349,7.1
+1563,Open Season: Scared Silly,tm238829,MOVIE,2015,PG,85,['animation'],"[''US'', ''CA'']",,,,25.774,5.9
+1574,Jeff Dunham: Unhinged in Hollywood,tm225675,MOVIE,2015,PG,60,['comedy'],['US'],tt5038776,6.7,713,3.278,6.2
+1575,Tom Segura: Mostly Stories,tm233023,MOVIE,2016,,73,"[''comedy'', ''documentation'']",['US'],tt4970632,7.5,3508,4.573,7
+1578,Colin Quinn: Unconstitutional,tm220473,MOVIE,2015,,55,['comedy'],['US'],tt4392266,7,465,1.542,6.9
+1579,Keith Richards: Under the Influence,tm225693,MOVIE,2015,PG,82,"[''music'', ''documentation'']",['US'],tt4900018,7.1,3357,5.617,6.8
+1583,Ralphie May: Unruly,tm199987,MOVIE,2015,,83,['comedy'],['US'],,,,3.016,4.3
+1586,4K Fireplace,tm421855,MOVIE,2015,G,181,"[''family'', ''reality'']",['US'],tt5275236,7.7,48,1.336,6.8
+1593,I Called Him Morgan,tm244559,MOVIE,2016,,91,"[''music'', ''documentation'', ''history'', ''drama'', ''european'']","[''SE'', ''US'']",tt4170344,7.3,1785,5.671,7.2
+1598,XOXO,tm239774,MOVIE,2016,,92,"[''music'', ''drama'']",['US'],tt4855748,5.3,6981,18.472,6
+1601,Ali Wong: Baby Cobra,tm245235,MOVIE,2016,,60,['comedy'],['US'],tt5066574,7.5,6925,6.777,7.4
+1609,Chris Tucker: Live,tm215054,MOVIE,2015,,92,"[''comedy'', ''documentation'']",['US'],tt4835636,6.3,1936,5.081,6
+1623,Jessica Darling's It List,tm233196,MOVIE,2016,,79,['family'],['US'],tt5213744,5.5,973,10.978,6
+1625,Chocolate City: Vegas Strip,tm376111,MOVIE,2016,PG-13,89,['drama'],['US'],tt5485482,3.7,297,5.246,6.5
+1630,The Ivory Game,tm270555,MOVIE,2016,,112,"[''documentation'', ''european'']","[''US'', ''AT'']",tt5952534,7.9,3243,7.433,7.6
+1637,"Liar, Liar, Vampire",tm230426,MOVIE,2015,G,66,"[''comedy'', ''family'']",['US'],tt4448304,5.8,940,9.114,7.1
+1638,I'll Sleep When I'm Dead,tm239769,MOVIE,2016,,82,['documentation'],['US'],tt4679136,6.6,1358,5.041,6.5
+1644,Chronically Metropolitan,tm245722,MOVIE,2016,,86,"[''drama'', ''comedy'']",['US'],tt5078796,5,1503,4.043,5.2
+1647,Russell Peters: Almost Famous,tm266629,MOVIE,2016,,73,['comedy'],['US'],tt5946232,6.5,1882,3.53,6.7
+1651,#FollowFriday,tm257629,MOVIE,2016,,90,['thriller'],['US'],tt5233106,2.7,382,3.26,3.6
+1662,Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine),tm211273,MOVIE,2015,,78,['comedy'],['US'],tt4705606,6.8,1506,5.005,6.9
+1663,Puerto Ricans in Paris,tm230927,MOVIE,2015,R,82,['comedy'],['US'],tt3730510,5.3,1824,6.561,5.7
+1664,Reggie Watts: Spatial,tm273933,MOVIE,2016,,61,"[''comedy'', ''music'']",['US'],tt5861260,6,503,3.124,5.7
+1668,Asperger's Are Us,tm274053,MOVIE,2016,,83,"[''documentation'', ''comedy'', ''drama'']",['US'],tt4991844,6.6,737,4.968,5.9
+1672,Iliza Shlesinger: Freezing Hot,tm193378,MOVIE,2015,,71,"[''comedy'', ''documentation'']",['US'],tt4074376,6.8,2572,4.925,6.6
+1698,Joe Rogan: Triggered,tm267419,MOVIE,2016,,63,"[''comedy'', ''documentation'']",['US'],tt6023444,7.4,4447,4.341,6.7
+1700,David Cross: Making America Great Again,tm239764,MOVIE,2016,,74,['comedy'],['US'],tt5943936,6.4,1647,4.239,6.7
+1702,Iliza Shlesinger: Confirmed Kills,tm266622,MOVIE,2016,,77,['comedy'],['US'],tt6081882,6.6,2865,4.549,6.4
+1704,Hannibal Buress: Comedy Camisado,tm232931,MOVIE,2016,R,67,['comedy'],['US'],tt5352432,6.6,1517,4.269,6.4
+1713,Theo Von: No Offense,tm238486,MOVIE,2016,,65,"[''comedy'', ''documentation'']",['US'],tt5066564,5.6,864,2.977,6.4
+1715,Mike Epps: Don't Take It Personal,tm232267,MOVIE,2015,,60,['comedy'],['US'],tt5339586,4.4,274,3.226,4.6
+1717,Michael Che Matters,tm272484,MOVIE,2016,,60,['comedy'],['US'],tt6209400,7.2,2586,4.977,6.8
+1720,Aziz Ansari: Live at Madison Square Garden,tm198496,MOVIE,2015,,58,['comedy'],['US'],tt4530184,6.6,3247,6.299,6.7
+1724,Patton Oswalt: Talking for Clapping,tm240728,MOVIE,2016,,65,"[''comedy'', ''documentation'']",['US'],tt5457520,6.8,1971,3.899,6.5
+1730,"Dana Carvey: Straight White Male, 60",tm271839,MOVIE,2016,,64,['comedy'],['US'],tt6217368,6.4,1483,5.384,6.3
+1737,One in a Billion,tm278279,MOVIE,2016,,69,['documentation'],['US'],tt6045798,6.7,543,1.67,7
+1738,Frank and Cindy,tm212968,MOVIE,2015,,102,"[''comedy'', ''drama'']",['US'],tt1239242,6.1,855,3.109,5.4
+1741,Brent Morin: I'm Brent Morin,tm230478,MOVIE,2015,,67,['comedy'],['US'],tt5280664,6.5,688,2.743,7.3
+1746,Sam Kinison: The Scream Continues,tm533845,MOVIE,2016,,29,['documentation'],['US'],tt6069058,6.1,39,1.225,7
+1760,Santa Pac's Merry Berry Day,tm319354,MOVIE,2016,,44,"[''action'', ''animation'', ''comedy'']","[''JP'', ''US'', ''CA'']",,,,1.328,5.5
+1762,Cedric the Entertainer: Live from the Ville,tm257141,MOVIE,2016,,60,['comedy'],['US'],tt5753806,6,681,1.851,5.6
+1768,#Rucker50,tm286268,MOVIE,2016,,56,['documentation'],['US'],tt6475636,5.2,117,2.578,3.7
+1781,Sommore: The Reign Continues,tm571645,MOVIE,2015,R,93,['comedy'],['US'],tt4172758,6.9,76,1.839,7
+1789,Chris D'Elia: Incorrigible,tm207734,MOVIE,2015,R,83,"[''comedy'', ''documentation'']",['US'],tt4624852,6.4,1535,4.419,6.2
+1790,Virunga: Gorillas in Peril,tm247396,MOVIE,2015,,28,['documentation'],['US'],tt4677816,6.6,32,1.258,7
+1792,Cristina,tm242745,MOVIE,2016,,39,"[''drama'', ''documentation'']",['US'],,,,2.358,8.2
+1793,Janoskians: Untold and Untrue,tm225416,MOVIE,2015,,88,['comedy'],['US'],tt4841640,3.7,160,2.38,5.1
+1804,Pac’s Scary Halloween,tm860487,MOVIE,2016,,44,"[''fantasy'', ''horror'']",['US'],,,,1.078,7.4
+1807,Snervous Tyler Oakley,tm232090,MOVIE,2015,PG-13,82,['documentation'],['US'],tt5073746,5.4,473,2.688,5.7
+1823,Jada,tm239078,MOVIE,2016,PG-13,16,"[''drama'', ''sport'']",['US'],tt9769714,5.3,157,0.6,4
+1827,Blade Runner 2049,tm239091,MOVIE,2017,R,164,"[''scifi'', ''thriller'', ''action'', ''drama'']","[''CA'', ''HU'', ''MX'', ''ES'', ''GB'', ''US'']",tt1856101,8,539864,61.861,7.5
+1829,Sorry to Bother You,tm310953,MOVIE,2018,R,111,"[''fantasy'', ''scifi'', ''drama'', ''comedy'']",['US'],tt5688932,6.9,75653,14.691,6.8
+1830,Dunkirk,tm232797,MOVIE,2017,PG-13,107,"[''drama'', ''history'', ''thriller'', ''war'', ''action'', ''european'']","[''US'', ''FR'', ''NL'', ''GB'']",tt5013056,7.8,619645,33.05,7.5
+1831,Wind River,tm244259,MOVIE,2017,R,106,"[''thriller'', ''crime'', ''drama'', ''western'']","[''FR'', ''GB'', ''US'']",tt6185846,7.7,240408,32.096,7.4
+1832,Molly's Game,tm315344,MOVIE,2017,R,140,"[''drama'', ''crime'', ''sport'']","[''CA'', ''US'', ''CN'']",tt4209788,7.4,165817,21.304,7.1
+1836,Den of Thieves,tm318206,MOVIE,2018,R,140,"[''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt1259528,7,107701,55.531,6.7
+1838,Phantom Thread,tm315174,MOVIE,2017,R,130,"[''romance'', ''drama'']","[''US'', ''GB'']",tt5776858,7.4,128600,18.165,7.3
+1845,Lady Bird,tm344989,MOVIE,2017,R,94,"[''drama'', ''comedy'']",['US'],tt4925292,7.4,277165,28.718,7.3
+1863,How It Ends,tm420745,MOVIE,2018,,113,"[''thriller'', ''action'', ''drama'', ''scifi'']","[''CA'', ''US'']",tt5246700,5,51513,28.552,5.3
+1865,The Disaster Artist,tm232500,MOVIE,2017,R,104,"[''comedy'', ''drama'']",['US'],tt3521126,7.3,149604,13.876,7.1
+1871,The Ballad of Buster Scruggs,tm425889,MOVIE,2018,R,132,"[''western'', ''comedy'', ''drama'', ''romance'']",['US'],tt6412452,7.3,141528,35.22,7.1
+1872,Okja,tm244174,MOVIE,2017,PG-13,122,"[''drama'', ''scifi'', ''action'']","[''KR'', ''US'']",tt3967856,7.3,116305,23.865,7.4
+1874,The Bad Batch,tm350,MOVIE,2017,R,119,"[''drama'', ''action'', ''horror'', ''romance'', ''scifi'']",['US'],tt4334266,5.2,30785,20.735,5.2
+1882,Shot Caller,tm210043,MOVIE,2017,R,120,"[''thriller'', ''crime'', ''drama'']",['US'],tt4633690,7.3,83961,29.901,6.9
+1884,The Shack,tm226948,MOVIE,2017,PG-13,132,"[''fantasy'', ''drama'']",['US'],tt2872518,6.2,35406,129.191,7.4
+1889,Roma,tm288499,MOVIE,2018,R,135,"[''drama'', ''european'']","[''MX'', ''US'']",tt6155172,7.7,153508,17.67,7.7
+1893,The Beguiled,tm244191,MOVIE,2017,R,93,"[''drama'', ''documentation'', ''war'', ''thriller'']",['US'],tt5592248,6.8,21,37.717,5.9
+1899,The Foreigner,tm233482,MOVIE,2017,R,113,"[''thriller'', ''action'', ''crime'', ''drama'', ''european'']","[''IN'', ''CN'', ''US'', ''GB'']",tt4759848,7,112487,44.823,6.8
+1900,Apostle,tm271951,MOVIE,2018,R,130,"[''thriller'', ''horror'', ''drama'', ''fantasy'']","[''US'', ''GB'']",tt6217306,6.3,51038,20.664,6.1
+1901,Icarus,tm311815,MOVIE,2017,,121,"[''documentation'', ''thriller'', ''sport'']",['US'],tt6333060,7.9,48672,13.434,7.7
+1902,The Package,tm371380,MOVIE,2018,R,94,"[''comedy'', ''drama'', ''thriller'']",['US'],tt7525778,5.5,17226,32.016,6
+1905,Mary Magdalene,tm310899,MOVIE,2018,R,120,['drama'],"[''GB'', ''US'', ''AU'']",tt5360996,5.9,10234,103.034,6.3
+1907,Gerald's Game,tm266666,MOVIE,2017,,103,"[''horror'', ''thriller'', ''drama'']",['US'],tt3748172,6.5,104894,19.167,6.4
+1911,The Cloverfield Paradox,tm239286,MOVIE,2018,PG-13,102,"[''thriller'', ''horror'', ''scifi'', ''drama'', ''action'']",['US'],tt2548396,5.5,102759,26.982,5.6
+1912,I Don't Feel at Home in This World Anymore,tm273294,MOVIE,2017,,93,"[''drama'', ''thriller'', ''comedy'', ''crime'', ''european'']",['US'],tt6149822,6.9,55549,8.397,6.5
+1914,Abducted in Plain Sight,tm414285,MOVIE,2018,G,91,"[''crime'', ''documentation'', ''thriller'', ''drama'']",['US'],tt6098534,6.8,18165,10.083,6.4
+1915,Annabelle: Creation,tm244192,MOVIE,2017,R,110,"[''horror'', ''thriller'']",['US'],tt5140878,6.5,129883,53.874,6.6
+1918,Kodachrome,tm346943,MOVIE,2017,,105,"[''drama'', ''comedy'', ''european'']",['US'],tt1880399,6.8,16482,7.996,6.8
+1923,I Am Not Your Negro,tm270895,MOVIE,2017,R,93,"[''documentation'', ''history'', ''european'']","[''BE'', ''FR'', ''US'']",tt5804038,7.9,21632,11.41,7.8
+1926,Bird Box,tm374132,MOVIE,2018,R,124,"[''thriller'', ''drama'', ''horror'', ''scifi'']",['US'],tt2737304,6.6,325194,38.353,6.9
+1928,The Zookeeper's Wife,tm244175,MOVIE,2017,PG-13,122,"[''drama'', ''war'', ''history'']","[''GB'', ''US'', ''CZ'']",tt1730768,7,42808,19.791,7.4
+1931,Outlaw King,tm319818,MOVIE,2018,R,121,"[''drama'', ''action'', ''history'', ''war'']","[''GB'', ''US'']",tt6679794,6.9,69834,19.359,6.8
+1936,Beirut,tm244332,MOVIE,2018,R,109,"[''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt4669264,6.4,21843,12.841,6.3
+1940,Destination Wedding,tm414887,MOVIE,2018,R,84,"[''romance'', ''comedy'', ''drama'']",['US'],tt6987770,6,28933,11.066,5.7
+1942,Cam,tm420348,MOVIE,2018,,95,"[''horror'', ''thriller'', ''drama'']",['US'],tt8361028,5.9,31042,16.174,5.8
+1944,The Meyerowitz Stories (New and Selected),tm244206,MOVIE,2017,,112,"[''drama'', ''comedy'']",['US'],tt5536736,6.9,47971,8.222,6.5
+1946,The Babysitter,tm280828,MOVIE,2017,R,85,"[''horror'', ''comedy'']",['US'],tt4225622,6.4,86953,33.349,6.1
+1947,When We First Met,tm366567,MOVIE,2018,PG-13,97,"[''fantasy'', ''comedy'', ''romance'']",['US'],tt5783956,6.4,48215,17.067,6.6
+1948,Extinction,tm310706,MOVIE,2018,R,96,"[''drama'', ''thriller'', ''scifi'', ''action'']",['US'],tt3201640,5.8,51781,32.877,6
+1949,To All the Boys I've Loved Before,tm410435,MOVIE,2018,PG-13,100,"[''romance'', ''comedy'', ''drama'']",['US'],tt3846674,7.1,101175,66.882,7.7
+1959,The Guernsey Literary & Potato Peel Pie Society,tm357589,MOVIE,2018,,124,"[''romance'', ''drama'', ''history'', ''war'']","[''GB'', ''US'', ''FR'']",tt1289403,7.3,44917,11.501,7.5
+1960,1922,tm317542,MOVIE,2017,,102,"[''horror'', ''crime'', ''documentation'', ''drama'', ''thriller'']",['US'],tt8312644,6.2,60982,17.567,5.9
+1962,Home Again,tm321703,MOVIE,2017,PG-13,97,"[''drama'', ''romance'', ''comedy'']",['US'],tt5719700,5.8,31620,16.72,6.1
+1963,Mudbound,tm300615,MOVIE,2017,R,120,"[''drama'', ''war'']",['US'],tt2396589,7.4,47676,12.964,7.4
+1964,The Book of Henry,tm244233,MOVIE,2017,PG-13,105,"[''thriller'', ''crime'', ''drama'']",['US'],tt4572792,6.5,27052,18.411,7.5
+1966,"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",tm349803,MOVIE,2017,,94,"[''comedy'', ''documentation'']","[''US'', ''CA'']",tt7214762,7.7,25593,10.938,7.6
+1973,Anon,tm243326,MOVIE,2018,R,100,"[''scifi'', ''drama'', ''action'', ''crime'', ''thriller'', ''european'']","[''US'', ''GB'']",tt5419536,6.1,42608,33.558,5.9
+1975,Replicas,tm244197,MOVIE,2018,PG-13,107,"[''thriller'', ''drama'', ''scifi'']","[''PR'', ''US'', ''GB'', ''CN'']",tt4154916,5.5,37340,15.406,6.1
+1976,Private Life,tm368449,MOVIE,2018,R,123,"[''drama'', ''comedy'']",['US'],tt6394284,7.2,19023,7.649,6.9
+1977,Beyond Skyline,tm211554,MOVIE,2017,R,105,"[''scifi'', ''thriller'', ''horror'', ''action'']","[''SG'', ''US'', ''GB'', ''ID'', ''CA'', ''CN'']",tt6856700,5.3,21540,9.565,5.2
+1978,A Futile and Stupid Gesture,tm363248,MOVIE,2018,,101,['comedy'],['US'],tt5566790,6.7,15750,12.272,6.5
+1980,The Strangers: Prey at Night,tm232673,MOVIE,2018,,85,"[''thriller'', ''horror'']","[''US'', ''GB'']",tt1285009,5.2,30499,27.064,5.6
+1986,Hold the Dark,tm299677,MOVIE,2018,,125,"[''thriller'', ''horror'', ''action'', ''drama'']",['US'],tt5057140,5.6,36500,13.295,5.3
+1989,Black Mirror: Bandersnatch,tm449070,MOVIE,2018,R,90,"[''scifi'', ''thriller'', ''fantasy'', ''drama'']","[''GB'', ''US'']",tt9495224,7.1,123377,14.353,6.8
+1993,RBG,tm363488,MOVIE,2018,PG,98,['documentation'],['US'],tt7689964,7.6,14037,8.04,7.6
+1995,The Perfection,tm435916,MOVIE,2018,,90,"[''thriller'', ''drama'', ''horror'', ''music'']",['US'],tt7772580,6.1,41508,13.548,6.5
+1996,The Discovery,tm233362,MOVIE,2017,,102,"[''thriller'', ''drama'', ''romance'', ''scifi'']",['US'],tt5155780,6.2,33579,15.446,6.3
+1998,The Kindergarten Teacher,tm362098,MOVIE,2018,R,96,"[''drama'', ''thriller'', ''european'']",['US'],tt6952960,6.7,15683,9.481,6.6
+1999,Wheelman,tm346467,MOVIE,2017,R,82,"[''thriller'', ''crime'', ''action'']",['US'],tt5723286,6.4,19951,12.176,6.1
+2001,Set It Up,tm412550,MOVIE,2018,PG-13,105,"[''comedy'', ''romance'']",['US'],tt5304992,6.5,49880,14.994,7
+2002,An Evening with Beverly Luff Linn,tm315424,MOVIE,2018,R,108,"[''crime'', ''comedy'']","[''GB'', ''US'']",tt6520524,5.8,5457,6.295,5.8
+2007,Little Italy,tm414220,MOVIE,2018,R,102,"[''romance'', ''comedy'']","[''US'', ''CA'']",tt6957966,5.7,14492,16.841,6.8
+2010,The Outsider,tm139545,MOVIE,2018,R,120,"[''crime'', ''thriller'', ''action'', ''drama'']",['US'],tt2011311,6.2,25223,12.155,6.2
+2014,Banana Split,tm434008,MOVIE,2018,R,88,['comedy'],['US'],tt7755856,6.2,3190,8.441,6.8
+2017,Creep 2,tm317566,MOVIE,2017,R,80,"[''horror'', ''thriller'', ''crime'', ''drama'']",['US'],tt3654796,6.4,24468,13.772,6.3
+2018,Dumplin',tm417496,MOVIE,2018,PG-13,110,"[''comedy'', ''drama'']",['US'],tt4878482,6.5,33206,11.126,6.8
+2019,Shirkers,tm367065,MOVIE,2018,,96,['documentation'],"[''GB'', ''US'', ''SG'']",tt7472352,7.4,5020,9.789,7.6
+2020,The After Party,tm426274,MOVIE,2018,,89,"[''comedy'', ''horror'', ''music'']",['US'],tt3960240,5.7,4348,11.314,6.2
+2024,Hell Fest,tm316414,MOVIE,2018,R,89,"[''horror'', ''thriller'']",['US'],tt1999890,5.5,16610,19.161,5.6
+2025,Small Town Crime,tm311921,MOVIE,2018,R,91,"[''thriller'', ''crime'']",['US'],tt5751998,6.6,11167,8.056,6.4
+2026,Adrift,tm370212,MOVIE,2018,PG-13,96,"[''thriller'', ''drama'', ''romance'', ''action'', ''european'']","[''HK'', ''IS'', ''US'']",tt6306064,6.6,54750,25.491,6.9
+2030,A Bad Moms Christmas,tm281935,MOVIE,2017,R,104,['comedy'],['US'],tt6365402,5.6,49478,17.717,6.3
+2031,A-X-L,tm323634,MOVIE,2018,PG-13,98,"[''scifi'', ''family'', ''thriller'', ''action'', ''drama'']",['US'],tt5709188,5.3,11785,38.144,6.3
+2032,The Other Side of the Wind,tm139885,MOVIE,2018,R,122,"[''drama'', ''european'']","[''US'', ''FR'', ''IR'']",tt0069049,6.7,7104,8.717,6.7
+2038,22 July,tm348993,MOVIE,2018,R,143,"[''thriller'', ''history'', ''crime'', ''drama'', ''european'']","[''NO'', ''US'', ''IS'']",tt7280898,6.8,33246,19.825,7.2
+2040,Victoria & Abdul,tm285107,MOVIE,2017,PG-13,112,"[''drama'', ''history'']","[''GB'', ''US'']",tt5816682,6.8,35458,12.817,7
+2047,Buster's Mal Heart,tm240076,MOVIE,2017,,96,"[''thriller'', ''drama'', ''crime'']",['US'],tt5833778,6.2,10490,10.799,6.2
+2049,Death Note,tm217228,MOVIE,2017,NC-17,101,"[''fantasy'', ''horror'', ''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt1241317,4.5,83519,43.924,4.2
+2051,Bright,tm244307,MOVIE,2017,R,117,"[''thriller'', ''fantasy'', ''action'', ''crime'', ''scifi'']",['US'],tt5519340,6.3,183841,25.593,6.2
+2052,The Incredible Jessica James,tm298846,MOVIE,2017,,83,['comedy'],['US'],tt5990342,6.5,7496,8.304,6.2
+2063,"Game Over, Man!",tm321224,MOVIE,2018,R,100,"[''comedy'', ''action'']",['US'],tt3317234,5.4,29773,14,5.5
+2065,Piercing,tm306301,MOVIE,2018,R,82,"[''thriller'', ''horror'']","[''FR'', ''US'']",tt6516314,5.5,7534,9.613,5.8
+2070,Mowgli: Legend of the Jungle,tm244148,MOVIE,2018,PG-13,105,"[''drama'', ''fantasy'']","[''GB'', ''US'']",tt2388771,6.5,60870,25.389,6.5
+2071,No Escape Room,tm436470,MOVIE,2018,,85,"[''thriller'', ''horror'']",['US'],tt9099102,5,4277,12.13,6.3
+2079,To the Bone,tm244317,MOVIE,2017,,107,['drama'],['US'],tt6143418,6.8,47025,29.932,7.2
+4535,Léa & I,tm823459,MOVIE,2019,,84,['documentation'],['US'],tt9382396,6.5,215,2.792,5.9
+2084,Siberia,tm414709,MOVIE,2018,R,105,"[''thriller'', ''european'', ''crime'', ''romance'']","[''DE'', ''CA'', ''US'']",tt6494688,4.3,15038,30.834,4.7
+2086,Woodshock,tm321295,MOVIE,2017,R,100,"[''thriller'', ''horror'', ''drama'', ''fantasy'']",['US'],tt4677924,4.2,1933,7.203,4.6
+2087,War Machine,tm233294,MOVIE,2017,R,122,"[''drama'', ''comedy'', ''war'']",['US'],tt4758646,6,45972,14.317,5.5
+2089,Security,tm324155,MOVIE,2017,R,87,"[''crime'', ''thriller'', ''action'', ''european'']",['US'],tt3501112,5.7,18618,26.587,6.1
+2090,Newness,tm289181,MOVIE,2017,,112,"[''drama'', ''romance'']",['US'],tt6408226,6.3,16459,32.566,6.1
+2093,Joan Didion: The Center Will Not Hold,tm351216,MOVIE,2017,,92,['documentation'],['US'],tt7253506,7.4,2596,8.004,7
+2094,Clive Davis: The Soundtrack of Our Lives,tm318200,MOVIE,2017,PG-13,123,"[''music'', ''documentation'']",['US'],tt6494358,7.5,950,7.169,6.3
+2103,We the Animals,tm370232,MOVIE,2018,R,94,['drama'],['US'],tt7681824,6.9,4181,7.888,6.5
+2105,Welcome Home,tm439484,MOVIE,2018,R,97,"[''thriller'', ''horror'', ''drama'']",['US'],tt6829180,5.2,7387,38.136,5.2
+2106,Midnight Sun,tm271960,MOVIE,2018,PG-13,91,"[''drama'', ''romance'', ''european'']",['US'],tt4799078,6.6,29565,39.39,7.8
+2107,Unicorn Store,tm349800,MOVIE,2017,,92,"[''fantasy'', ''comedy'', ''drama'']",['US'],tt2340044,5.5,19140,12.426,6
+2108,Tau,tm352588,MOVIE,2018,R,97,"[''thriller'', ''scifi'']",['US'],tt4357394,5.8,30611,12.489,6.2
+2113,If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd,tm411415,MOVIE,2018,,94,"[''documentation'', ''music'']",['US'],tt6216786,7.9,1285,4.268,7.7
+2114,Bathtubs Over Broadway,tm406881,MOVIE,2018,PG-13,87,"[''comedy'', ''music'', ''documentation'']",['US'],tt6029778,7.6,1065,4.324,8
+2117,What the Health,tm307910,MOVIE,2017,,97,['documentation'],['US'],tt5541848,7.4,28911,11.913,7
+2119,Duck Butter,tm368241,MOVIE,2018,,94,"[''drama'', ''comedy'', ''romance'']",['US'],tt6958014,5.3,3909,16.727,5.5
+2121,The Long Dumb Road,tm321596,MOVIE,2018,R,90,['comedy'],['US'],tt4712076,6.1,3172,4.554,5.6
+2131,Bill Nye: Science Guy,tm308090,MOVIE,2017,,95,['documentation'],['US'],tt4853154,6.5,1208,5.059,6.2
+2132,Mr. Roosevelt,tm271959,MOVIE,2017,,90,['comedy'],['US'],tt6212496,6.2,3320,5.449,6.1
+2133,John Mulaney: Kid Gorgeous at Radio City,tm411507,MOVIE,2018,R,65,['comedy'],['US'],tt8271714,7.9,7696,7.358,8
+2134,Win It All,tm245937,MOVIE,2017,,88,['comedy'],['US'],tt3155328,6.2,9108,8.219,5.7
+2141,In Darkness,tm409766,MOVIE,2018,,110,['thriller'],"[''GB'', ''US'']",tt5164184,5.7,13098,14.629,6
+2142,Shimmer Lake,tm322243,MOVIE,2017,,83,"[''thriller'', ''crime'', ''drama'']","[''CA'', ''US'']",tt1386691,6.3,14098,14.776,5.9
+2145,The Debt Collector,tm406111,MOVIE,2018,,96,"[''action'', ''comedy'']","[''GB'', ''US'']",tt7448180,5.8,7344,37.827,5.9
+2147,Day of the Dead: Bloodline,tm357479,MOVIE,2017,R,90,"[''horror'', ''drama'', ''scifi'', ''thriller'', ''action'', ''european'']","[''BG'', ''US'']",tt3053228,3.4,11841,26.557,4.6
+2148,Lovesong,tm232965,MOVIE,2017,,85,"[''romance'', ''drama'']",['US'],tt4305148,6.3,4908,8.31,5.7
+2150,Reversing Roe,tm431347,MOVIE,2018,,99,['documentation'],['US'],tt8948614,7.5,1281,7.687,7.5
+2151,First They Killed My Father,tm285356,MOVIE,2017,R,136,"[''drama'', ''history'', ''war'']","[''KH'', ''US'']",tt4882376,7.2,17871,15.383,7.4
+2152,The Titan,tm368040,MOVIE,2018,R,97,"[''thriller'', ''fantasy'', ''scifi'', ''drama'', ''romance'']","[''US'', ''GB'', ''ES'']",tt6973848,4.8,30698,17.421,5.4
+2156,Girlfriend's Day,tm285340,MOVIE,2017,,70,"[''drama'', ''comedy'']",['US'],tt2962984,5.2,4197,8.334,4.9
+2157,Animal Crackers,tm1883,MOVIE,2017,PG,105,"[''comedy'', ''animation'', ''family'', ''fantasy'']","[''CN'', ''US'', ''ES'']",tt4155534,5.8,3352,30.595,6.3
+2159,Dude,tm324870,MOVIE,2018,,90,"[''comedy'', ''drama'']",['US'],tt6151516,5.2,6873,10.632,5.5
+2161,Unrest,tm326624,MOVIE,2017,,97,"[''documentation'', ''drama'', ''history'', ''romance'', ''european'']","[''GB'', ''US'', ''DK'']",tt6510268,7.6,2904,7.2,7.2
+2163,Ibiza,tm411958,MOVIE,2018,,94,"[''comedy'', ''romance'']",['US'],tt3685236,5.2,17194,11.273,5.8
+2164,The Resurrection of Gavin Stone,tm270999,MOVIE,2017,PG,91,"[''drama'', ''family'', ''romance'', ''comedy'']",['US'],tt4902904,6.2,2233,6.538,6.5
+2166,Strong Island,tm307612,MOVIE,2017,,107,"[''documentation'', ''crime'']",['US'],tt5873150,6.4,3849,5.146,6.3
+2173,Bullet Head,tm353742,MOVIE,2017,R,93,"[''thriller'', ''crime'', ''drama'', ''european'']","[''BG'', ''US'']",tt6204340,5.4,9954,15.152,4.9
+2180,The Most Hated Woman in America,tm311789,MOVIE,2017,,91,"[''drama'', ''history'']",['US'],tt4842646,6.1,6540,9.912,6.1
+2190,Acts of Vengeance,tm348003,MOVIE,2017,R,87,"[''thriller'', ''action'', ''drama'', ''crime'', ''european'']","[''BG'', ''US'']",tt6288694,5.7,11971,26.746,5.9
+2195,Our Souls at Night,tm285295,MOVIE,2017,,101,"[''drama'', ''romance'']",['US'],tt5034266,6.9,13360,10.017,6.6
+2197,"Oh, Hello on Broadway",tm324124,MOVIE,2017,,102,['comedy'],['US'],tt6987652,7.7,3106,5.419,6.9
+2200,Birth of the Dragon,tm244519,MOVIE,2017,PG-13,120,"[''drama'', ''action'']","[''CN'', ''US'', ''CA'']",tt2720826,5.6,8112,21.99,5.8
+2201,Little Evil,tm260272,MOVIE,2017,,94,"[''comedy'', ''fantasy'', ''horror'']",['US'],tt2937366,5.7,21009,11.404,5.6
+2202,Gaga: Five Foot Two,tm347530,MOVIE,2017,,100,"[''music'', ''documentation'']",['US'],tt7291268,7,12825,11.642,7.5
+2207,The Angel,tm344886,MOVIE,2018,,114,"[''thriller'', ''action'', ''drama'']","[''IL'', ''MA'', ''US'', ''BG'', ''GB'']",tt5968274,6.6,14013,9.704,6.7
+2209,Benji,tm365122,MOVIE,2018,PG,87,"[''crime'', ''drama'', ''family'']","[''US'', ''AE'']",tt1799516,6.3,4544,12.438,7
+2211,White Fang,tm320670,MOVIE,2018,PG,87,"[''animation'', ''drama'', ''western'', ''european'']","[''FR'', ''LU'', ''US'']",tt7016508,6.9,3634,15.195,7.3
+2220,The Land of Steady Habits,tm425732,MOVIE,2018,,98,"[''drama'', ''comedy'']",['US'],tt6485928,6.2,7566,9.06,5.4
+2226,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,tm416105,MOVIE,2018,,74,"[''comedy'', ''music'', ''documentation'']",['US'],tt8075256,7.1,2556,4.985,6.6
+2230,Clinical,tm285171,MOVIE,2017,,104,"[''thriller'', ''horror'']",['US'],tt5577742,5.1,7904,14.594,5.3
+2242,Reprisal,tm420656,MOVIE,2018,R,89,"[''action'', ''thriller'', ''crime'', ''drama'']","[''GB'', ''US'']",tt6547170,4.2,7248,19.743,5.3
+2243,Like Father,tm420334,MOVIE,2018,R,103,"[''comedy'', ''drama'']",['US'],tt7170950,6.1,21202,9.294,6.3
+2246,The Open House,tm357820,MOVIE,2018,,94,"[''horror'', ''thriller'']",['US'],tt7608028,3.2,33769,10.26,3.7
+2247,Catfight,tm244521,MOVIE,2017,,96,"[''comedy'', ''drama'', ''action'']",['US'],tt5294198,5.9,6251,8.919,5.5
+2250,"My Teacher, My Obsession",tm419733,MOVIE,2018,,105,"[''thriller'', ''drama'']",['US'],tt6997574,4.4,2289,20.215,4.9
+2251,Take Me,tm315850,MOVIE,2017,,83,"[''comedy'', ''crime'', ''thriller'']",['US'],tt6598734,6.1,5566,8.559,5.7
+2259,The Christmas Chronicles,tm436844,MOVIE,2018,PG,104,"[''fantasy'', ''family'', ''comedy'']",['US'],tt2990140,7,71182,24.184,7.1
+2265,The Ottoman Lieutenant,tm285649,MOVIE,2017,R,111,"[''drama'', ''war'']","[''TR'', ''US'']",tt4943322,6.4,25582,16.645,6.1
+2268,Casting JonBenet,tm306811,MOVIE,2017,,81,"[''crime'', ''documentation'', ''drama'']","[''US'', ''AU'']",tt6333052,6.1,5384,10.671,5.7
+2272,Long Shot,tm351214,MOVIE,2017,,40,"[''documentation'', ''crime'', ''sport'']",['US'],tt7344360,7.4,7734,8.496,7.2
+2273,Outside In,tm347821,MOVIE,2018,,109,['drama'],['US'],tt7260048,6.7,4611,5.153,6.2
+2277,The Saint,tm327199,MOVIE,2017,PG-13,92,"[''crime'', ''action'']",['US'],tt2569088,4.9,6555,20.193,5.3
+2278,Voyeur,tm352774,MOVIE,2017,R,95,"[''documentation'', ''crime'', ''drama'']",['US'],tt3465276,6.2,5922,8.997,6
+2281,Get Me Roger Stone,tm313974,MOVIE,2017,,100,"[''history'', ''documentation'']",['US'],tt6714534,7.4,7333,7.365,7
+2285,Hey Arnold! The Jungle Movie,tm305437,MOVIE,2017,,81,"[''comedy'', ''animation'', ''action'', ''family'', ''fantasy'']",['US'],tt5257726,7.5,3139,20.281,7.7
+2286,Irreplaceable You,tm369179,MOVIE,2018,,96,"[''drama'', ''comedy'', ''romance'']",['US'],tt6119856,6.4,9442,18.453,7
+2289,Amar,tm307515,MOVIE,2017,,105,"[''romance'', ''drama'', ''european'']","[''ES'', ''US'']",tt5479616,5.1,4397,5.262,5
+2291,Carrie Pilby,tm219252,MOVIE,2017,,98,"[''comedy'', ''drama'']",['US'],tt6189446,6.7,11311,12.509,7
+2295,Fun Mom Dinner,tm290831,MOVIE,2017,R,81,['comedy'],['US'],tt6174314,5.3,5509,14.054,5.7
+2298,Springsteen On Broadway,tm445735,MOVIE,2018,,153,"[''documentation'', ''music'']",['US'],tt8716334,8.5,2178,5.263,8
+2304,Te Ata,tm245383,MOVIE,2017,PG,105,"[''drama'', ''history'']",['US'],tt5225360,7.4,736,6.381,7.2
+2305,Cuba and the Cameraman,tm349529,MOVIE,2017,,113,['documentation'],"[''CU'', ''US'']",tt7320560,8.3,4715,8.738,7.7
+2313,You Get Me,tm244368,MOVIE,2017,,89,"[''thriller'', ''crime'', ''drama'', ''romance'']",['US'],tt5539054,4.7,12740,24.968,5.6
+2316,Sarah Silverman: A Speck of Dust,tm323195,MOVIE,2017,,71,"[''comedy'', ''documentation'']",['US'],tt6948354,6.9,3711,4.857,6.9
+2319,Hasan Minhaj: Homecoming King,tm322569,MOVIE,2017,,72,"[''comedy'', ''documentation'']",['US'],tt6900940,8.2,7120,5.727,7.8
+2332,Quincy,tm427465,MOVIE,2018,,124,"[''music'', ''documentation'']",['US'],tt7440432,7.6,4488,7.629,7.4
+2333,Struggle: The Life and Lost Art of Szukalski,tm445899,MOVIE,2018,,104,"[''documentation'', ''european'']","[''US'', ''PL'']",tt9316022,7.9,4082,6.423,7.6
+2334,The Outcasts,tm139564,MOVIE,2017,PG-13,95,['comedy'],['US'],tt2597760,5.4,4426,12.942,6.2
+2336,Bending the Arc,tm313487,MOVIE,2017,,102,['documentation'],['US'],tt6370266,8,314,4.813,8
+2341,Adam Sandler: 100% Fresh,tm437608,MOVIE,2018,R,73,"[''comedy'', ''music'']",['US'],tt9036126,7.5,5096,10.176,7.3
+2343,An Imperfect Murder,tm336712,MOVIE,2017,R,71,"[''crime'', ''drama'', ''thriller'']",['US'],tt6469960,3.1,1594,7.251,4.4
+2344,Mike Birbiglia: Thank God for Jokes,tm307950,MOVIE,2017,,71,['comedy'],['US'],tt6608034,7.4,2465,4.404,7.4
+2345,Sky Ladder: The Art of Cai Guo-Qiang,tm236659,MOVIE,2017,,80,['documentation'],['US'],tt5278930,7.3,1436,5.166,7
+2346,Gnome Alone,tm327540,MOVIE,2017,PG,85,"[''fantasy'', ''family'', ''drama'', ''comedy'', ''thriller'', ''music'', ''animation'']","[''US'', ''CA'', ''GB'']",tt5851786,5.6,3410,19.913,6.2
+2352,Neal Brennan: 3 Mics,tm293867,MOVIE,2017,,65,"[''comedy'', ''documentation'']",['US'],tt6438918,7.8,3228,3.807,7.3
+2353,Sandy Wexler,tm266685,MOVIE,2017,,130,['comedy'],['US'],tt5893332,5.2,16603,14.548,5.5
+2354,WHAT DID JACK DO?,tm839847,MOVIE,2017,,17,['comedy'],['US'],,,,6.823,6.4
+2355,The Week Of,tm370392,MOVIE,2018,PG-13,116,['comedy'],['US'],tt6821012,5.2,21481,15.364,5.4
+2356,Naked,tm285298,MOVIE,2017,,96,"[''comedy'', ''fantasy'', ''romance'']",['US'],tt6048930,5.4,19366,24.805,5.7
+2358,The Bleeding Edge,tm404475,MOVIE,2018,,100,['documentation'],['US'],tt8106576,7.6,2671,11.687,6.7
+2361,Taylor Swift: Reputation Stadium Tour,tm448122,MOVIE,2018,PG-13,125,"[''documentation'', ''music'']",['US'],tt9426852,8.3,5293,11.864,8.2
+2363,John Leguizamo's Latin History for Morons,tm440415,MOVIE,2018,PG,89,"[''comedy'', ''documentation'']",['US'],tt9777830,7.4,738,5.255,7.4
+2367,Charming,tm233485,MOVIE,2018,,90,"[''fantasy'', ''animation'', ''comedy'', ''family'']",['US'],tt4086018,5.6,3467,13.039,6.5
+2376,The Polka King,tm326723,MOVIE,2017,,95,"[''comedy'', ''drama'', ''music'']",['US'],tt5539052,5.9,10428,11.394,5.5
+2378,The Legacy of a Whitetail Deer Hunter,tm238377,MOVIE,2018,,83,"[''comedy'', ''drama'']",['US'],tt4762824,5.5,3909,7.024,5
+2379,Come Sunday,tm366820,MOVIE,2018,,106,['drama'],['US'],tt1690967,6,2287,8.424,5.8
+2381,The Death and Life of Marsha P. Johnson,tm313988,MOVIE,2017,,105,['documentation'],['US'],tt5233558,7.2,2881,7.371,7.3
+2383,Monster High: Electrified,tm312767,MOVIE,2017,PG,72,"[''animation'', ''fantasy'']",['US'],tt9408950,5.5,300,18.103,7.2
+2386,Fred Armisen: Standup for Drummers,tm370628,MOVIE,2018,,65,"[''music'', ''comedy'']",['US'],tt7924798,5.8,1276,4.789,6.2
+2392,S.W.A.T.: Under Siege,tm327622,MOVIE,2017,R,89,"[''thriller'', ''crime'', ''action'']",['US'],tt6014472,4.5,3524,36.599,5.8
+2394,Generation Iron 3,tm443186,MOVIE,2018,,75,['documentation'],['US'],tt8178958,6.2,3333,5.547,6.7
+2398,Whose Streets?,tm313293,MOVIE,2017,R,90,['documentation'],['US'],tt6185288,5.5,1337,3.573,5.8
+2399,One of Us,tm349138,MOVIE,2017,,95,['documentation'],['US'],tt7214842,7,6482,9.06,7
+2400,The Rachel Divide,tm376801,MOVIE,2018,,104,['documentation'],['US'],tt8106570,6.3,2512,5.704,6.2
+2402,Brian Regan: Nunchucks and Flamethrowers,tm358242,MOVIE,2017,,61,"[''comedy'', ''documentation'']",['US'],tt7679532,6.3,679,4.316,6
+2404,Alex Strangelove,tm409618,MOVIE,2018,R,99,"[''drama'', ''comedy'', ''romance'']",['US'],tt5688996,6.3,17305,13.149,6.6
+2405,Lowriders,tm244274,MOVIE,2017,PG-13,99,"[''drama'', ''crime'']",['US'],tt1366338,5.6,2519,11.461,6.7
+2407,End Game,tm376840,MOVIE,2018,,40,['documentation'],['US'],,,,6.215,7.2
+2408,Chris Rock: Tamborine,tm372891,MOVIE,2018,,64,"[''comedy'', ''documentation'']",['US'],tt8005338,6.6,6816,7.142,6.5
+2412,Justice,tm318641,MOVIE,2017,R,92,"[''western'', ''drama'', ''action'', ''european'']",['US'],tt5143890,4,1208,5.465,5.8
+2414,NY Prison Break: The Seduction of Joyce Mitchell,tm314829,MOVIE,2017,,84,"[''crime'', ''drama'']",['US'],tt6710568,5.6,322,3.785,5.8
+2415,Tom Segura: Disgraceful,tm366973,MOVIE,2018,PG-13,74,"[''comedy'', ''documentation'']",['US'],tt7379330,7.5,3695,2.908,7
+2417,Sierra Burgess Is a Loser,tm420797,MOVIE,2018,PG-13,105,"[''drama'', ''romance'', ''comedy'']",['US'],tt3120280,5.8,38319,10.057,6.4
+2421,Christmas Inheritance,tm359714,MOVIE,2017,,105,"[''romance'', ''comedy'', ''drama'']",['US'],tt7608534,5.7,11693,18.065,6.4
+2422,Jo Koy: Live from Seattle,tm314705,MOVIE,2017,,63,['comedy'],['US'],tt6720442,7.1,1322,3.559,7
+2423,Puss in Book: Trapped in an Epic Tale,tm325102,MOVIE,2017,G,23,['fantasy'],['US'],,,,20.552,6.5
+2428,Christmas in the Heartland,tm363787,MOVIE,2017,,90,['family'],['US'],tt3396114,5.9,1414,5.892,6.3
+2431,A Christmas Prince,tm355724,MOVIE,2017,PG,92,"[''romance'', ''comedy'', ''family'']",['US'],tt7608418,5.7,19456,11.202,6.6
+2435,Father of the Year,tm420989,MOVIE,2018,,94,['comedy'],['US'],tt7256866,5.2,11281,11.325,5.4
+2437,Killing Hasselhoff,tm348010,MOVIE,2017,R,79,['comedy'],['US'],tt2967226,4.4,2655,6.236,4.6
+2438,Pottersville,tm357552,MOVIE,2017,,85,['comedy'],['US'],tt3672120,5.4,4674,8.332,5
+2442,Derren Brown: Sacrifice,tm437631,MOVIE,2018,,49,"[''documentation'', ''reality'']",['US'],tt9077188,7.1,1786,7.887,7.4
+2445,Happy Anniversary,tm404690,MOVIE,2018,,78,['comedy'],['US'],tt6423886,5.7,4219,13.649,5.8
+2446,Maria Bamford: Old Baby,tm320249,MOVIE,2017,,64,"[''comedy'', ''documentation'']",['US'],tt6264596,6.1,945,3.717,5.4
+2460,The B-Side: Elsa Dorfman's Portrait Photography,tm270490,MOVIE,2017,R,76,['documentation'],['US'],tt5952468,6.7,743,4.303,6.8
+2461,A Very Country Christmas,tm358949,MOVIE,2017,G,83,"[''romance'', ''drama'', ''family'', ''comedy'']","[''CA'', ''US'']",tt7001906,6,1622,5.089,6.5
+2466,Bert Kreischer: Secret Time,tm429377,MOVIE,2018,,57,"[''comedy'', ''documentation'']",['US'],tt8786466,7.3,2307,3.406,7.3
+2468,Show Dogs,tm330869,MOVIE,2018,PG,90,"[''comedy'', ''crime'', ''family'']","[''GB'', ''US'']",tt5691024,3.9,4653,9.606,6
+2469,Escape from Mr. Lemoncello's Library,tm350607,MOVIE,2017,G,69,"[''fantasy'', ''family'']","[''CA'', ''US'']",tt5878476,5.4,440,13.259,5.9
+2472,Amateur,tm407295,MOVIE,2018,R,96,"[''drama'', ''sport'']",['US'],tt5580392,5.9,4303,11.572,6.5
+2479,All I Wish,tm344173,MOVIE,2018,G,94,"[''comedy'', ''drama'', ''romance'']",['US'],tt1492705,5.2,1564,7.403,5.8
+2482,"Ram Dass, Going Home",tm362180,MOVIE,2017,PG-13,31,['documentation'],['US'],,,,4.965,5.5
+2483,The Clapper,tm294581,MOVIE,2018,R,89,"[''comedy'', ''drama'']",['US'],tt5461956,5.1,7425,8.617,4.9
+2484,Chasing Coral,tm313120,MOVIE,2017,,93,['documentation'],['US'],tt6333054,8.1,5143,10.875,7.9
+2492,Take Your Pills,tm374216,MOVIE,2018,,87,['documentation'],['US'],tt7983844,6.3,5048,13.958,6.6
+2501,6 Balloons,tm371959,MOVIE,2018,,75,['drama'],['US'],tt6142496,5.9,4087,10.88,6.1
+2502,#realityhigh,tm320206,MOVIE,2017,,99,"[''comedy'', ''drama'', ''romance'']",['US'],tt6119504,5.2,6283,17.721,6.4
+2515,They'll Love Me When I'm Dead,tm425884,MOVIE,2018,,98,['documentation'],['US'],tt6893836,7.4,4953,7.99,7.3
+2516,Nappily Ever After,tm429382,MOVIE,2018,NC-17,100,"[''comedy'', ''drama'', ''romance'']",['US'],tt0365545,6.4,9139,15.079,7.2
+2518,Handsome: A Netflix Mystery Movie,tm313748,MOVIE,2017,,81,"[''comedy'', ''documentation'']",['US'],tt8836958,5.2,4465,9.533,5.3
+2525,The Legend of Cocaine Island,tm463806,MOVIE,2018,,87,['documentation'],['US'],tt8106596,6.3,3287,11.611,6.5
+2535,Shepherds and Butchers,tm238587,MOVIE,2017,R,106,"[''drama'', ''crime'']","[''US'', ''DE'', ''ZA'']",tt4627352,6.8,3460,8.502,6.4
+2536,The Most Unknown,tm410748,MOVIE,2018,,92,['documentation'],['US'],tt8126390,6.6,2067,5.378,6.5
+2538,LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat,tm376015,MOVIE,2017,,21,"[''animation'', ''fantasy'', ''scifi'', ''action'', ''comedy'']",['US'],tt7387224,5.9,444,12.929,7.1
+2540,"Ron White: If You Quit Listening, I''ll Shut Up",tm434727,MOVIE,2018,,63,['comedy'],['US'],tt9060534,6.5,827,2.626,6.3
+2544,Demetri Martin: The Overthinker,tm426202,MOVIE,2018,,56,['comedy'],['US'],tt7725144,7.2,1697,4.156,7
+2545,Katt Williams: Great America,tm367008,MOVIE,2018,,60,['comedy'],['US'],tt8536972,6.2,940,3.422,5.4
+2548,El Camino Christmas,tm359713,MOVIE,2017,,97,"[''crime'', ''comedy'', ''western'']",['US'],tt3255590,5.7,8519,7.955,5.6
+2550,Patton Oswalt: Annihilation,tm353046,MOVIE,2017,,66,"[''comedy'', ''documentation'']",['US'],tt7026230,7.2,2367,4.233,7.1
+2553,Amy Schumer: The Leather Special,tm311283,MOVIE,2017,,57,['comedy'],['US'],tt6616074,3,9753,7.927,4.1
+2559,The American Meme,tm411358,MOVIE,2018,,95,['documentation'],['US'],tt8106558,6.8,17034,6.288,5.9
+2563,Family Blood,tm405901,MOVIE,2018,,92,"[''horror'', ''thriller'', ''drama'']",['US'],tt7895904,4.2,2934,11.041,4.6
+2575,First Match,tm372305,MOVIE,2018,,102,"[''drama'', ''sport'']",['US'],tt6061074,6.4,2242,12.663,6.6
+2576,Point Blank,tm515157,MOVIE,2017,NC-17,86,"[''action'', ''thriller'', ''crime'', ''drama'']",['US'],tt2499472,5.7,14184,16.224,6.1
+2578,The Princess Switch,tm441198,MOVIE,2018,PG,101,"[''romance'', ''comedy'', ''drama'', ''family'']",['US'],tt8954732,6,27650,14.783,7
+2579,Sanju,tm366590,MOVIE,2018,,161,"[''drama'', ''comedy'']","[''IN'', ''US'']",tt6452574,7.7,52227,8.906,7.4
+2580,LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda,tm418039,MOVIE,2018,,22,"[''fantasy'', ''action'', ''comedy'', ''scifi'', ''animation'']",['US'],tt8205250,5.6,551,8.657,6.7
+2583,Nigerian Prince,tm411288,MOVIE,2018,,104,"[''thriller'', ''crime'', ''drama'']","[''US'', ''NG'']",tt6851966,5.8,383,5.059,5.4
+2584,Sun Dogs,tm244321,MOVIE,2017,,93,"[''drama'', ''fantasy'', ''comedy'']","[''MX'', ''US'']",tt5665452,6.2,2284,5.027,6.8
+2597,Ronnie Coleman: The King,tm421776,MOVIE,2018,,93,['documentation'],['US'],tt7217214,7,3730,8.205,6.8
+2598,Nobody Speak: Trials of the Free Press,tm314295,MOVIE,2017,,95,"[''documentation'', ''european'']","[''NL'', ''US'']",tt6333064,6.5,4092,7.95,6.1
+2607,Little Boxes,tm242108,MOVIE,2017,,84,"[''drama'', ''comedy'']",['US'],tt5030402,5.9,1971,7.118,6.3
+2610,Jerry Before Seinfeld,tm348568,MOVIE,2017,,62,"[''comedy'', ''documentation'']",['US'],tt7310906,7,5643,7.723,7
+2611,"Norm Macdonald: Hitler''s Dog, Gossip & Trickery",tm320727,MOVIE,2017,,60,"[''comedy'', ''documentation'']",['US'],tt6887486,7.4,2868,4.028,6.9
+2613,Mustang Island,tm365961,MOVIE,2017,,86,"[''comedy'', ''drama'']",['US'],tt6589292,6.2,522,3.289,6.2
+2615,Edge of Fear,tm427143,MOVIE,2018,R,91,"[''thriller'', ''crime'', ''action'']",['US'],tt7149916,4.5,3124,14.161,4.7
+2624,Step Sisters,tm280060,MOVIE,2018,PG-13,104,['comedy'],['US'],tt5267472,5.4,4460,12.158,6.5
+2629,SPF-18,tm347850,MOVIE,2017,PG-13,75,"[''romance'', ''drama'', ''sport'']",['US'],tt7296862,3.2,5122,17.736,4.4
+2633,ReMastered: Tricky Dick & The Man in Black,tm441060,MOVIE,2018,,58,"[''documentation'', ''music'']",['US'],tt9244438,7.1,1463,3.029,6.8
+2634,Joe Rogan: Strange Times,tm434676,MOVIE,2018,,63,['comedy'],['US'],tt9017614,7.3,4300,4.202,7.2
+2635,Alaska Is a Drag,tm346939,MOVIE,2017,,83,['drama'],['US'],tt4341390,6.5,386,2.535,7
+2637,A Christmas Prince: The Royal Wedding,tm438995,MOVIE,2018,PG,101,"[''romance'', ''drama'']",['US'],tt8709036,5.3,10658,8.776,6.4
+2641,Trevor Noah: Son of Patricia,tm440996,MOVIE,2018,R,63,['comedy'],['US'],tt9170648,7.3,3970,4.752,7.1
+2643,Pup Star: Better 2Gether,tm348073,MOVIE,2017,G,90,['family'],['US'],tt6357074,4.4,234,3.719,6
+2653,Saving Capitalism,tm355666,MOVIE,2017,,73,['documentation'],['US'],tt6185286,6.8,3157,6.514,6.6
+2656,Ali Wong: Hard Knock Wife,tm409494,MOVIE,2018,,64,['comedy'],['US'],tt7410684,7.3,4874,6.463,7
+2657,The Last Shaman,tm348392,MOVIE,2017,,83,"[''documentation'', ''drama'', ''family'', ''european'']","[''GB'', ''US'', ''IL'', ''IT'', ''PE'']",tt6080156,6.6,1865,5.506,6.9
+2658,Feminists: What Were They Thinking?,tm375007,MOVIE,2018,,86,['documentation'],['US'],tt5419676,6.9,2196,11.455,7.9
+2663,Barbra: The Music ... The Mem'ries ... The Magic!,tm357272,MOVIE,2017,,108,"[''documentation'', ''music'']",['US'],tt7588584,7.5,448,7.098,7.4
+2667,Heroin(e),tm349752,MOVIE,2017,,39,['documentation'],['US'],,,,7.442,7.1
+2671,Small Crimes,tm311898,MOVIE,2017,,95,"[''crime'', ''drama'', ''thriller'']","[''CA'', ''US'']",tt6158968,5.8,7948,11.022,5.4
+2675,Craig Ferguson: Tickle Fight,tm361770,MOVIE,2017,,66,['comedy'],['US'],tt7193448,6.6,995,3.054,6.2
+2679,Deidra & Laney Rob a Train,tm279585,MOVIE,2017,,92,"[''drama'', ''comedy'', ''crime'']",['US'],tt4144332,6,1887,8.911,5.6
+2681,Candy Jar,tm411503,MOVIE,2018,PG-13,92,['comedy'],['US'],tt6744044,5.8,4950,12.039,6.2
+2685,"Roxanne, Roxanne",tm327652,MOVIE,2017,,98,"[''drama'', ''music'']",['US'],tt5796838,6.2,3173,9.326,6.1
+2691,ReMastered: Who Shot the Sheriff,tm437159,MOVIE,2018,,57,"[''documentation'', ''crime'', ''history'', ''music'']",['US'],tt9118620,6.9,1381,3.395,6.9
+2693,What We Started,tm324278,MOVIE,2018,,70,"[''documentation'', ''music'']",['US'],tt6191876,7.1,2126,4.392,7.2
+2694,Marc Maron: Too Real,tm348845,MOVIE,2017,,70,['comedy'],['US'],tt7335938,7.2,1916,4.172,6.8
+2695,Christina P: Mother Inferior,tm353627,MOVIE,2017,,59,['comedy'],['US'],tt7057376,6.4,941,4.556,6.1
+2700,Bill Burr: Walk Your Way Out,tm300447,MOVIE,2017,,77,"[''comedy'', ''documentation'']",['US'],tt6184894,7.2,7123,5.351,6.7
+2702,Trevor Noah: Afraid of the Dark,tm306631,MOVIE,2017,PG-13,68,['comedy'],['US'],tt6562866,7.2,5121,5.055,7.1
+2704,Period. End of Sentence.,tm414595,MOVIE,2018,,26,['documentation'],['US'],,,,6.085,8
+2723,ReMastered: Who Killed Jam Master Jay?,tm447328,MOVIE,2018,,58,"[''music'', ''documentation'']",['US'],tt9399094,6.5,768,2.67,6.5
+2724,Love Beats Rhymes,tm233345,MOVIE,2017,R,105,['drama'],['US'],tt4721022,5.4,1057,9.665,5.7
+2725,Burning Sands,tm283322,MOVIE,2017,,105,"[''drama'', ''thriller'', ''action'']",['US'],tt6148014,6,2828,11.741,5.8
+2726,Judd Apatow: The Return,tm358813,MOVIE,2017,,69,['comedy'],['US'],tt7741238,6.2,1321,5.146,6.2
+2733,Iliza Shlesinger: Elder Millennial,tm423761,MOVIE,2018,,72,['comedy'],['US'],tt8697266,7.2,4033,5.896,7.2
+2737,Being Napoleon,tm428597,MOVIE,2018,,88,['documentation'],['US'],tt8841814,5.5,124,2.389,6
+2740,Paradox,tm370440,MOVIE,2018,,73,"[''western'', ''fantasy'', ''music'']",['US'],tt7949046,3.9,711,4.603,3.3
+2743,Counterpunch,tm324806,MOVIE,2017,,91,['documentation'],['US'],tt7022034,6.7,903,15.712,6.7
+2744,Weed the People,tm373873,MOVIE,2018,,98,['documentation'],['US'],tt7968976,7.3,332,3.849,8
+2746,Rory Scovel Tries Stand-Up for the First Time,tm324588,MOVIE,2017,,66,"[''comedy'', ''documentation'']",['US'],tt7044010,6.7,821,1.917,7.4
+2750,Milada,tm367264,MOVIE,2017,,130,"[''drama'', ''history'', ''european'']","[''CZ'', ''US'']",tt4554212,6.3,1302,8.714,6.9
+2752,The Most Assassinated Woman in the World,tm351720,MOVIE,2018,,102,"[''thriller'', ''drama'', ''european'']","[''BE'', ''GB'', ''US'']",tt6186696,5.3,1076,6.741,5.3
+2753,Jackie: A Tale of Two Sisters,tm324042,MOVIE,2017,,44,['documentation'],"[''GB'', ''US'']",,,,1.896,4.3
+2759,"Michael Bolton''s Big, Sexy Valentine''s Day Special",tm279017,MOVIE,2017,,54,"[''comedy'', ''music'', ''romance'']",['US'],tt6343706,6.7,2102,6.613,6.6
+2760,A Champion Heart,tm558730,MOVIE,2018,G,90,['family'],['US'],tt4738912,5.9,395,5.224,8.2
+2785,Recovery Boys,tm413082,MOVIE,2018,,90,['documentation'],['US'],tt8167872,6.7,714,6.523,6.6
+2788,Buddy Thunderstruck: The Maybe Pile,tm327219,MOVIE,2017,,13,['comedy'],['US'],,,,2.676,7.5
+2790,Frat Star,tm316658,MOVIE,2017,,85,"[''drama'', ''comedy'']",['US'],tt5117484,3.6,659,4.985,4.9
+2799,The Holiday Calendar,tm438994,MOVIE,2018,,95,"[''romance'', ''comedy'', ''drama'', ''fantasy'']",['US'],tt8262802,5.7,9985,9.382,6.7
+2800,Cities of Last Things,tm428453,MOVIE,2018,,106,"[''crime'', ''drama'', ''scifi'']","[''TW'', ''US'', ''CN'', ''FR'']",tt4397342,6.2,1615,5.868,6.4
+2804,Seeing Allred,tm363003,MOVIE,2018,,96,['documentation'],['US'],tt7689924,7.2,1338,6.668,6.9
+2816,Coin Heist,tm275437,MOVIE,2017,PG,97,"[''crime'', ''thriller'', ''drama'', ''romance'']",['US'],tt5740806,4.8,2638,12.576,5.4
+2823,The Mars Generation,tm320785,MOVIE,2017,,97,['documentation'],['US'],tt6333096,6.5,989,5.021,6.6
+2833,Gad Elmaleh: American Dream,tm374226,MOVIE,2018,,57,['comedy'],['US'],tt8110630,7.2,1028,5.417,6.8
+2834,Maz Jobrani: Immigrant,tm337040,MOVIE,2017,,67,"[''comedy'', ''documentation'']",['US'],tt7164714,6.7,840,3.08,6.2
+2835,Love Jacked,tm446574,MOVIE,2018,PG-13,100,"[''comedy'', ''romance'']","[''CA'', ''ZA'', ''US'']",tt4329242,5.9,2142,8.818,6.1
+2837,Michael Lost and Found,tm323907,MOVIE,2017,,19,['documentation'],"[''CA'', ''US'']",,,,1.991,5.8
+2839,Resurface,tm348386,MOVIE,2017,,27,"[''documentation'', ''sport'', ''war'']",['US'],tt6081408,7.1,286,1.642,7.1
+2842,Take the 10,tm285329,MOVIE,2017,,80,['comedy'],['US'],tt5792472,4.7,3130,9.312,5.2
+2848,Liberated: The New Sexual Revolution,tm370430,MOVIE,2017,,84,['documentation'],"[''MX'', ''US'']",tt6768350,6,1502,5.251,6.6
+2854,Kevin James: Never Don't Give Up,tm411257,MOVIE,2018,PG,62,['comedy'],['US'],tt8324578,6.1,1448,4.617,6.3
+2861,Weapon of Choice,tm430057,MOVIE,2018,,90,"[''documentation'', ''european'']","[''AT'', ''IQ'', ''US'']",tt7683350,4.8,162,2.08,5.3
+2864,D.L. Hughley: Contrarian,tm430496,MOVIE,2018,,58,['comedy'],['US'],tt8426270,6.6,606,2.164,5.2
+2867,Zion,tm374656,MOVIE,2018,,10,"[''documentation'', ''drama'']",['US'],tt4315044,,,6.258,6.5
+2880,Tiffany Haddish: She Ready! From the Hood to Hollywood!,tm326270,MOVIE,2017,,65,"[''comedy'', ''documentation'']",['US'],tt9238720,6.6,526,3.661,7.4
+2882,Party Monster: Scratching the Surface,tm429567,MOVIE,2018,PG-13,33,['comedy'],['US'],,,,1.35,6.9
+2885,Jen Kirkman: Just Keep Livin'?,tm285712,MOVIE,2017,,69,['comedy'],['US'],tt6386352,6.7,1281,3.985,6.6
+2891,Cristela Alonzo: Lower Classy,tm299790,MOVIE,2017,,66,['comedy'],['US'],tt6555236,6.4,845,4.083,6.2
+2900,Lucas Brothers: On Drugs,tm316744,MOVIE,2017,,49,['comedy'],['US'],tt6218048,5.5,830,2.609,5.1
+2902,Loudon Wainwright III: Surviving Twin,tm443283,MOVIE,2018,,91,"[''music'', ''documentation'']",['US'],tt9203030,7.1,94,1.272,8
+2909,Def Comedy Jam 25,tm351688,MOVIE,2017,,81,"[''comedy'', ''documentation'']",['US'],tt7427130,6.6,1096,3.101,6.1
+2913,Jim Jefferies: This Is Me Now,tm421335,MOVIE,2018,,70,['comedy'],['US'],tt8617844,7.3,3984,5.57,6.8
+2917,Stars in the Sky: A Hunting Story,tm461349,MOVIE,2018,,69,['documentation'],['US'],tt10078502,7.3,333,2.044,5.5
+2918,Notes from Dunblane: Lessons from a School Shooting,tm435144,MOVIE,2018,,23,['documentation'],['US'],,,,3.85,6.1
+2923,"Out of Many, One",tm443073,MOVIE,2018,,35,['documentation'],['US'],,,,1.32,5.8
+2926,Judah Friedlander: America Is the Greatest Country in the United States,tm356666,MOVIE,2017,R,84,"[''comedy'', ''documentation'']",['US'],tt7582890,7.8,1436,4.414,7.4
+2932,Todd Barry: Spicy Honey,tm362047,MOVIE,2017,,60,['comedy'],['US'],tt6856186,6.8,840,3.711,7.3
+2933,Joshua: Teenager vs. Superpower,tm323300,MOVIE,2017,,78,['documentation'],['US'],tt6333072,7.2,1531,6.826,7.3
+2937,Todo lo que sería Lucas Lauriente,tm408257,MOVIE,2018,,78,['comedy'],"[''AR'', ''US'']",tt7607452,6.9,108,1.366,7.5
+2941,Hari Kondabolu: Warn Your Relatives,tm411856,MOVIE,2018,,67,['comedy'],['US'],tt8342748,6.5,837,2.215,5.9
+2947,Jim Norton: Mouthful of Shame,tm311902,MOVIE,2017,,61,['comedy'],['US'],tt6664120,7,1324,4.476,6.9
+2951,A StoryBots Christmas,tm361312,MOVIE,2017,,25,"[''fantasy'', ''comedy'', ''family'']",['US'],tt7018722,5.7,156,5.004,6.2
+2961,Marlon Wayans: Woke-ish,tm375091,MOVIE,2018,,68,"[''comedy'', ''documentation'']",['US'],tt7655590,6.5,1390,5.269,6.4
+2982,Spivak,tm414340,MOVIE,2018,,91,['comedy'],['US'],tt6342110,5.6,732,3.649,5.6
+2983,For Here or to Go?,tm197806,MOVIE,2017,,105,"[''drama'', ''comedy'']",['US'],tt4157510,6.8,605,2.197,7
+2986,Late Life: The Chien-Ming Wang Story,tm431169,MOVIE,2018,,97,"[''documentation'', ''sport'']","[''TW'', ''US'']",tt8234502,7.2,465,2.399,6.3
+3004,Vir Das: Abroad Understanding,tm319127,MOVIE,2017,,65,['comedy'],"[''US'', ''IN'']",tt6822400,6.9,1697,3.13,6.9
+3010,Joe Mande's Award-Winning Comedy Special,tm327636,MOVIE,2017,,66,"[''comedy'', ''documentation'']",['US'],tt7183876,6.1,498,2.915,6.3
+3017,Super Monsters and the Wish Star,tm447263,MOVIE,2018,,27,['fantasy'],['US'],,,,2.821,6
+3018,Ryan Hamilton: Happy Face,tm346398,MOVIE,2017,,56,"[''comedy'', ''documentation'']",['US'],tt6892378,7.3,921,2.828,7
+3025,Jim Gaffigan: Cinco,tm286520,MOVIE,2017,,73,['comedy'],['US'],tt6090102,7.1,2381,4.898,7
+3026,Free Rein: The Twelve Neighs of Christmas,tm447261,MOVIE,2018,,58,"[''comedy'', ''drama'', ''family'']",['US'],tt9315418,6.7,5633,8.311,6.9
+3032,Brad Paisley's Comedy Rodeo,tm346390,MOVIE,2017,,63,['comedy'],['US'],tt6794448,5.7,151,2.044,6.5
+3038,Puppy Star Christmas,tm444576,MOVIE,2018,PG,90,"[''family'', ''comedy'']",['US'],tt8861786,3.6,248,6.999,5.7
+3039,Mo Amer: The Vagabond,tm434776,MOVIE,2018,,56,"[''comedy'', ''documentation'']",['US'],tt9060526,7.3,799,2.008,5.7
+3046,Rodney King,tm319477,MOVIE,2017,,52,"[''crime'', ''comedy'', ''drama'', ''history'', ''documentation'']",['US'],tt6624312,5.8,601,2.444,5.2
+3052,Pup Star: World Tour,tm413266,MOVIE,2018,G,87,"[''comedy'', ''family'']","[''CA'', ''JP'', ''US'']",tt7322864,3.8,207,5.884,5.7
+3054,Chris D'Elia: Man on Fire,tm325610,MOVIE,2017,,65,"[''comedy'', ''documentation'']",['US'],tt7068896,6.5,1720,2.801,6.2
+3057,DeRay Davis: How to Act Black,tm358239,MOVIE,2017,PG,66,['comedy'],['US'],tt7288084,6.1,427,3.191,6.1
+3064,Jani Dueñas: Grandes fracasos de ayer y hoy,tm376709,MOVIE,2018,,77,['comedy'],"[''CL'', ''MX'', ''US'']",tt7607260,4.8,71,1.815,6
+3068,Stretch Armstrong: The Breakout,tm404610,MOVIE,2018,,45,['animation'],['US'],,,,1.982,6
+3096,Salam - The First ****** Nobel Laureate,tm478654,MOVIE,2018,,75,['documentation'],['US'],tt7904606,7.8,414,2.916,7.3
+3097,Todd Glass: Act Happy,tm369079,MOVIE,2018,,62,['comedy'],['US'],tt7752142,5.1,366,2.867,5.7
+3101,Enissa Amani: Ehrenwort,tm411528,MOVIE,2018,PG,65,"[''comedy'', ''european'']",['US'],tt8328418,5.5,194,2.274,5.6
+3107,Lynne Koplitz: Hormonal Beast,tm346867,MOVIE,2017,,51,['comedy'],['US'],tt6892388,6.2,417,1.387,5.6
+3132,Harith Iskander: I Told You So,tm368006,MOVIE,2018,,61,['comedy'],['US'],tt7902184,4.6,172,2.547,5.5
+3139,King of Peking,tm325650,MOVIE,2017,,88,"[''comedy'', ''drama'']","[''US'', ''CN'', ''AU'']",tt6406976,6.4,364,2.237,6.2
+3142,Beat Bugs: All Together Now,tm364525,MOVIE,2017,,50,['animation'],['US'],,,,3.844,5.6
+3145,Vir Das: Losing It,tm447514,MOVIE,2018,PG-13,67,['comedy'],['US'],tt9315848,7,1238,3.413,7.7
+3154,W. Kamau Bell: Private School Negro,tm421161,MOVIE,2018,,65,['comedy'],['US'],tt8467788,6.4,770,1.961,6.3
+3168,Super Monsters Save Halloween,tm436704,MOVIE,2018,,24,"[''animation'', ''family'']",['US'],tt9085726,5.4,27,4.147,6.6
+3169,Elf Pets: Santa's St. Bernards Save Christmas,tm441915,MOVIE,2018,G,26,"[''animation'', ''fantasy'']",['US'],tt9233904,5.3,95,1.17,2
+3179,The Gentlemen,tm441050,MOVIE,2019,R,113,"[''comedy'', ''crime'', ''action'']","[''US'', ''GB'']",tt8367814,7.8,314049,67.663,7.7
+3187,The Rental,tm681578,MOVIE,2020,R,88,"[''thriller'', ''drama'', ''horror'']",['US'],tt10003008,5.7,29201,41.428,5.6
+3188,Uncut Gems,tm366227,MOVIE,2019,R,130,"[''drama'', ''thriller'', ''comedy'', ''crime'']",['US'],tt5727208,7.4,261956,24.948,7.1
+3205,Rambo: Last Blood,tm414584,MOVIE,2019,R,101,"[''thriller'', ''western'', ''action'']","[''US'', ''CN'']",tt1206885,6.1,95013,80.773,6.5
+3207,Freaks,tm427335,MOVIE,2019,R,105,"[''scifi'', ''thriller'', ''drama'']","[''US'', ''CA'']",tt8781414,6.7,34111,40.382,6.8
+3208,The King,tm417392,MOVIE,2019,R,140,"[''drama'', ''history'', ''romance'', ''war'']","[''AU'', ''US'']",tt7984766,7.3,119020,23.761,7.2
+3210,I'm Thinking of Ending Things,tm369594,MOVIE,2020,R,134,"[''thriller'', ''fantasy'', ''drama'']",['US'],tt7939766,6.6,79921,18.733,6.6
+3213,The Devil All the Time,tm368699,MOVIE,2020,R,138,"[''drama'', ''thriller'', ''crime'', ''horror'']",['US'],tt8956406,7.1,122321,31.57,7.3
+3216,The Irishman,tm244149,MOVIE,2019,R,209,"[''drama'', ''crime'', ''history'', ''thriller'']",['US'],tt1302006,7.8,371209,19.74,7.6
+3217,Synchronic,tm827638,MOVIE,2019,R,102,"[''horror'', ''scifi'', ''thriller'', ''drama'']",['US'],tt9016974,6.2,28617,11.441,6.3
+3218,Hillbilly Elegy,tm849022,MOVIE,2020,R,116,['drama'],['US'],tt6772802,6.7,40703,10.655,6.8
+3221,21 Bridges,tm431321,MOVIE,2019,R,99,"[''action'', ''drama'', ''crime'', ''thriller'']",['US'],tt8688634,6.6,64117,26.217,6.8
+3224,The Trial of the Chicago 7,tm840196,MOVIE,2020,R,130,"[''drama'', ''history'', ''thriller'']",['US'],tt1070874,7.7,170728,16.849,7.8
+3229,El Camino: A Breaking Bad Movie,tm827648,MOVIE,2019,R,123,"[''thriller'', ''drama'', ''crime'', ''action'']",['US'],tt10819010,7.3,216847,35.145,6.9
+3230,Eurovision Song Contest: The Story of Fire Saga,tm849004,MOVIE,2020,PG-13,123,"[''comedy'', ''music'']",['US'],tt8580274,6.5,91043,10.969,6.4
+3235,In the Shadow of the Moon,tm448792,MOVIE,2019,R,115,"[''thriller'', ''crime'', ''scifi'']","[''US'', ''CA'']",tt8110640,6.2,49894,23.345,6.1
+3240,The Social Dilemma,tm847085,MOVIE,2020,PG-13,94,"[''drama'', ''documentation'']",['US'],tt11464826,7.6,79674,18.857,7.5
+3242,Fantastic Fungi,tm502532,MOVIE,2019,,81,['documentation'],['US'],tt8258074,7.4,7890,9.346,7.2
+3245,Mank,tm821789,MOVIE,2020,R,131,"[''comedy'', ''drama'']",['US'],tt10618286,6.8,71244,13.558,6.8
+3246,6 Underground,tm417553,MOVIE,2019,R,127,"[''action'', ''thriller'', ''comedy'']",['US'],tt8106534,6.1,168919,47.628,6.3
+3247,I Care a Lot,tm834851,MOVIE,2020,R,118,"[''comedy'', ''crime'', ''drama'', ''thriller'']","[''US'', ''GB'']",tt9893250,6.3,128172,33.554,6.6
+3260,Always Be My Maybe,tm460948,MOVIE,2019,PG-13,101,"[''romance'', ''comedy'']",['US'],tt7374948,6.8,54166,14.207,6.6
+3261,Enola Holmes,tm911973,MOVIE,2020,PG-13,123,"[''crime'', ''drama'', ''action'']",['US'],tt7846844,6.6,160806,30.97,7.4
+3262,Scary Stories to Tell in the Dark,tm362198,MOVIE,2019,PG-13,108,"[''horror'', ''thriller'']","[''CA'', ''CN'', ''US'']",tt3387520,6.2,73859,41.917,6.5
+3264,Triple Frontier,tm244207,MOVIE,2019,R,125,"[''thriller'', ''action'', ''crime'', ''drama'']",['US'],tt1488606,6.4,124218,27.886,6.3
+3265,Fast Color,tm372066,MOVIE,2019,PG-13,102,"[''thriller'', ''drama'', ''scifi'']",['US'],tt6418778,6,6194,18.162,6
+3266,The Midnight Sky,tm832916,MOVIE,2020,PG-13,118,"[''drama'', ''scifi'', ''thriller'', ''fantasy'']",['US'],tt10539608,5.6,81513,17.841,5.8
+3267,Official Secrets,tm239927,MOVIE,2019,R,112,"[''thriller'', ''crime'', ''drama'', ''war'', ''romance'']","[''GB'', ''US'']",tt5431890,7.3,45200,16.557,7.2
+3274,The Old Guard,tm849003,MOVIE,2020,R,125,"[''fantasy'', ''action'', ''thriller'']",['US'],tt7556122,6.6,155135,22.536,7.2
+3277,The Outpost,tm916405,MOVIE,2020,R,123,"[''drama'', ''action'', ''history'', ''war'']","[''US'', ''BG'']",tt3833480,6.8,31819,20.829,6.9
+3279,Extraction,tm496322,MOVIE,2020,R,116,"[''thriller'', ''crime'', ''drama'', ''action'']",['US'],tt8936646,6.7,192132,55.868,7.4
+3285,"Extremely Wicked, Shockingly Evil and Vile",tm444017,MOVIE,2019,R,111,"[''crime'', ''drama'', ''thriller'']",['US'],tt2481498,6.7,91162,19.448,7
+3290,The Old Ways,tm943774,MOVIE,2020,R,90,"[''fantasy'', ''thriller'', ''drama'', ''horror'']",['US'],tt12829958,5.4,5708,14.7,7.2
+3291,The Half of It,tm470240,MOVIE,2020,PG-13,104,"[''comedy'', ''romance'', ''drama'']",['US'],tt9683478,6.9,34959,19.524,7.2
+3292,After,tm426428,MOVIE,2019,PG-13,106,"[''drama'', ''romance'']",['US'],tt4126476,5.2,52180,152.738,7.2
+3293,Dolemite Is My Name,tm458585,MOVIE,2019,R,118,"[''comedy'', ''drama'']",['US'],tt8526872,7.2,59836,13.072,7
+3297,The Professor and the Madman,tm319470,MOVIE,2019,,124,"[''thriller'', ''drama'', ''history'', ''european'']","[''US'', ''FR'', ''IE'']",tt5932728,7.2,44418,13.722,7.2
+3298,The Paper Tigers,tm927718,MOVIE,2020,PG-13,108,"[''comedy'', ''action'']",['US'],tt6060444,6.3,4144,5.656,6.9
+3299,Pieces of a Woman,tm919961,MOVIE,2020,R,127,['drama'],"[''HU'', ''US'', ''CA'']",tt11161474,7,47795,17.31,7.1
+3301,Code 8,tm1121246,MOVIE,2019,,99,"[''scifi'', ''thriller'', ''action'', ''crime'', ''drama'']","[''GB'', ''US'', ''CA'']",tt6259380,6.1,38850,20.42,6.2
+3302,Jiu Jitsu,tm925486,MOVIE,2020,R,102,"[''fantasy'', ''action'', ''scifi'', ''thriller'', ''comedy'']","[''US'', ''CY'']",tt9624766,2.9,8502,136.841,5
+3303,Bad Trip,tm456436,MOVIE,2020,,87,"[''comedy'', ''reality'']","[''US'', ''CA'']",tt9684220,6.5,23979,97.195,6.1
+3305,The Wind,tm432765,MOVIE,2019,R,86,"[''western'', ''thriller'', ''horror'']",['US'],tt8426594,5.5,8078,9.685,5.6
+3310,Murder Mystery,tm441231,MOVIE,2019,PG-13,97,"[''comedy'', ''action'', ''crime'', ''romance'']",['US'],tt1618434,6,120532,33.858,6.2
+3311,The Water Man,tm927037,MOVIE,2020,PG,92,"[''action'', ''drama'', ''family'', ''fantasy'', ''thriller'']",['US'],tt4779326,5.4,3641,20.288,6.2
+3316,Countdown,tm836438,MOVIE,2019,PG-13,90,"[''horror'', ''thriller'', ''european'']",['US'],,,,34.6,6.4
+3317,Fyre,tm447788,MOVIE,2019,,98,"[''documentation'', ''crime'', ''music'']",['US'],tt9412098,7.2,44715,11.622,6.9
+3318,Fractured,tm447963,MOVIE,2019,R,99,['thriller'],['US'],tt4332232,6.4,70860,20.986,6.7
+3319,Da 5 Bloods,tm843444,MOVIE,2020,R,156,"[''war'', ''drama'']",['US'],tt9777644,6.5,50236,10.461,6.6
+3325,The Highwaymen,tm420826,MOVIE,2019,R,132,"[''thriller'', ''crime'', ''drama'']",['US'],tt1860242,6.9,88714,19.718,6.7
+3327,Kiss the Ground,tm927480,MOVIE,2020,,84,['documentation'],['US'],tt8618654,8.2,6607,9.895,8.1
+3328,The Dirt,tm455636,MOVIE,2019,R,108,"[''drama'', ''music'', ''comedy'']",['US'],tt0800325,6.9,47603,19.057,7.5
+3330,Ava,tm983787,MOVIE,2020,R,96,"[''drama'', ''thriller'', ''action'', ''crime'']",['US'],tt8784956,5.4,53131,217.7,5.7
+3333,American Pie Presents: Girls' Rules,tm877681,MOVIE,2020,R,95,['comedy'],['US'],tt11771594,,,55.783,6.4
+3335,The Night Clerk,tm850404,MOVIE,2020,R,90,"[''thriller'', ''crime'', ''drama'', ''romance'']",['US'],tt7979142,5.5,14600,12.377,6.1
+3336,Ma Rainey's Black Bottom,tm821143,MOVIE,2020,R,94,"[''music'', ''drama'']",['US'],tt10514222,6.9,50275,12.157,6.7
+3338,Polar,tm449105,MOVIE,2019,R,118,"[''action'', ''crime'', ''drama'', ''thriller'', ''european'']","[''US'', ''DE'']",tt4139588,6.3,87080,24.449,6.3
+3340,"Yes, God, Yes",tm460124,MOVIE,2020,R,78,"[''comedy'', ''drama'']","[''GB'', ''US'']",tt8949056,6.1,14496,49.323,6.4
+3341,The Prom,tm678022,MOVIE,2020,PG-13,130,"[''comedy'', ''drama'', ''music'']",['US'],tt10161886,5.9,26197,1.596,6.2
+3344,We Summon the Darkness,tm433462,MOVIE,2020,R,91,"[''horror'', ''thriller'', ''music'', ''comedy'']",['US'],tt8058874,5.2,10056,12.153,5.6
+3346,Someone Great,tm441232,MOVIE,2019,R,92,"[''romance'', ''comedy'']",['US'],tt8075260,6.2,21501,12.918,6.4
+3347,Tread,tm464662,MOVIE,2020,,88,"[''crime'', ''documentation'']",['US'],tt5807330,7.1,2861,6.613,6.7
+3348,Radium Girls,tm417055,MOVIE,2020,,102,"[''drama'', ''history'']",['US'],tt6317180,6.2,1659,5.989,6.9
+3349,Sweetheart,tm456156,MOVIE,2019,PG-13,82,"[''horror'', ''thriller'', ''scifi'', ''drama'', ''fantasy'']",['US'],tt6560164,5.8,8074,15.792,6.5
+3351,The Wrong Missy,tm886464,MOVIE,2020,R,90,"[''comedy'', ''romance'']",['US'],tt9619798,5.7,38647,22.796,6.2
+3354,The Laundromat,tm428557,MOVIE,2019,R,96,"[''drama'', ''comedy'', ''crime'', ''history'']",['US'],tt5868244,6.3,49391,13.77,6
+3357,Over the Moon,tm824477,MOVIE,2020,PG,95,"[''family'', ''fantasy'', ''scifi'', ''romance'', ''animation'', ''comedy'']","[''CN'', ''US'']",tt7488208,6.3,21562,60.545,7.3
+3358,The Two Popes,tm435520,MOVIE,2019,PG-13,125,"[''drama'', ''comedy'', ''history'']",['US'],tt8404614,7.6,120871,17.506,7.5
+3363,IO,tm285317,MOVIE,2019,PG-13,96,"[''scifi'', ''romance'', ''drama'']",['US'],tt3256226,4.7,33724,20.028,4.9
+3364,All the Bright Places,tm443179,MOVIE,2020,,108,"[''drama'', ''romance'']",['US'],tt3907584,6.5,28355,56.467,7.7
+3365,Velvet Buzzsaw,tm332071,MOVIE,2019,R,112,"[''thriller'', ''horror'', ''comedy'']",['US'],tt7043012,5.7,59491,11.402,5.3
+3369,Can You Keep a Secret?,tm824331,MOVIE,2019,,94,"[''comedy'', ''romance'']",['US'],tt8707922,5.3,16049,12.18,6.6
+3374,The Red Sea Diving Resort,tm414341,MOVIE,2019,R,129,"[''thriller'', ''drama'', ''history'']","[''US'', ''CA'']",tt6675186,6.6,28051,11.768,6.9
+3376,Crip Camp: A Disability Revolution,tm845496,MOVIE,2020,R,108,"[''documentation'', ''history'']",['US'],tt8923484,7.7,7264,12.886,7.3
+3377,American Factory,tm446176,MOVIE,2019,,110,['documentation'],['US'],tt9351980,7.4,21415,13.07,7.2
+3382,Wine Country,tm458553,MOVIE,2019,R,103,"[''comedy'', ''drama'']",['US'],tt8169446,5.4,20836,11.382,5.5
+3383,Between Two Ferns: The Movie,tm548602,MOVIE,2019,,82,['comedy'],['US'],tt9398640,6.1,31193,9.934,5.9
+3400,The Boy Who Harnessed the Wind,tm449195,MOVIE,2019,,113,"[''drama'', ''history'']","[''MW'', ''GB'', ''US'']",tt7533152,7.6,36805,40.059,7.9
+3401,We Have Always Lived in the Castle,tm307133,MOVIE,2019,,90,"[''thriller'', ''drama'']",['US'],tt5952138,5.6,7063,10.469,5.4
+3402,Spenser Confidential,tm498803,MOVIE,2020,R,111,"[''thriller'', ''comedy'', ''crime'', ''action'', ''drama'']",['US'],tt8629748,6.2,85270,21.731,6.5
+3403,Doom: Annihilation,tm411750,MOVIE,2019,R,97,"[''scifi'', ''horror'', ''thriller'', ''action'']",['US'],tt8328716,3.7,9200,27.95,4.9
+3407,Girl on the Third Floor,tm458467,MOVIE,2019,,93,"[''thriller'', ''drama'', ''horror'']",['US'],tt9026184,4.7,9823,9.904,5.3
+3409,The Great Hack,tm446609,MOVIE,2019,,114,"[''documentation'', ''history'']",['US'],tt9358204,7.1,22838,18.974,6.8
+3413,Tremors: Shrieker Island,tm853953,MOVIE,2020,PG-13,103,['horror'],['US'],,,,16.143,6.4
+3415,Ophelia,tm361746,MOVIE,2019,PG-13,106,"[''drama'', ''history'', ''romance'', ''thriller'', ''war'']","[''GB'', ''US'']",tt5690870,6.6,10357,20.745,7.3
+3416,After We Collided,tm813695,MOVIE,2020,R,105,"[''romance'', ''drama'']",['US'],tt10362466,5,29571,163.519,7.3
+3419,The Last Blockbuster,tm498034,MOVIE,2020,,86,['documentation'],['US'],tt8704802,6.7,5350,9.637,6.5
+3420,In the Tall Grass,tm413660,MOVIE,2019,,102,"[''drama'', ''thriller'', ''horror'', ''scifi'']","[''US'', ''CA'']",tt4687108,5.4,54391,17.631,5.5
+3422,Paradise Hills,tm358770,MOVIE,2019,,95,"[''fantasy'', ''thriller'', ''scifi'', ''european'']","[''ES'', ''US'']",tt6127004,5.3,22298,16.364,6
+3423,Dick Johnson Is Dead,tm845484,MOVIE,2020,PG-13,89,"[''documentation'', ''drama'']",['US'],tt11394180,7.4,6390,7.373,7.4
+3424,American Murder: The Family Next Door,tm934040,MOVIE,2020,R,83,"[''crime'', ''documentation'']",['US'],tt12987894,7.2,26355,20.519,7.3
+3425,Rust Creek,tm443154,MOVIE,2019,R,108,"[''thriller'', ''crime'', ''drama'', ''horror'']",['US'],tt6610158,5.9,11136,15.43,6.4
+3430,Eli,tm355783,MOVIE,2019,R,98,"[''horror'', ''thriller'', ''drama'']",['US'],tt5294518,5.8,34477,20.919,6
+3437,Fatima,tm471878,MOVIE,2020,PG-13,113,"[''drama'', ''war'']","[''PT'', ''US'']",tt2197936,6.6,3032,13.318,7.3
+3438,Sword of Trust,tm459742,MOVIE,2019,R,88,"[''comedy'', ''drama'']",['US'],tt8484012,6.3,3558,7.367,5.9
+3440,The Sleepover,tm918706,MOVIE,2020,,103,"[''action'', ''family'', ''comedy'']",['US'],tt10888708,5.6,10198,11.094,6.6
+3442,The Last Thing He Wanted,tm464351,MOVIE,2020,R,116,"[''drama'', ''thriller'', ''crime'']","[''GB'', ''US'']",tt7456312,4.3,14716,17.014,4.9
+3444,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,tm453099,MOVIE,2019,,142,"[''music'', ''documentation'', ''history'']",['US'],tt9580038,7.6,6550,7.958,7.2
+3447,The Vanished,tm925584,MOVIE,2020,R,115,"[''thriller'', ''crime'', ''action'']",['US'],tt9794630,5.7,10011,12.671,6
+3451,The Reason I Jump,tm845549,MOVIE,2020,,82,"[''documentation'', ''drama'']","[''US'', ''GB'']",tt9098928,7.5,802,5.188,7.9
+3454,Horse Girl,tm845512,MOVIE,2020,R,104,['drama'],['US'],,,,19.692,5.6
+3455,The Game Changers,tm325325,MOVIE,2019,,88,['documentation'],['US'],tt7455754,7.8,19708,12.707,7.4
+3459,Concrete Cowboy,tm918734,MOVIE,2020,R,111,"[''western'', ''drama'']","[''US'', ''GB'']",tt8846176,6.3,8517,12.41,6.2
+3460,The Boss Baby: Get That Baby!,tm926004,MOVIE,2020,,24,['animation'],['US'],,,,46.316,6.9
+3463,Charlie Says,tm437221,MOVIE,2019,R,104,"[''crime'', ''drama'', ''documentation'']",['US'],tt1759744,5.9,4256,11.739,5.9
+3466,1BR,tm817504,MOVIE,2019,,90,"[''horror'', ''thriller'', ''drama'']",['US'],tt7541106,5.8,11983,15.734,6.2
+3467,Bill Burr: Paper Tiger,tm827216,MOVIE,2019,,67,['comedy'],"[''GB'', ''US'']",tt10847306,8.1,10649,6.247,7.3
+3469,The Silence of Others,tm369389,MOVIE,2019,,95,"[''documentation'', ''history'', ''european'']","[''FR'', ''ES'', ''US'', ''CA'']",tt8099236,8,2048,10.349,8.2
+3474,Lost Girls,tm471967,MOVIE,2020,R,95,"[''thriller'', ''crime'', ''drama'']",['US'],tt3111426,6.1,21040,14.136,6.1
+3475,We Can Be Heroes,tm974366,MOVIE,2020,PG,97,"[''fantasy'', ''comedy'', ''family'', ''action'', ''drama'']",['US'],tt10600398,4.7,14401,141.099,6.2
+3482,Paddleton,tm455568,MOVIE,2019,R,89,"[''drama'', ''comedy'']",['US'],tt8041276,7.1,13419,8.112,7
+3484,What Lies Below,tm952590,MOVIE,2020,,87,"[''horror'', ''thriller'', ''scifi'']",['US'],tt9264728,4.3,8125,37.485,5.3
+3485,Vampires vs. the Bronx,tm931686,MOVIE,2020,PG-13,86,"[''comedy'', ''horror'']",['US'],tt8976576,5.7,9627,9.968,5.9
+3495,The Life Ahead,tm935895,MOVIE,2020,PG-13,94,"[''drama'', ''european'']","[''US'', ''IT'']",tt10627584,6.8,14021,8.893,6.7
+3498,The Kindness of Strangers,tm447159,MOVIE,2019,,112,"[''drama'', ''european'']","[''US'', ''FR'', ''SE'', ''GB'', ''DE'', ''DK'', ''CA'']",tt6515910,6.4,3515,7.398,6.5
+3499,Captain Underpants: Epic Choice-o-rama,tm852996,MOVIE,2020,,37,"[''fantasy'', ''comedy'', ''family'', ''scifi'', ''animation'', ''action'']",['US'],tt11604750,6.4,80,4.947,8.5
+3502,Sightless,tm676311,MOVIE,2020,,89,"[''drama'', ''thriller'', ''horror'']",['US'],tt10303430,5.5,8113,12.49,7
+3504,Project Power,tm893480,MOVIE,2020,R,111,"[''action'', ''crime'', ''scifi'', ''thriller'']",['US'],tt7550000,6,83973,24.787,6.6
+3510,Rim of the World,tm420455,MOVIE,2019,PG,99,"[''comedy'', ''scifi'', ''action'']",['US'],tt8179388,5.2,23651,15.126,6
+3513,Death of Me,tm924991,MOVIE,2020,R,95,"[''horror'', ''thriller'']","[''TH'', ''US'']",tt1830643,4.4,6041,42.246,5
+3515,A Fall from Grace,tm846964,MOVIE,2020,,120,"[''fantasy'', ''thriller'', ''drama'']",['US'],tt11390036,5.8,15029,12.851,7.1
+3516,The Best of Enemies,tm436778,MOVIE,2019,PG-13,133,"[''drama'', ''history'']",['US'],tt4807408,7.3,16441,18.706,7.4
+3520,Hubie Halloween,tm847998,MOVIE,2020,PG-13,103,"[''thriller'', ''horror'', ''fantasy'', ''comedy'']",['US'],tt10682266,5.2,47588,13.584,6
+3522,Secret Obsession,tm814671,MOVIE,2019,,97,"[''thriller'', ''drama'']",['US'],tt9419834,4.4,21011,16.496,5.5
+3526,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,tm885775,MOVIE,2020,PG-13,80,"[''comedy'', ''romance'', ''scifi'']",['US'],tt10324166,7,5211,8.216,6.5
+3532,See You Yesterday,tm465724,MOVIE,2019,,87,"[''drama'', ''action'', ''crime'', ''scifi'', ''thriller'']",['US'],tt8743064,5.2,10663,8.034,5.6
+3537,Miss Americana,tm845415,MOVIE,2020,R,85,"[''documentation'', ''music'']",['US'],tt11388580,7.4,19151,19.363,7.9
+3538,Dave Chappelle: Sticks & Stones,tm827142,MOVIE,2019,R,65,['comedy'],['US'],tt10810424,8.4,25687,12.023,7.7
+3540,The Babysitter: Killer Queen,tm922788,MOVIE,2020,R,142,"[''horror'', ''comedy'']",['US'],tt11024272,5.8,37462,46.405,6.5
+3541,To All the Boys: P.S. I Still Love You,tm459512,MOVIE,2020,PG-13,102,"[''romance'', ''comedy'', ''drama'']",['US'],tt9354842,6,37072,28.885,6.9
+3542,The Forty-Year-Old Version,tm822246,MOVIE,2020,R,123,"[''comedy'', ''drama'']",['US'],tt10642834,7.2,4940,6.271,6.8
+3544,Triple Threat,tm315348,MOVIE,2019,R,96,"[''thriller'', ''action'']","[''US'', ''CN'', ''TH'']",tt6644602,5.6,11115,35.141,6.3
+3549,Miles Davis: Birth of the Cool,tm446625,MOVIE,2019,,115,"[''documentation'', ''music'']",['US'],tt9358200,7.4,1771,7.782,7.3
+3550,Tall Girl,tm827501,MOVIE,2019,PG,101,"[''comedy'', ''drama'', ''family'', ''romance'']",['US'],tt9252508,5.2,23071,46.356,6.4
+3554,High Flying Bird,tm428558,MOVIE,2019,,90,"[''drama'', ''sport'']",['US'],tt8128188,6.2,8514,8.774,5.7
+3557,Patsy & Loretta,tm822907,MOVIE,2019,,88,"[''drama'', ''music'']",['US'],tt10016704,6.8,1000,3.459,6.6
+3562,Taylor Tomlinson: Quarter-Life Crisis,tm854669,MOVIE,2020,,61,['comedy'],['US'],tt11738792,7.4,3595,6.145,7.4
+3563,2 Hearts,tm914535,MOVIE,2020,PG-13,100,"[''romance'', ''drama'']",['US'],tt5616176,6.2,3365,15.428,7.7
+3564,Coded Bias,tm845535,MOVIE,2020,,86,['documentation'],"[''GB'', ''US'', ''CN'']",tt11394170,6.7,2217,4.601,7.3
+3566,Audrey,tm948128,MOVIE,2020,PG,100,"[''documentation'', ''history'']","[''CH'', ''US'']",tt10731386,7.1,1867,6.316,7.1
+3568,Dragonheart: Vengeance,tm853396,MOVIE,2020,PG-13,97,"[''fantasy'', ''european'']",['US'],,,,48.702,7
+3577,The Perfect Date,tm464557,MOVIE,2019,PG-13,93,"[''romance'', ''comedy'']",['US'],tt8201170,5.8,37913,26.678,6.5
+3578,How High 2,tm469008,MOVIE,2019,,89,['comedy'],['US'],tt8861802,3,1097,17.937,6.5
+3581,Barbie: Princess Adventure,tm928541,MOVIE,2020,G,72,"[''music'', ''animation'', ''family'']",['US'],tt12767498,5.4,442,72.312,7.4
+3583,This Changes Everything,tm444247,MOVIE,2019,PG,97,['documentation'],['US'],tt5795282,7.6,1507,6.284,6.3
+3586,The Last Summer,tm467579,MOVIE,2019,,109,"[''comedy'', ''romance'']",['US'],,,,16.247,6
+3588,Friendsgiving,tm500565,MOVIE,2020,R,95,"[''comedy'', ''drama'']",['US'],tt8431078,4.4,2782,7.559,4.7
+3589,Poms,tm452826,MOVIE,2019,PG-13,91,"[''comedy'', ''drama'', ''sport'']","[''US'', ''GB'']",tt5125894,6,6085,11.395,6.6
+3590,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,tm475836,MOVIE,2019,,30,['comedy'],['US'],tt10376068,,,7.367,6.2
+3594,Close,tm451512,MOVIE,2019,R,95,"[''thriller'', ''action'', ''drama'']","[''GB'', ''US'']",tt6896584,5.7,24063,16.264,5.8
+3612,Jo Koy: Comin’ In Hot,tm475783,MOVIE,2019,,60,['comedy'],['US'],tt10377036,7.3,986,4.273,7.1
+3615,The Stand In,tm855600,MOVIE,2020,R,101,"[''comedy'', ''drama'']",['US'],tt7970348,4.7,3380,9.035,5.6
+3616,The Boys in the Band,tm827508,MOVIE,2020,R,121,['drama'],['US'],tt10199914,6.8,14938,7.857,6.9
+3620,Let It Snow,tm120072,MOVIE,2019,PG-13,93,"[''comedy'', ''romance'']",['US'],tt1950235,5.8,21515,12.098,6.1
+3622,Backdraft 2,tm462903,MOVIE,2019,R,102,['drama'],"[''US'', ''BE'']",,,,19.812,6.6
+3625,Disclosure,tm845437,MOVIE,2020,,107,['documentation'],['US'],tt8637504,8.2,5301,12.967,8.2
+3628,Death to 2020,tm981451,MOVIE,2020,,71,['comedy'],"[''GB'', ''US'']",tt13567480,6.8,38301,12.812,6.6
+3629,Pete Davidson: Alive from New York,tm855827,MOVIE,2020,,49,['comedy'],['US'],tt11474156,6.1,4072,6.413,6.2
+3630,Lying and Stealing,tm511940,MOVIE,2019,R,100,"[''crime'', ''drama'', ''comedy'']",['US'],tt7558302,5.4,5596,22.681,6
+3634,Becoming,tm890674,MOVIE,2020,PG,89,['documentation'],['US'],tt12221748,6.8,6305,10.73,7.5
+3636,Invader ZIM: Enter the Florpus,tm524282,MOVIE,2019,,71,"[''drama'', ''family'', ''horror'', ''action'', ''fantasy'', ''animation'', ''comedy'', ''scifi'', ''thriller'']",['US'],tt6744342,7.4,5656,14.179,7.5
+3639,Athlete A,tm881162,MOVIE,2020,PG-13,104,"[''documentation'', ''crime'', ''sport'']",['US'],tt11905462,7.6,10544,11.436,7.7
+3645,9to5: The Story of A Movement,tm877456,MOVIE,2020,,89,"[''documentation'', ''history'']",['US'],tt11753730,7.4,228,4.76,6.6
+3650,The Lost Husband,tm884511,MOVIE,2020,PG-13,109,"[''romance'', ''drama'']",['US'],tt4257940,6.1,4578,10.492,7.1
+3653,Screwball,tm430171,MOVIE,2019,,105,"[''documentation'', ''history'']",['US'],tt8819596,7.1,1678,4.033,6.2
+3654,Holidate,tm936396,MOVIE,2020,,103,"[''romance'', ''comedy'']",['US'],tt9866072,6.1,61924,17.732,7.1
+3657,Only,tm858001,MOVIE,2020,R,98,"[''romance'', ''horror'', ''thriller'', ''drama'', ''action'', ''family'']",['US'],,,,5.929,5.5
+3658,Then Came You,tm424074,MOVIE,2019,PG-13,93,"[''comedy'', ''drama'']",['US'],tt4859168,6.9,12356,18.449,7.5
+3661,Brené Brown: The Call to Courage,tm469400,MOVIE,2019,,76,"[''documentation'', ''drama'']",['US'],tt10050766,7.7,1516,4.22,7.1
+3663,Anthony Jeselnik: Fire in the Maternity Ward,tm467299,MOVIE,2019,,64,['comedy'],['US'],tt10050780,7.2,3547,4.938,7
+3666,John Mulaney & The Sack Lunch Bunch,tm843768,MOVIE,2019,,70,"[''comedy'', ''family'', ''music'']",['US'],tt11318624,7.4,3498,6.786,7.1
+3667,Amy Schumer: Growing,tm458721,MOVIE,2019,,61,['comedy'],['US'],tt9770590,5.4,3812,5.715,6.2
+3669,Otherhood,tm571805,MOVIE,2019,R,100,['comedy'],"[''US'', ''GB'']",tt4180560,6.1,11048,12.353,6.2
+3671,Jingle Jangle: A Christmas Journey,tm848995,MOVIE,2020,PG,122,"[''music'', ''family'', ''fantasy'']",['US'],tt7736496,6.5,18274,37.658,6.6
+3679,Framing John DeLorean,tm463385,MOVIE,2019,,109,"[''drama'', ''documentation'']",['US'],tt6256978,6.5,2287,8.306,6.2
+3680,A Cinderella Story: Christmas Wish,tm826563,MOVIE,2019,PG,93,['romance'],['US'],tt10326928,5.3,,18.575,6.5
+3683,Inside Man: Most Wanted,tm823355,MOVIE,2019,R,106,"[''thriller'', ''action'', ''crime'']",['US'],tt7832848,5.6,3927,14.613,6.7
+3696,Falling Inn Love,tm824165,MOVIE,2019,,98,"[''comedy'', ''romance'']",['US'],tt9860752,5.6,19091,23.196,6.5
+3697,Nate Bargatze: The Tennessee Kid,tm465231,MOVIE,2019,,60,['comedy'],['US'],tt9861504,7.6,1798,3.621,7.5
+3699,Dangerous Lies,tm883189,MOVIE,2020,,96,"[''thriller'', ''horror'', ''drama'', ''comedy'', ''crime'']",['US'],tt10183816,5.3,16731,10.872,6.4
+3701,Human Nature,tm458127,MOVIE,2019,,107,"[''documentation'', ''thriller'']",['US'],tt7188970,7.7,1541,4.784,7.2
+3702,Beats,tm475339,MOVIE,2019,,109,['drama'],['US'],tt8530978,6.3,5122,14.674,6.8
+3704,A Secret Love,tm881859,MOVIE,2020,,83,"[''documentation'', ''drama'']",['US'],tt3260524,7.8,4334,11.128,7.4
+3706,LEGO Marvel Spider-Man: Vexed by Venom,tm827304,MOVIE,2019,,25,"[''animation'', ''action'', ''comedy'', ''family'']",['US'],tt10755644,5.6,290,23.538,7.2
+3708,The Hard Way,tm461829,MOVIE,2019,,92,['action'],['US'],tt9815714,4.8,3171,27.891,5.4
+3709,Cut Throat City,tm434553,MOVIE,2020,R,123,"[''crime'', ''thriller'', ''action'', ''drama'']",['US'],tt3547306,4.8,2521,16.92,6.6
+3711,Tigertail,tm848996,MOVIE,2020,PG,91,['drama'],['US'],tt8902948,6.6,3540,7.755,6.9
+3713,Knock Down the House,tm448767,MOVIE,2019,PG,86,['documentation'],['US'],tt9358052,7.1,12418,8.591,7.4
+3716,Jim Jefferies: Intolerant,tm912373,MOVIE,2020,,66,['comedy'],['US'],tt12588160,7.2,2764,5.395,7.2
+3724,Desperados,tm893816,MOVIE,2020,,105,"[''comedy'', ''romance'']",['US'],tt10050362,5.2,10030,8.691,6.1
+3733,Michelle Wolf: Joke Show,tm844642,MOVIE,2019,,59,['comedy'],['US'],tt11269704,7.2,1571,2.937,6.8
+3735,The Edge of All We Know,tm878842,MOVIE,2020,,99,['documentation'],['US'],tt11863046,6.6,2288,5.683,6.8
+3736,Have a Good Trip: Adventures in Psychedelics,tm855483,MOVIE,2020,,85,"[''documentation'', ''comedy'']",['US'],tt12133722,6.8,7578,14.485,6.8
+3737,Sebastian Maniscalco: Stay Hungry,tm447520,MOVIE,2019,,65,['comedy'],['US'],tt9482786,7.1,1295,3.423,6.4
+3739,The Knight Before Christmas,tm679284,MOVIE,2019,,92,"[''drama'', ''fantasy'', ''romance'', ''comedy'']",['US'],tt10060094,5.5,17762,22.498,6.5
+3748,Homecoming: A Film by Beyoncé,tm467467,MOVIE,2019,PG-13,137,"[''music'', ''documentation'']",['US'],tt10147546,7.4,7013,12.239,8.2
+3750,Nikki Glaser: Bangin',tm834664,MOVIE,2019,,63,['comedy'],['US'],tt10952752,6.1,1629,5.269,6.6
+3753,Sergio,tm497383,MOVIE,2020,R,118,"[''drama'', ''history'', ''romance'', ''documentation'']","[''US'', ''AL'', ''JO'', ''TH'']",tt6468740,6.2,9619,13.626,6.7
+3754,Mosul,tm978401,MOVIE,2019,,86,['drama'],['US'],,,,9.023,6.7
+3759,The Operative,tm452851,MOVIE,2019,,116,"[''thriller'', ''action'', ''drama'']","[''IL'', ''US'', ''FR'', ''DE'']",tt8000718,5.7,6099,10.752,5.7
+3762,Gather,tm931158,MOVIE,2020,,74,['documentation'],['US'],tt9309756,7.8,196,3.759,7.4
+3765,The Show Must Go On: The Queen + Adam Lambert Story,tm470836,MOVIE,2019,,81,"[''documentation'', ''music'']",['US'],tt9856280,7.8,1923,9.166,7.5
+3768,Benchwarmers 2: Breaking Balls,tm454375,MOVIE,2019,PG-13,90,"[''comedy'', ''sport'']",['US'],tt8750122,4.1,947,4.624,4.5
+3769,I'm No Longer Here,tm837756,MOVIE,2019,,112,['drama'],"[''MX'', ''US'']",tt4323594,7.3,7727,17.023,7.7
+3771,Rocko's Modern Life: Static Cling,tm305433,MOVIE,2019,,45,"[''comedy'', ''animation'', ''fantasy'', ''scifi'', ''action'', ''family'']",['US'],tt6172460,6.9,3820,9.975,6.5
+3777,Uncorked,tm490222,MOVIE,2020,,104,"[''drama'', ''comedy'']",['US'],tt9261218,6.4,5414,9.563,6.1
+3780,Undercover Brother 2,tm838876,MOVIE,2019,R,85,"[''action'', ''comedy'']",['US'],tt6843446,3.4,670,4.663,4.1
+3781,"Love, Guaranteed",tm868777,MOVIE,2020,,90,"[''comedy'', ''romance'']",['US'],tt11100856,5.6,17092,10.12,6.5
+3784,Under the Eiffel Tower,tm450478,MOVIE,2019,,87,"[''romance'', ''comedy'']",['US'],tt6251390,5.4,992,5.496,6.1
+3787,Dragons: Rescue Riders: Secrets of the Songwing,tm917325,MOVIE,2020,,46,"[''animation'', ''action'', ''comedy'', ''family'', ''fantasy'']",['US'],tt12599350,5.1,175,13.962,8
+3790,Holiday in the Wild,tm838687,MOVIE,2019,,85,"[''romance'', ''comedy'', ''drama'']",['US'],tt8510488,6.1,15053,10.253,6.5
+3793,Bert Kreischer: Hey Big Boy,tm856593,MOVIE,2020,,62,['comedy'],['US'],tt11810424,7,1913,4.051,7.2
+3794,Ronny Chieng: Asian Comedian Destroys America!,tm844662,MOVIE,2019,,63,['comedy'],['US'],tt11248800,7.4,3077,4.694,6.9
+3796,Sextuplets,tm494731,MOVIE,2019,,97,['comedy'],['US'],tt8976710,4.4,8380,25.351,6.3
+3797,Legacy of Lies,tm886283,MOVIE,2020,R,101,"[''thriller'', ''action'']","[''UA'', ''GB'', ''US'', ''NL'', ''PL'']",tt6834916,5,3307,15.053,5.6
+3817,Lady Driver,tm889629,MOVIE,2020,PG,104,"[''drama'', ''sport'']",['US'],tt7562334,5.8,1463,7.608,6.3
+3819,Captain Underpants: Mega Blissmas,tm977997,MOVIE,2020,G,46,"[''comedy'', ''animation'', ''family'']",['US'],tt13411948,5.3,155,13.865,5.7
+3824,Hard Kill,tm917974,MOVIE,2020,R,98,"[''thriller'', ''action'']",['US'],tt11656172,3.4,19728,18.56,5.1
+3830,Work It,tm916997,MOVIE,2020,PG-13,93,"[''music'', ''comedy'']",['US'],tt10276470,6.1,12828,18.729,7.7
+3832,Bethany Hamilton: Unstoppable,tm376739,MOVIE,2019,PG,99,"[''documentation'', ''sport'']",['US'],tt6435258,7.4,705,4.481,7.9
+3837,If Anything Happens I Love You,tm898169,MOVIE,2020,PG,12,['drama'],['US'],,,,14.24,7.8
+3838,Residue,tm851346,MOVIE,2020,,90,['drama'],['US'],tt11568878,6.5,570,2.932,5.3
+3841,Feel the Beat,tm894619,MOVIE,2020,G,107,"[''drama'', ''comedy'', ''family'']","[''CA'', ''US'']",tt10714856,6.3,10749,16.453,7.7
+3842,Debt Collectors,tm885805,MOVIE,2020,R,97,"[''comedy'', ''action'']",['US'],tt10933680,5.7,4230,19.304,6.1
+3844,All Together Now,tm918853,MOVIE,2020,PG,92,['drama'],['US'],tt3155342,6.5,4182,7.74,6.8
+3845,Coffee & Kareem,tm814644,MOVIE,2020,,88,"[''action'', ''comedy'', ''crime'']",['US'],tt9898858,5.1,13469,9.863,5.5
+3849,Tom Segura: Ball Hog,tm857187,MOVIE,2020,,70,['comedy'],['US'],tt11861072,7.3,2848,3.795,6.8
+3867,Circus of Books,tm470560,MOVIE,2019,,92,"[''documentation'', ''history'']",['US'],tt8727582,7.1,4571,9.292,7
+3869,Wheels of Fortune,tm954543,MOVIE,2020,R,107,['comedy'],['US'],tt9735976,5.3,777,3.37,5.3
+3872,Jo Koy: In His Elements,tm893680,MOVIE,2020,,55,['comedy'],['US'],tt12357266,5.4,469,3.209,5.6
+3873,"Bikram: Yogi, Guru, Predator",tm824559,MOVIE,2019,,86,"[''crime'', ''documentation'']",['US'],tt10883004,6.7,7367,9.946,6.4
+3874,Jenny Slate: Stage Fright,tm835486,MOVIE,2019,,66,"[''comedy'', ''reality'']",['US'],tt10971520,5.8,1268,4.231,5.9
+3882,The F**k-It List,tm915043,MOVIE,2020,R,103,['comedy'],['US'],tt8145202,5.1,5866,10.041,6.2
+3884,Jerry Seinfeld: 23 Hours to Kill,tm887369,MOVIE,2020,,60,['comedy'],['US'],tt12117854,6.7,5061,4.084,6.2
+3890,The Speed Cubers,tm917036,MOVIE,2020,,39,['documentation'],['US'],,,,7.319,7.6
+3905,Larry the Cable Guy: Remain Seated,tm898699,MOVIE,2020,R,67,['comedy'],['US'],tt11464488,6.6,258,2.693,5.5
+3906,Seth Meyers: Lobby Baby,tm840224,MOVIE,2019,,61,['comedy'],['US'],tt11168100,7.4,2542,3.92,7
+3919,Burning Cane,tm465408,MOVIE,2019,,77,['drama'],['US'],tt7358154,5.5,630,2.744,5.8
+3924,Gabriel Iglesias: One Show Fits All,tm452573,MOVIE,2019,,90,"[''comedy'', ''documentation'']",['US'],tt9426212,7.2,1793,3.264,6.6
+3935,A Kid from Coney Island,tm470597,MOVIE,2019,,89,"[''documentation'', ''sport'']","[''CN'', ''US'']",tt9567112,7,536,3.716,6.8
+3940,Jezebel,tm456074,MOVIE,2020,,88,['drama'],['US'],tt7103742,6.9,1304,1.762,6.6
+3943,"Frankenstein''s Monster''s Monster, Frankenstein",tm816593,MOVIE,2019,,32,['comedy'],['US'],tt10516390,5.8,2166,5.098,6
+3945,A Love Song for Latasha,tm850862,MOVIE,2019,,18,['documentation'],['US'],,,,6.985,7.1
+3946,Dave Chappelle: The Kennedy Center Mark Twain Prize,tm860965,MOVIE,2020,,86,['comedy'],['US'],,,,5.528,7.4
+3953,Mucho Mucho Amor: The Legend of Walter Mercado,tm845532,MOVIE,2020,,96,['documentation'],['US'],tt11378264,7.3,3251,11.019,7.4
+3956,The Main Event,tm836674,MOVIE,2020,,102,"[''comedy'', ''action'', ''family'', ''fantasy'', ''sport'']",['US'],tt10540242,4.8,2279,13.508,6.7
+3964,Operation Christmas Drop,tm943718,MOVIE,2020,,95,"[''romance'', ''comedy'', ''family'']",['US'],tt13236566,5.8,11329,14.686,6.5
+3971,American Son,tm826368,MOVIE,2019,,90,['drama'],['US'],tt9664078,5.8,6904,9.419,6.1
+3972,Only Mine,tm454096,MOVIE,2019,,87,"[''drama'', ''thriller'']",['US'],tt9271164,4.6,3013,13.136,5.3
+3973,Best of Stand-up 2020,tm987599,MOVIE,2020,,76,['comedy'],['US'],tt13649688,5.4,601,3.282,5.6
+3982,The Christmas Chronicles: Part Two,tm885669,MOVIE,2020,PG,112,"[''comedy'', ''family'', ''fantasy'']",['US'],tt11057644,6,29280,45.05,6.6
+4001,Juanita,tm458363,MOVIE,2019,,90,['drama'],['US'],tt6155456,6,2336,7.276,5.2
+4011,The Last Days of American Crime,tm888080,MOVIE,2020,,149,"[''crime'', ''thriller'', ''action'', ''drama'', ''scifi'']",['US'],tt1552211,3.7,11227,8.27,6.6
+4013,Ainu Mosir,tm925490,MOVIE,2020,,84,['drama'],"[''JP'', ''US'', ''CN'']",tt9140354,6.6,231,2.718,7
+4022,A California Christmas,tm960414,MOVIE,2020,PG-13,106,"[''romance'', ''comedy'', ''drama'']",['US'],tt13055780,5.8,9721,9.156,6.4
+4024,Picture a Scientist,tm897771,MOVIE,2020,PG-13,97,['documentation'],['US'],,,,4.286,7.5
+4048,Seized,tm886086,MOVIE,2020,R,85,"[''thriller'', ''action'']",['US'],tt7221772,5.2,2173,10.36,6.6
+4049,Roped,tm889679,MOVIE,2020,PG,90,"[''romance'', ''family'', ''comedy'', ''drama'']",['US'],tt8523028,5.4,1391,5.927,6.3
+4054,Jarhead: Law of Return,tm835869,MOVIE,2019,R,103,['war'],"[''US'', ''IL'']",tt10767720,5.6,,27.926,6.5
+4055,The Last Laugh,tm450673,MOVIE,2019,,98,['comedy'],['US'],tt7427356,5.6,5692,9.907,5.4
+4063,ReMastered: Devil at the Crossroads,tm470378,MOVIE,2019,,48,"[''documentation'', ''music'']",['US'],tt9046574,7,2691,7.171,6.9
+4066,Marc Maron: End Times Fun,tm857399,MOVIE,2020,,71,"[''comedy'', ''documentation'']",['US'],tt11810418,6.8,1906,4.63,7
+4069,Grass Is Greener,tm464435,MOVIE,2019,,97,['documentation'],['US'],tt10050782,7.1,1322,6.429,6.9
+4074,Murder to Mercy - The Cyntoia Brown Story,tm885845,MOVIE,2020,,96,['documentation'],['US'],tt9050898,6.3,2693,9.003,7.1
+4076,All in My Family,tm468724,MOVIE,2019,,39,['documentation'],"[''CN'', ''US'']",,,,5.109,6.4
+4078,"The Witcher Bestiary Season 1, Part 2",tm1147120,MOVIE,2020,,10,['documentation'],['US'],,,,4.535,4.9
+4086,Walk. Ride. Rodeo.,tm458326,MOVIE,2019,,100,['drama'],['US'],tt5848416,6.4,2341,11.018,7
+4090,The 2nd,tm917822,MOVIE,2020,,93,"[''action'', ''drama'']",['US'],tt11697484,3.8,8494,10.45,5.6
+4092,John Was Trying to Contact Aliens,tm846941,MOVIE,2020,,16,['documentation'],['US'],,,,3.639,6.4
+4095,LA Originals,tm882887,MOVIE,2020,,92,['documentation'],"[''US'', ''AR'']",tt12027020,7.2,1800,9.054,7.1
+4097,Enter the Anime,tm821164,MOVIE,2019,,58,['documentation'],"[''US'', ''JP'']",tt10662450,2.6,1627,5.545,5.8
+4113,Rogue Warfare: Death of a Nation,tm847623,MOVIE,2020,R,103,"[''action'', ''war'']",['US'],tt7983744,3.4,370,3.537,4.8
+4114,Jeff Dunham: Beside Himself,tm832843,MOVIE,2019,,58,['comedy'],['US'],tt10847194,6.9,1077,3.405,7.5
+4116,Lingua Franca,tm822832,MOVIE,2020,,95,['drama'],"[''PH'', ''US'']",tt8943224,6.5,671,1.985,6.1
+4120,Fatal Affair,tm898759,MOVIE,2020,,89,['thriller'],['US'],,,,18.035,5.7
+4121,Ben Platt: Live from Radio City Music Hall,tm889390,MOVIE,2020,,85,"[''documentation'', ''music'']",['US'],,,,7.739,8.1
+4129,Eye for an Eye,tm452962,MOVIE,2019,,107,"[''thriller'', ''european'']","[''FR'', ''ES'', ''US'']",,,,9.353,6.7
+4132,Chris D'Elia: No Pain,tm881891,MOVIE,2020,,55,['comedy'],['US'],tt11987296,5.9,1772,2.156,6.6
+4135,All Day and a Night,tm880059,MOVIE,2020,R,121,['drama'],['US'],tt3993886,5.9,3627,8.057,6.2
+4138,Bennett's War,tm474862,MOVIE,2019,PG-13,95,"[''drama'', ''sport'']",['US'],tt7370952,6,858,5.634,7.1
+4140,Rattlesnake,tm449590,MOVIE,2019,,85,"[''horror'', ''thriller'', ''drama'', ''crime'']",['US'],tt9257484,4.6,8487,10.874,5.2
+4144,Travis Scott: Look Mom I Can Fly,tm827640,MOVIE,2019,,85,"[''music'', ''documentation'']",['US'],tt10856726,6.3,4527,13.38,7
+4145,Tom Papa: You're Doing Great!,tm850454,MOVIE,2020,,60,['comedy'],['US'],tt11177308,7.2,844,4.92,6.1
+4147,Sarah Cooper: Everything's Fine,tm947555,MOVIE,2020,,49,['comedy'],['US'],tt12882062,5.5,1708,4.472,5.3
+4148,Dancing with the Birds,tm835305,MOVIE,2019,,51,['documentation'],['US'],,,,12.461,8
+4156,A Babysitter's Guide to Monster Hunting,tm932595,MOVIE,2020,PG,94,"[''fantasy'', ''comedy'', ''family'']",['US'],tt4844150,5.4,4067,66.921,6.2
+4161,Justine,tm1081074,MOVIE,2019,,105,['drama'],['US'],tt8202262,6.7,704,2.592,6.8
+4166,Bobbleheads: The Movie,tm945825,MOVIE,2020,PG,82,"[''comedy'', ''family'', ''animation'']",['US'],tt13292206,2.4,349,17.987,5.6
+4169,Good Sam,tm474548,MOVIE,2019,PG,90,"[''drama'', ''comedy'']",['US'],tt9032888,5.7,2890,7.332,6
+4170,Aziz Ansari: Right Now,tm819107,MOVIE,2019,,65,['comedy'],['US'],tt10575038,7.5,5111,4.635,7.4
+4172,Sturgill Simpson Presents Sound & Fury,tm827168,MOVIE,2019,,40,['animation'],"[''JP'', ''US'']",tt10682000,,,3.557,6.3
+4175,Katherine Ryan: Glitter Room,tm812781,MOVIE,2019,,65,['comedy'],['US'],tt10438648,6.7,1920,2.752,6.7
+4177,Secrets of the Saqqara Tomb,tm945168,MOVIE,2020,,113,"[''documentation'', ''history'']","[''EG'', ''US'']",tt13150630,7.2,6189,19.701,7.4
+4178,Wish Upon a Unicorn,tm933639,MOVIE,2020,PG,93,"[''fantasy'', ''family'']",['US'],tt10798660,5.4,176,28.467,7.1
+4180,Dolly Parton's Christmas on the Square,tm938227,MOVIE,2020,PG,98,"[''comedy'', ''family'']",['US'],tt10627548,5.2,2675,5.099,5.9
+4183,Wanda Sykes: Not Normal,tm475501,MOVIE,2019,,66,['comedy'],['US'],tt9169592,7.2,1790,3.413,6.9
+4184,Giving Voice,tm845552,MOVIE,2020,PG-13,90,['documentation'],['US'],,,,3.878,6.2
+4198,Black Beach,tm925858,MOVIE,2020,,115,"[''drama'', ''thriller'', ''fantasy'', ''action'']","[''ES'', ''US'', ''BE'']",tt9660688,5.6,1544,7.192,6
+4199,Hope Frozen,tm932201,MOVIE,2019,,75,['documentation'],"[''TH'', ''US'']",,,,2.206,8.2
+4201,The Brave,tm428702,MOVIE,2019,,103,"[''thriller'', ''action'', ''crime'']",['US'],tt5524630,5,1320,4.95,5.6
+4202,American Woman,tm475162,MOVIE,2019,R,85,['drama'],"[''US'', ''CA'']",,,,3.217,5.3
+4207,Whitney Cummings: Can I Touch It?,tm818154,MOVIE,2019,,59,['comedy'],['US'],tt10521638,6.5,1732,2.961,6.8
+4214,Our Planet: Behind the Scenes,tm825102,MOVIE,2019,,63,['documentation'],"[''US'', ''GB'']",tt10746342,8.4,1672,8.629,7.9
+4223,Kevin Hart: Zero F**ks Given,tm973536,MOVIE,2020,R,69,['comedy'],['US'],tt13433082,6,3342,5.133,6.9
+4225,Kevin Hart: Irresponsible,tm466255,MOVIE,2019,,60,['comedy'],['US'],tt10009796,6.5,4437,6.366,6.8
+4235,The Princess Switch: Switched Again,tm840761,MOVIE,2020,G,97,['romance'],"[''GB'', ''US'']",,,,12.298,6.9
+4236,Dragons: Rescue Riders: Hunt for the Golden Dragon,tm878995,MOVIE,2020,,46,"[''action'', ''comedy'', ''family'', ''fantasy'', ''animation'']",['US'],tt11875456,5.2,153,7.507,6.8
+4237,"ariana grande: excuse me, i love you",tm982100,MOVIE,2020,,97,"[''music'', ''documentation'']",['US'],tt13615386,6.3,2540,28.491,8.4
+4239,Welcome to Sudden Death,tm931436,MOVIE,2020,R,80,['action'],"[''FR'', ''JP'', ''GB'', ''US'', ''CA'']",tt10804786,4.3,,8.443,6.3
+4240,Holiday Rush,tm838705,MOVIE,2019,,94,"[''comedy'', ''drama'', ''romance'', ''family'']",['US'],tt10091530,4.9,2705,12.387,5.6
+4243,Calum von Moger: Unbroken,tm470252,MOVIE,2019,,93,['documentation'],['US'],tt10308686,6.3,828,3.934,7.4
+4245,Jimmy Carr: The Best of Ultimate Gold Greatest Hits,tm462778,MOVIE,2019,,58,['comedy'],['US'],tt9817258,7.3,2201,3.164,6.9
+4254,Deadly Switch,tm453727,MOVIE,2019,,86,['thriller'],['US'],tt8354582,4.5,1303,8.174,5.6
+4263,Shawn Mendes: In Wonder,tm944331,MOVIE,2020,,83,"[''music'', ''documentation'']",['US'],tt13276386,6.5,2016,10.152,8.3
+4265,Canvas,tm979689,MOVIE,2020,G,9,['drama'],['US'],,,,10.171,6.5
+4269,A Christmas Prince: The Royal Baby,tm838765,MOVIE,2019,,84,"[''romance'', ''family'']",['US'],tt10006006,5.3,6704,13.992,6.4
+4272,The Irishman: In Conversation,tm844497,MOVIE,2019,,23,['documentation'],['US'],,,,6.995,7.6
+4273,Carmen Sandiego: To Steal or Not to Steal,tm856945,MOVIE,2020,,31,"[''animation'', ''action'', ''family'']","[''CA'', ''US'']",tt11767524,,,7.155,6.4
+4276,Eric Andre: Legalize Everything,tm892081,MOVIE,2020,R,52,['comedy'],['US'],tt12327104,6.1,2491,2.594,6.3
+4280,Malibu Rescue,tm474061,MOVIE,2019,,69,"[''action'', ''comedy'', ''family'']",['US'],tt9228950,5,1220,9.434,6.4
+4281,The Black Godfather,tm675171,MOVIE,2019,,118,"[''documentation'', ''music'']",['US'],tt10289996,7.4,1341,9.366,6.8
+4282,Life Overtakes Me,tm467116,MOVIE,2019,,39,['documentation'],"[''US'', ''SE'']",tt9204606,5,45,8.855,6.4
+4291,Really Love,tm946360,MOVIE,2020,,95,"[''drama'', ''romance'']",['US'],tt8722624,6,807,9.122,6.5
+4298,Full Out 2: You Got This!,tm871330,MOVIE,2020,,90,['family'],['US'],tt11247064,4.6,504,5.552,6.5
+4302,Fire in Paradise,tm841410,MOVIE,2019,,39,['documentation'],['US'],,,,3.289,6.8
+4309,Malibu Rescue: The Next Wave,tm918373,MOVIE,2020,,70,"[''comedy'', ''family'', ''action'']",['US'],tt11032990,4.7,818,9.507,6.5
+4313,The Boys in the Band: Something Personal,tm957903,MOVIE,2020,,28,['documentation'],['US'],tt13206842,7.2,356,2.481,8.5
+4314,Dance Dreams: Hot Chocolate Nutcracker,tm946927,MOVIE,2020,,80,"[''documentation'', ''family'']",['US'],tt8741182,7,339,4.549,7.8
+4317,Alien Warfare,tm466954,MOVIE,2019,,88,"[''thriller'', ''action'', ''scifi'']",['US'],tt9562694,2.6,3460,18.522,4.1
+4320,Pinkfong & Baby Shark's Space Adventure,tm843345,MOVIE,2019,,66,"[''animation'', ''family'', ''fantasy'']","[''KR'', ''US'']",tt13836494,5.1,74,3.52,4
+4322,The Stand at Paxton County,tm889647,MOVIE,2020,R,102,"[''thriller'', ''drama'']",['US'],tt8362228,6.4,1069,5.339,6
+4326,Out Of The Clear Blue Sky,tm845850,MOVIE,2019,,112,"[''comedy'', ''drama'']","[''MX'', ''US'']",,,,27.102,8.1
+4334,Nate: A One Man Show,tm977478,MOVIE,2020,,59,['comedy'],['US'],tt10798934,6.6,346,2.52,6.2
+4335,Milkwater,tm910040,MOVIE,2020,,102,['drama'],['US'],,,,3.234,4
+4336,"Ray Romano: Right Here, Around the Corner",tm452574,MOVIE,2019,,58,"[''comedy'', ''documentation'']",['US'],tt8101766,7.2,1654,3.032,6.8
+4339,Spelling the Dream,tm420181,MOVIE,2020,,82,['documentation'],['US'],tt6193522,6.9,716,5.741,7.7
+4343,The Crystal Calls - Making The Dark Crystal: Age of Resistance,tm828326,MOVIE,2019,,83,['documentation'],['US'],tt10924716,7.6,528,9.84,7.4
+4349,"Ken Jeong: You Complete Me, Ho",tm452996,MOVIE,2019,,62,['comedy'],['US'],tt8466562,5.7,2368,5.193,6
+4352,Ma Rainey's Black Bottom: A Legacy Brought to Screen,tm1096875,MOVIE,2020,PG,31,['documentation'],['US'],,,,3.444,6.5
+4358,Simon Amstell: Set Free,tm825952,MOVIE,2019,,51,['comedy'],['US'],tt10687642,6.5,797,2.087,6.1
+4361,Angela's Christmas Wish,tm943771,MOVIE,2020,G,47,"[''animation'', ''comedy'', ''drama'', ''family'']","[''IE'', ''US'']",tt13260836,7.1,1434,39.273,6.4
+4364,Father Soldier Son,tm887052,MOVIE,2020,R,99,"[''war'', ''documentation'']",['US'],tt12187586,7.3,929,9.731,6.2
+4375,Ghosts of Sugar Land,tm461726,MOVIE,2019,,21,['documentation'],['US'],,,,2.805,5.8
+4379,"Colin Quinn: Red State, Blue State",tm810423,MOVIE,2019,,65,['comedy'],['US'],tt10403090,7.6,716,3.236,7.5
+4392,The Road to El Camino: Behind the Scenes of El Camino: A Breaking Bad Movie,tm841239,MOVIE,2019,PG-13,13,['documentation'],['US'],tt11151792,7.1,1356,2.744,7
+4398,Rogue Warfare: The Hunt,tm843958,MOVIE,2019,R,103,['action'],['US'],tt7983712,3.1,570,6.517,5.6
+4407,Almost Love,tm472195,MOVIE,2019,,94,"[''comedy'', ''drama'', ''romance'']",['US'],tt8739582,5.7,1087,4.522,6.5
+4409,The Trap,tm466426,MOVIE,2019,,90,['comedy'],['US'],tt5990444,4.3,1590,7.5,5
+4416,The Spooky Tale of Captain Underpants Hack-a-Ween,tm835512,MOVIE,2019,,45,"[''comedy'', ''family'', ''animation'', ''action'']",['US'],tt10945060,6,201,5.229,5.9
+4436,After the Raid,tm845370,MOVIE,2019,,25,['documentation'],"[''US'', ''MX'']",,,,1.905,5
+4437,Kevin Hart's Guide to Black History,tm457296,MOVIE,2019,PG,63,['comedy'],['US'],tt6373518,5.5,1332,4.301,5.4
+4441,ReMastered: The Lion's Share,tm473647,MOVIE,2019,PG-13,84,"[''music'', ''documentation'']",['US'],tt9046576,6.9,628,3.967,6.8
+4443,Iliza Shlesinger: Unveiled,tm840216,MOVIE,2019,,78,['comedy'],['US'],tt11163008,6.5,1664,4.784,6.5
+4448,Free Rein: Valentine's Day,tm456894,MOVIE,2019,,50,['romance'],['US'],,,,6.146,7.4
+4450,Bulletproof 2,tm465513,MOVIE,2020,,97,"[''crime'', ''action'', ''comedy'', ''drama'']",['US'],tt9887580,3.5,609,11.678,6.8
+4455,You Are My Home,tm980358,MOVIE,2020,,92,['family'],['US'],,,,4.746,7.3
+4459,Spookley and the Christmas Kittens,tm845588,MOVIE,2019,,44,['animation'],['US'],,,,2.076,
+4474,Tiffany Haddish: Black Mitzvah,tm845117,MOVIE,2019,,55,['comedy'],['US'],tt8882390,6.2,956,2.752,6.3
+4475,Birders,tm834121,MOVIE,2019,,37,['documentation'],"[''MX'', ''US'']",,,,2.923,6.8
+4483,Adam Devine: Best Time of Our Lives,tm813936,MOVIE,2019,PG-13,58,['comedy'],['US'],tt10376844,5.9,946,2.244,6.5
+4486,London Hughes: To Catch A D*ck,tm982569,MOVIE,2020,,60,['comedy'],['US'],tt13528526,4.7,318,2.472,6.6
+4488,Velvet Colección: Grand Finale,tm881575,MOVIE,2020,,82,"[''comedy'', ''romance'']","[''US'', ''ES'']",tt16672800,7.2,8,1.96,4
+4489,Dark City Beneath the Beat,tm907704,MOVIE,2020,,65,"[''music'', ''documentation'']",['US'],tt11916314,6.7,138,1.97,7
+4508,"Rob Schneider: Asian Momma, Mexican Kids",tm917999,MOVIE,2020,,44,['comedy'],['US'],tt12724632,5.5,716,4.934,6.4
+4524,A Family Reunion Christmas,tm845942,MOVIE,2019,,29,"[''comedy'', ''family'']",['US'],tt11193888,5.8,216,4.092,6.1
+4539,The Netflix Afterparty: The Best Shows of The Worst Year,tm983091,MOVIE,2020,,59,['documentation'],['US'],,,,2.102,6
+4540,George Lopez: We'll Do It for Half,tm896246,MOVIE,2020,,51,['comedy'],['US'],tt12358794,5.7,444,3.02,5.6
+4541,Spirit Riding Free: Spirit of Christmas,tm845607,MOVIE,2019,PG,45,"[''animation'', ''action'', ''comedy'', ''drama'', ''family'']",['US'],tt11313068,5.2,122,13.018,7
+4547,The Car: Road to Revenge,tm452237,MOVIE,2019,,89,"[''thriller'', ''action'', ''horror'']",['US'],tt9382596,4,1082,33.028,6.5
+4549,Mike Epps: Only One Mike,tm813938,MOVIE,2019,,63,['comedy'],['US'],tt10376958,4.7,295,3.111,6.6
+4565,Super Monsters Back to School,tm825934,MOVIE,2019,,23,['animation'],"[''CA'', ''US'']",tt10687588,6.2,29,3.101,6.3
+4568,Marjoun and the Flying Headscarf,tm813423,MOVIE,2019,,84,['drama'],"[''US'', ''NL'', ''CA'', ''LB'']",tt10399342,6.8,37,2.093,
+4571,"Hello, Privilege. It''s Me, Chelsea",tm830833,MOVIE,2019,,64,['documentation'],['US'],tt10847138,4.5,1972,6.254,5.6
+4572,Go! Go! Cory Carson: The Chrissy,tm887376,MOVIE,2020,G,42,['animation'],"[''JP'', ''US'', ''FR'']",,,,2.112,6
+4577,I'm Leaving Now,tm437379,MOVIE,2019,,74,"[''documentation'', ''european'']","[''MX'', ''US'']",tt6541924,6.5,108,2.38,6
+4578,Spirit Riding Free: Ride Along Adventure,tm981956,MOVIE,2020,,22,"[''animation'', ''action'', ''drama'', ''family'', ''western'', ''comedy'']",['US'],tt13453940,5.9,60,2.994,8.7
+4583,A Trash Truck Christmas,tm982018,MOVIE,2020,G,28,"[''animation'', ''comedy'', ''family'']",['US'],tt13458584,5.5,212,22.042,6.5
+4593,To Be of Service,tm813075,MOVIE,2019,,88,['documentation'],['US'],tt10413458,7.3,90,2.303,5.7
+4594,It Takes a Lunatic,tm837843,MOVIE,2019,,126,"[''documentation'', ''drama'']","[''US'', ''GB'', ''DE'']",tt11052346,6.6,170,3.923,5.6
+4609,Los Tigres del Norte at Folsom Prison,tm832684,MOVIE,2019,,64,"[''documentation'', ''music'']",['US'],tt10857582,7,170,4.22,5.8
+4610,Cops and Robbers,tm984018,MOVIE,2020,PG-13,8,['animation'],['US'],tt13322484,6.9,,4.434,7
+4613,Miranda Sings Live... Your Welcome,tm452578,MOVIE,2019,,61,['comedy'],['US'],tt9557190,5.5,418,4.382,5.7
+4615,Hope Ranch,tm886360,MOVIE,2020,,81,['family'],['US'],tt5244812,4.3,229,2.479,6.7
+4647,Deon Cole: Cole Hearted,tm835445,MOVIE,2019,,69,['comedy'],['US'],tt10977680,6.9,883,3.044,6.5
+4652,A New York Christmas Wedding,tm929630,MOVIE,2020,,88,"[''drama'', ''romance'']",['US'],tt10768194,5.3,1111,7.913,5.8
+4662,Arsenio Hall: Smart and Classy,tm840242,MOVIE,2019,,63,['comedy'],['US'],,,,2.606,5.9
+4681,A Go! Go! Cory Carson Summer Camp,tm918959,MOVIE,2020,,20,['animation'],['US'],,,,1.285,2.7
+4682,American Factory: A Conversation with the Obamas,tm831125,MOVIE,2019,,10,['documentation'],['US'],,,,2.061,5.5
+4684,A Tale of Two Kitchens,tm474618,MOVIE,2019,,29,['documentation'],"[''US'', ''MX'']",tt10243660,6.5,145,1.941,6.6
+4688,The Claudia Kishi Club,tm890479,MOVIE,2020,,17,['documentation'],['US'],tt12411586,,,3.058,4.7
+4694,After Maria,tm472961,MOVIE,2019,,36,['documentation'],['US'],,,,2.893,5.5
+4699,The Magic School Bus Rides Again: The Frizz Connection,tm945831,MOVIE,2020,,44,"[''animation'', ''family'']",['US'],tt13150612,,,3.397,7.7
+4702,Super Monsters Save Christmas,tm844201,MOVIE,2019,G,24,"[''animation'', ''fantasy'', ''family'']",['US'],tt11193860,4.8,57,3.633,6
+4705,Amsterdam to Anatolia,tm840152,MOVIE,2019,,6,['thriller'],"[''NL'', ''PS'', ''US'', ''LB'']",,,,0.731,6
+4722,Super Monsters: Dia de los Monsters,tm942492,MOVIE,2020,G,25,['animation'],"[''US'', ''CA'']",,,,4.43,7.6
+4723,The App That Stole Christmas,tm976519,MOVIE,2020,PG,63,"[''drama'', ''comedy'']",['US'],tt11378154,3.7,734,2.503,4.5
+4744,A Go! Go! Cory Carson Christmas,tm977184,MOVIE,2020,,21,"[''animation'', ''family'']",['US'],tt13479662,6.3,48,13.391,6.9
+4751,Super Monsters: Santa's Super Monster Helpers,tm981675,MOVIE,2020,,24,"[''animation'', ''family'']",['US'],tt13439998,4.5,25,3.238,7.7
+4752,True: Rainbow Rescue,tm896976,MOVIE,2020,,23,['animation'],['US'],,,,3.517,10
+4785,Carlos Almaraz: Playing with Fire,tm530822,MOVIE,2019,,82,['documentation'],['US'],tt6335714,7.5,58,1.818,7
+4799,David A. Arnold Fat Ballerina,tm879556,MOVIE,2020,,60,['comedy'],['US'],tt11916980,7.4,71,2.141,4.7
+4806,Mama Drama,tm902993,MOVIE,2020,,85,['drama'],['US'],tt12424356,6.3,8,,
+4836,The Adam Project,tm1082564,MOVIE,2022,PG-13,106,"[''drama'', ''action'', ''comedy'', ''scifi'']",['US'],tt2463208,6.7,156603,919.599,7
+4837,Operation Mincemeat,tm1043537,MOVIE,2022,PG-13,128,"[''drama'', ''war'']","[''GB'', ''US'']",tt1879016,6.9,1972,43.158,6.7
+4841,Metal Lords,tm1075698,MOVIE,2022,R,97,"[''drama'', ''comedy'', ''music'']",['US'],tt12141112,6.7,19689,343.77,6.8
+4843,The Bubble,tm1120543,MOVIE,2022,R,126,['comedy'],['US'],tt13610562,4.7,20080,250.543,4.9
+4844,White Hot: The Rise & Fall of Abercrombie & Fitch,tm1185367,MOVIE,2022,R,88,['documentation'],['US'],tt19034522,5.6,1184,10.804,5.7
+4848,Windfall,tm1083293,MOVIE,2022,R,92,"[''thriller'', ''crime'', ''drama'']",['US'],tt15035360,5.7,17218,133.608,5.3
+4849,"tick, tick... BOOM!",tm979026,MOVIE,2021,PG-13,121,['drama'],['US'],tt8721424,7.5,96418,40.707,7.8
+4853,Don't Look Up,tm856378,MOVIE,2021,R,138,"[''scifi'', ''drama'', ''comedy'']",['US'],tt11286314,7.2,498447,115.376,7.2
+5023,The Ice Road,tm841797,MOVIE,2021,PG-13,103,"[''thriller'', ''drama'', ''action'']",['US'],tt3758814,5.6,37401,76.023,7.1
+4857,Apollo 10½:  A Space Age Childhood,tm852172,MOVIE,2022,PG-13,98,"[''comedy'', ''action'', ''animation'', ''romance'', ''family'', ''horror'', ''drama'', ''scifi'']","[''NL'', ''US'']",tt7978758,7.3,4932,12.34,7.1
+4861,Peter Rabbit 2: The Runaway,tm413169,MOVIE,2021,PG,93,"[''fantasy'', ''family'', ''comedy'', ''action'', ''animation'', ''crime'', ''drama'']","[''US'', ''AU'']",tt8376234,6.2,10714,120.527,7.3
+4864,The Mystery of Marilyn Monroe: The Unheard Tapes,tm1185374,MOVIE,2022,R,101,['documentation'],['US'],tt19034332,6.2,2233,205.417,6.3
+4868,The Lost Daughter,tm1080083,MOVIE,2021,R,122,['drama'],"[''GB'', ''US'', ''GR'']",tt9100054,6.7,56650,46.069,6.6
+4871,The Mitchells vs. the Machines,tm370144,MOVIE,2021,PG,113,"[''animation'', ''comedy'', ''family'', ''scifi'']",['US'],tt7979580,7.6,100787,60.224,8
+4872,Red Notice,tm404856,MOVIE,2021,PG-13,117,"[''comedy'', ''crime'', ''thriller'', ''action'']",['US'],tt7991608,6.3,255356,390.768,6.8
+4879,The Alpinist,tm937814,MOVIE,2021,PG-13,92,['documentation'],"[''US'', ''AT'', ''GB'']",tt11790780,8,7192,9.969,7.7
+4881,The Harder They Fall,tm825714,MOVIE,2021,R,139,"[''action'', ''drama'', ''western'']",['US'],tt10696784,6.5,57549,259.097,6.7
+4882,Our Father,tm1196288,MOVIE,2022,,97,['crime'],['US'],,,,48.759,6.1
+4890,Return to Space,tm1185360,MOVIE,2022,,128,['documentation'],['US'],tt18555320,7.3,3270,35.747,6.3
+4895,Along for the Ride,tm1120855,MOVIE,2022,,106,"[''romance'', ''drama'']",['US'],tt14506528,6,1432,229.844,6.8
+4901,Diana: The Musical,tm1066826,MOVIE,2021,PG-13,117,['drama'],['US'],tt12885272,4.3,1189,5.947,5.8
+4905,The Unforgivable,tm1092864,MOVIE,2021,R,112,"[''drama'', ''crime'']","[''DE'', ''GB'', ''US'']",tt11233960,7.1,101975,78.677,7.5
+4906,The Guilty,tm986168,MOVIE,2021,R,90,"[''drama'', ''thriller'', ''action'', ''crime'']",['US'],tt9421570,6.3,113483,46.903,6.4
+4911,Till Death,tm1033470,MOVIE,2021,R,89,"[''horror'', ''thriller'']",['US'],tt11804152,5.8,19029,30.573,6.5
+4922,Texas Chainsaw Massacre,tm946869,MOVIE,2022,R,83,"[''thriller'', ''crime'', ''horror'']",['US'],tt11755740,4.8,45810,437.842,5.1
+4923,Passing,tm471968,MOVIE,2021,PG-13,98,"[''drama'', ''thriller'']","[''GB'', ''US'', ''CA'']",tt8893974,6.7,13553,44.845,6.4
+4924,Downfall: The Case Against Boeing,tm1138477,MOVIE,2022,R,89,['documentation'],['US'],tt11893274,7.4,9428,31.888,7.2
+4928,Army of Thieves,tm1048362,MOVIE,2021,R,127,"[''comedy'', ''horror'', ''action'', ''crime'', ''thriller'', ''romance'', ''scifi'']","[''DE'', ''US'']",tt13024674,6.4,71036,205.963,6.9
+4929,Gunpowder Milkshake,tm501313,MOVIE,2021,R,114,"[''action'', ''crime'', ''thriller'']","[''FR'', ''DE'', ''US'']",tt8368408,6,40888,138.626,6.4
+4931,The Sparks Brothers,tm983723,MOVIE,2021,R,140,"[''documentation'', ''music'', ''comedy'', ''history'']","[''GB'', ''US'']",tt8610436,7.8,4416,7.71,7.2
+4937,Army of the Dead,tm456513,MOVIE,2021,R,148,"[''horror'', ''thriller'', ''crime'', ''scifi'', ''action'']",['US'],tt0993840,5.7,166882,128.616,6.3
+4941,14 Peaks: Nothing Is Impossible,tm1119272,MOVIE,2021,,101,"[''documentation'', ''sport'']",['US'],tt14079374,7.8,22858,23.898,7.5
+4944,Bo Burnham: Inside,tm1038686,MOVIE,2021,R,87,"[''comedy'', ''drama'', ''music'', ''reality'']",['US'],tt14545352,8.7,44074,12.489,8.3
+4947,Oxygen,tm347095,MOVIE,2021,,100,"[''horror'', ''scifi'', ''thriller'', ''fantasy'', ''drama'']","[''FR'', ''US'']",tt6341832,6.5,36803,35.875,6.6
+4952,Like A Rolling Stone: The Life & Times of Ben Fong-Torres,tm1048678,MOVIE,2021,,102,['documentation'],['US'],tt9660510,7.9,19,1.4,
+4959,Kate,tm1046932,MOVIE,2021,R,106,"[''action'', ''crime'', ''drama'', ''thriller'']","[''JP'', ''TH'', ''US'']",tt7737528,6.2,57689,69.823,6.7
+4960,Worth,tm861000,MOVIE,2021,PG-13,118,"[''history'', ''drama'']","[''CA'', ''GB'', ''US'']",tt8009744,6.8,12745,29.665,6.8
+4967,Nightbooks,tm1002815,MOVIE,2021,,103,"[''fantasy'', ''horror'', ''family'']","[''CA'', ''US'']",tt10521144,5.7,8278,116.672,6.4
+4973,No One Gets Out Alive,tm1092958,MOVIE,2021,R,85,"[''thriller'', ''horror'', ''drama'']","[''RO'', ''US'']",tt13056008,5.3,13913,125.021,6
+4974,The Woman in the Window,tm416779,MOVIE,2021,R,102,"[''thriller'', ''crime'', ''drama'']",['US'],tt6111574,5.7,70886,32.777,6.1
+4979,Home Team,tm1141439,MOVIE,2022,PG,99,"[''comedy'', ''sport'']",['US'],tt14592064,6,16320,92.767,6.8
+4984,After We Fell,tm1003630,MOVIE,2021,R,99,"[''drama'', ''romance'']","[''FR'', ''US'']",tt13069986,4.6,12339,267.501,7.1
+4991,A Farewell to Ozark,tm1201670,MOVIE,2022,,30,['documentation'],['US'],,,,20.664,
+4998,Aftermath,tm1075215,MOVIE,2021,,114,"[''horror'', ''thriller'', ''drama'']",['US'],tt10691162,5.3,15125,63.255,6.5
+5003,The Witcher: Nightmare of the Wolf,tm1003034,MOVIE,2021,,83,"[''fantasy'', ''scifi'', ''animation'', ''action'', ''drama'']","[''PL'', ''KR'', ''US'']",tt11657662,7.2,41508,20.903,7.7
+5004,Prayers for the Stolen,tm813078,MOVIE,2021,R,110,['drama'],"[''QA'', ''MX'', ''US'', ''CH'', ''AR'', ''BR'', ''DE'']",tt10366574,7.3,1729,24.703,7.9
+5005,There's Someone Inside Your House,tm1110150,MOVIE,2021,,86,"[''thriller'', ''horror'']",['US'],tt8150814,4.8,14421,71.787,5.6
+5011,The Starling,tm1021871,MOVIE,2021,PG-13,102,"[''comedy'', ''drama'', ''fantasy'']",['US'],tt5164438,6.3,11733,34.678,7.2
+5013,Intrusion,tm1063652,MOVIE,2021,,92,"[''drama'', ''thriller'']",['US'],tt5563324,5.3,15464,69.688,6
+5014,My Little Pony: A New Generation,tm841825,MOVIE,2021,PG,91,"[''fantasy'', ''scifi'', ''drama'', ''comedy'', ''family'', ''animation'', ''action'']","[''CA'', ''IE'', ''US'']",tt10101702,6.8,3468,124.569,7.9
+5015,Cosmic Sin,tm993670,MOVIE,2021,R,88,"[''scifi'', ''action'']",['US'],tt11762434,2.5,12284,111.295,4.2
+5022,Vivo,tm314863,MOVIE,2021,PG,95,"[''comedy'', ''animation'', ''drama'', ''family'']",['US'],tt6338498,6.7,17650,87.79,7.6
+5026,Fear Street: Part One - 1994,tm525645,MOVIE,2021,,107,"[''horror'', ''drama'']",['US'],tt6566576,6.2,74672,110.15,6.8
+5027,Brazen,tm1141594,MOVIE,2022,,94,"[''thriller'', ''crime'', ''drama'', ''romance'']",['US'],tt13978306,4,11224,276.527,4.9
+5035,Night Teeth,tm1020820,MOVIE,2021,,107,"[''comedy'', ''action'', ''crime'', ''drama'', ''fantasy'', ''horror'', ''thriller'']","[''GB'', ''US'']",tt10763820,5.6,16890,70.777,6.6
+5036,Oprah + Viola: A Netflix Special Event,tm1191860,MOVIE,2022,,48,[],['US'],tt19404044,,,5.85,5
+5038,Marmaduke,tm1198745,MOVIE,2022,,88,"[''comedy'', ''animation'']","[''CA'', ''US'']",tt8746404,3,276,99.429,5.4
+5040,Love Hard,tm1093099,MOVIE,2021,,104,"[''comedy'', ''romance'']",['US'],tt10752004,6.3,48521,15.982,7.1
+5043,Stowaway,tm858869,MOVIE,2021,PG-13,117,"[''thriller'', ''scifi'', ''drama'']","[''DE'', ''US'']",tt9203694,5.6,44054,21.668,5.8
+5045,Things Heard & Seen,tm833216,MOVIE,2021,,121,"[''horror'', ''thriller'', ''drama'']",['US'],tt10962368,5.3,29915,13.886,5.8
+5046,Fistful of Vengeance,tm1159163,MOVIE,2022,R,94,"[''fantasy'', ''action'', ''crime'', ''drama'']",['US'],tt14158554,4.5,5985,829.005,5.4
+5047,Procession,tm1096775,MOVIE,2021,R,118,['documentation'],['US'],tt14300912,7.2,1076,15.236,5.8
+5049,Bruised,tm912100,MOVIE,2021,R,129,"[''drama'', ''sport'', ''thriller'']","[''GB'', ''US'']",tt8310474,6.1,13968,42.403,7
+5054,Dave Chappelle: The Closer,tm1108321,MOVIE,2021,,72,['comedy'],['US'],tt15523010,8,24903,9.182,7.3
+5057,Yes Day,tm992260,MOVIE,2021,PG,86,"[''comedy'', ''family'']",['US'],tt8521876,5.7,23141,51.078,6.9
+5064,"Bob Ross: Happy Accidents, Betrayal & Greed",tm1079334,MOVIE,2021,PG-13,92,['documentation'],"[''US'', ''NL'']",tt14539744,6.9,5674,11.287,6.9
+5067,Fear Street: Part Two - 1978,tm824160,MOVIE,2021,,109,"[''drama'', ''horror'']",['US'],tt9701940,6.7,58277,93.542,7.3
+5068,The Lovebirds,tm459789,MOVIE,2021,R,87,"[''action'', ''romance'', ''comedy'', ''crime'', ''thriller'']",['US'],tt8851668,6,25460,8.69,5.8
+5069,Final Account,tm919880,MOVIE,2021,PG-13,94,['documentation'],"[''US'', ''GB'']",tt12789212,7.1,950,4.483,7.1
+5074,Awake,tm1038344,MOVIE,2021,R,96,"[''scifi'', ''thriller'', ''action'', ''drama'']",['US'],tt10418662,4.8,20828,177.612,6
+5076,The God Committee,tm863351,MOVIE,2021,,98,"[''drama'', ''thriller'']",['US'],tt6852526,5.8,3761,14.702,7.1
+5077,Malcolm & Marie,tm976166,MOVIE,2021,R,106,"[''drama'', ''romance'']",['US'],tt12676326,6.6,35760,27.204,7.1
+5078,The White Tiger,tm949309,MOVIE,2021,R,125,"[''drama'', ''crime'']","[''IN'', ''SG'', ''US'']",tt6571548,7.1,58190,16.464,6.9
+5079,Seaspiracy,tm1018890,MOVIE,2021,,80,['documentation'],['US'],tt14152756,8.1,29604,9.255,7.9
+5081,Fatherhood,tm1064228,MOVIE,2021,PG-13,109,"[''drama'', ''comedy'']","[''US'', ''CA'']",tt4733624,6.6,34661,63.934,7.6
+5083,Moxie,tm1018427,MOVIE,2021,PG-13,111,"[''comedy'', ''drama'', ''music'']",['US'],tt7737700,6.7,24003,32.307,7.4
+5085,Britney vs. Spears,tm1104532,MOVIE,2021,,93,"[''documentation'', ''music'']",['US'],tt15469820,6.4,6612,10.209,7.2
+5086,Ali Wong: Don Wong,tm1165219,MOVIE,2022,R,59,['comedy'],['US'],tt17542000,6.5,1828,5.408,7
+5089,Back to the Outback,tm1020851,MOVIE,2021,PG,95,"[''family'', ''animation'', ''comedy'']","[''US'', ''AU'']",tt13575806,6.5,7328,215.229,7.7
+5092,Tyler Perry's A Madea Homecoming,tm1158704,MOVIE,2022,R,105,"[''comedy'', ''drama'', ''romance'']",['US'],tt14813966,5.6,3447,243.742,6.9
+5096,Ronny Chieng: Speakeasy,tm1187638,MOVIE,2022,,60,['comedy'],['US'],tt18830896,,,5.518,6.6
+5116,America: The Motion Picture,tm1038363,MOVIE,2021,R,98,"[''action'', ''animation'', ''comedy'', ''fantasy'', ''history'', ''scifi'', ''war'']",['US'],tt6733874,5.6,6165,62.164,5.8
+5118,Audible,tm1039147,MOVIE,2021,PG-13,39,['documentation'],['US'],tt12771540,5.3,,6.782,7
+5125,The Block Island Sound,tm922429,MOVIE,2021,,103,"[''horror'', ''scifi'', ''thriller'']",['US'],tt8747160,5.3,7558,7.757,5.2
+5129,Rita Moreno: Just a Girl Who Decided to Go for It,tm983658,MOVIE,2021,PG-13,90,['documentation'],['US'],tt10741846,7.7,711,3.933,7.1
+5133,Sweet Girl,tm898614,MOVIE,2021,R,110,"[''drama'', ''thriller'', ''action'']",['US'],tt10731768,5.5,30580,114.132,6.8
+5136,Fear Street: 1666,tm922706,MOVIE,2021,R,114,['horror'],['US'],,,,65.826,7.3
+5151,Wish Dragon,tm434625,MOVIE,2021,PG,99,"[''fantasy'', ''comedy'', ''family'', ''romance'', ''animation'']","[''CN'', ''US'']",tt5562070,7.2,24712,129.238,8.1
+5154,Blue Miracle,tm1045741,MOVIE,2021,,95,"[''drama'', ''family'']","[''MX'', ''US'']",tt7084386,6.6,6432,28.612,7.5
+5158,Deadly Illusions,tm1020326,MOVIE,2021,R,114,['thriller'],['US'],,,,23.683,5
+5161,Good on Paper,tm1038369,MOVIE,2021,R,92,"[''romance'', ''comedy'']",['US'],tt8231668,5.6,11401,19.651,5.6
+5163,The Royal Treatment,tm1141923,MOVIE,2022,,96,"[''romance'', ''comedy'', ''family'']",['US'],tt13989030,5.2,8127,109.801,6.7
+5167,Aileen Wuornos: American Boogeywoman,tm1052498,MOVIE,2021,R,85,"[''drama'', ''horror'', ''thriller'']",['US'],tt14265992,3.6,1349,9.607,4.9
+5168,Aziz Ansari: Nightclub Comedian,tm1150872,MOVIE,2022,R,29,['comedy'],['US'],tt17005964,7,1964,3.915,6.7
+5170,Operation Varsity Blues: The College Admissions Scandal,tm1003353,MOVIE,2021,R,100,"[''drama'', ''documentation'', ''crime'']",['US'],tt14111734,6.9,7993,12.019,7
+5175,Nate Bargatze: The Greatest Average American,tm1003261,MOVIE,2021,,60,['comedy'],['US'],tt14078164,7.3,1295,3.751,7.1
+5179,Finding 'Ohana,tm863823,MOVIE,2021,PG,123,"[''comedy'', ''family'', ''action'']",['US'],tt10332588,6.1,9819,52.678,6.5
+5181,To All the Boys: Always and Forever,tm860261,MOVIE,2021,PG-13,115,"[''romance'', ''comedy'', ''drama'']",['US'],tt10676012,6.3,24232,44.182,7.7
+5184,He's All That,tm1028298,MOVIE,2021,R,91,"[''comedy'', ''romance'']",['US'],tt4590256,4.3,23474,82.882,6.8
+5188,Never Back Down: Revolt,tm1120509,MOVIE,2021,R,89,"[''drama'', ''sport'', ''action'', ''crime'']",['US'],tt13470094,3.9,482,108.373,6.6
+5191,Mixtape,tm166973,MOVIE,2021,,94,"[''comedy'', ''drama'', ''family'', ''romance'']",['US'],tt1587420,6.6,3000,22.899,7.1
+5192,Untold: Malice at the Palace,tm1082314,MOVIE,2021,R,69,"[''crime'', ''documentation'', ''sport'']",['US'],tt15085802,7.5,7532,14.189,7
+5194,Death to 2021,tm1134006,MOVIE,2021,,60,['comedy'],"[''GB'', ''US'']",tt16301388,6.3,14315,10.912,6
+5203,Extinct,tm863919,MOVIE,2021,,85,"[''comedy'', ''family'', ''animation'']","[''US'', ''CA'', ''CN'']",tt8241000,5.4,2393,140.949,6.5
+5216,Pray Away,tm888243,MOVIE,2021,PG-13,101,['documentation'],['US'],tt11224358,6.5,2714,11.352,7
+5225,Tall Girl 2,tm1150256,MOVIE,2022,,97,"[''romance'', ''comedy'', ''drama'', ''family'']",['US'],tt16085592,4.7,3916,88.374,5.8
+5226,Afterlife of the Party,tm1087956,MOVIE,2021,,109,"[''fantasy'', ''drama'', ''romance'', ''comedy'']",['US'],tt11742798,5.7,8223,40.022,6.9
+5229,40 Love,tm993790,MOVIE,2021,R,98,['comedy'],"[''US'', ''MX'']",,,,2.497,3
+5236,The Seventh Day,tm984204,MOVIE,2021,R,87,['horror'],['US'],tt11263022,4.5,4248,80.344,5.5
+5238,Thunder Force,tm1020073,MOVIE,2021,PG-13,107,"[''scifi'', ''comedy'', ''fantasy'', ''action'']",['US'],tt10121392,4.4,40788,109.493,5.6
+5247,A Castle for Christmas,tm1003725,MOVIE,2021,,98,"[''romance'', ''comedy'', ''drama'', ''family'']","[''US'', ''GB'']",tt13070602,5.5,11727,17.704,5.8
+5248,Outside the Wire,tm983270,MOVIE,2021,R,116,"[''scifi'', ''thriller'', ''action'', ''fantasy'']",['US'],tt10451914,5.4,41562,114.758,6.4
+5249,The Loud House Movie,tm319224,MOVIE,2021,G,83,"[''animation'', ''action'', ''thriller'', ''fantasy'', ''drama'', ''family'', ''music'', ''comedy'']",['US'],tt6714432,6.2,1893,97.251,7.7
+5259,Lead Me Home,tm1096769,MOVIE,2021,,40,['documentation'],['US'],tt15339848,7.1,,16.605,6.7
+5264,Trollhunters: Rise of the Titans,tm963182,MOVIE,2021,,104,"[''comedy'', ''drama'', ''family'', ''fantasy'', ''animation'', ''action'']",['US'],tt12851396,6.7,4614,120.75,7.8
+5269,Bridgerton - The Afterparty,tm1074621,MOVIE,2021,,38,[],['US'],,,,,
+5277,The Kissing Booth 3,tm921206,MOVIE,2021,PG-13,112,"[''romance'', ''comedy'']","[''US'', ''ZA'', ''GB'']",tt12783454,4.7,15536,107.078,7.1
+5289,Found,tm1092892,MOVIE,2021,PG,97,"[''documentation'', ''drama'']","[''US'', ''CN'']",tt13622146,7.5,1145,17.877,7.6
+5294,Brian Regan: On the Rocks,tm998858,MOVIE,2021,,58,['comedy'],['US'],tt13926994,6.9,601,3.399,6.8
+5296,Monster,tm362072,MOVIE,2021,R,98,"[''drama'', ''crime'']","[''CA'', ''US'']",tt10229074,6.5,5574,12.751,6.5
+5300,This Is the Night,tm433048,MOVIE,2021,R,100,"[''drama'', ''comedy'']",['US'],tt8430548,5.5,556,6.178,7.3
+5306,A Week Away,tm872108,MOVIE,2021,,94,"[''drama'', ''family'', ''romance'']",['US'],tt11388278,5.7,4465,29.594,7
+5313,The Witcher: Fireplace,tm1142517,MOVIE,2021,,59,[],['US'],,,,6.254,5.5
+5323,Skater Girl,tm950444,MOVIE,2021,PG,107,"[''drama'', ''family'', ''sport'']","[''IN'', ''US'']",tt6964940,6.6,4180,16.29,7.5
+5324,Penguin Bloom,tm894254,MOVIE,2021,PG-13,95,['drama'],"[''AU'', ''US'']",tt6317656,6.8,9792,21.281,7.1
+5339,The Devil Below,tm984155,MOVIE,2021,R,89,"[''horror'', ''thriller'']",['US'],tt8299850,4.2,4093,11.289,5.1
+5346,Surviving Paradise: A Family Tale,tm1171107,MOVIE,2022,,78,['documentation'],"[''US'', ''GB'']",tt18059108,7.5,551,75.026,6.4
+5350,Breaking Boundaries: The Science of Our Planet,tm1041543,MOVIE,2021,,73,['documentation'],['US'],tt14539726,7.8,2534,10.217,7.5
+5353,Why Did You Kill Me?,tm1030283,MOVIE,2021,R,83,"[''documentation'', ''crime'']",['US'],tt14318430,5.6,4057,12.754,6.2
+5364,Attack of the Hollywood Clichés!,tm1106806,MOVIE,2021,,59,['documentation'],"[''US'', ''GB'']",,,,5.632,6.2
+5374,Escape the Undertaker,tm1104252,MOVIE,2021,,31,['horror'],['US'],tt15387782,4.3,394,75.943,5.2
+5375,Blood Brothers: Malcolm X & Muhammad Ali,tm1084481,MOVIE,2021,PG-13,95,"[''documentation'', ''history'', ''sport'']",['US'],tt15095938,6.9,906,12.154,7.5
+5393,The Minimalists: Less Is Now,tm982887,MOVIE,2021,,53,['documentation'],['US'],tt13583144,5.9,4027,10.169,6.5
+5403,Amy Tan: Unintended Memoir,tm983730,MOVIE,2021,,101,['documentation'],['US'],tt10393074,7.7,307,3.404,8.3
+5412,Forgive Us Our Trespasses,tm1159301,MOVIE,2022,PG-13,13,['drama'],['US'],tt17162524,6.5,,71.392,6.4
+5432,Two Distant Strangers,tm1018418,MOVIE,2021,R,32,['drama'],['US'],tt13472984,,,10.613,7.4
+5435,7 Yards: The Chris Norton Story,tm902870,MOVIE,2021,,93,['documentation'],['US'],tt12443702,7.8,258,2.839,7.3
+5436,Untold: Breaking Point,tm1091155,MOVIE,2021,R,79,"[''documentation'', ''sport'']",['US'],tt15101938,7.6,2400,6.926,8
+5440,A California Christmas: City Lights,tm1111595,MOVIE,2021,PG-13,105,"[''romance'', ''comedy'', ''drama'']",['US'],tt13701962,5.5,2231,20.068,6.7
+5450,The Phantom,tm1047190,MOVIE,2021,,81,"[''crime'', ''documentation'']","[''GB'', ''US'']",tt14597294,6.4,709,3.953,6
+5451,Lady Boss: The Jackie Collins Story,tm1038857,MOVIE,2021,,96,['documentation'],"[''GB'', ''US'']",tt13244024,6.8,383,2.996,
+5453,Theo Von: Regular People,tm1115800,MOVIE,2021,,61,['comedy'],['US'],tt15579188,5.1,729,3.946,7
+5469,Jonas Brothers Family Roast,tm1130995,MOVIE,2021,,68,"[''music'', ''comedy'']",['US'],tt15763882,5.1,1579,7.869,7.1
+5485,Barbie & Chelsea: The Lost Birthday,tm1031448,MOVIE,2021,,60,['animation'],['US'],tt14317062,,,69.129,7.2
+5488,"Barbie: Big City, Big Dreams",tm1080406,MOVIE,2021,,62,"[''animation'', ''family'']",['US'],tt15053428,5.8,258,182.312,7.1
+5498,The Princess Switch 3: Romancing the Star,tm1129394,MOVIE,2021,PG,106,"[''romance'', ''comedy'', ''drama'', ''family'']",['US'],tt14731142,5.5,5618,53.866,6.9
+5503,Biggie: I Got a Story to Tell,tm1001108,MOVIE,2021,R,97,"[''music'', ''documentation'']",['US'],tt14058484,6.8,4934,13.293,7.1
+5506,Camp Confidential: America's Secret Nazis,tm1119455,MOVIE,2021,PG-13,34,"[''animation'', ''history'', ''documentation'']",['US'],tt15470770,6.3,,22.093,7.1
+5508,The Wonderful: Stories from the Space Station,tm1063034,MOVIE,2021,,129,['documentation'],['US'],tt13368696,,,4.305,7
+5512,In Our Mothers' Gardens,tm1040733,MOVIE,2021,,84,['documentation'],['US'],tt14369930,8.6,124,2.31,
+5513,Arlo the Alligator Boy,tm1006127,MOVIE,2021,,90,"[''animation'', ''comedy'', ''family'']",['US'],tt13454122,6.5,1079,29.882,6.9
+5517,Mo Amer: Mohammed in Texas,tm1130275,MOVIE,2021,,64,['comedy'],['US'],tt15845288,6.5,568,4.301,4.3
+5521,Monster Hunter: Legends of the Guild,tm1075596,MOVIE,2021,PG-13,58,['fantasy'],['US'],,,,22.317,5.7
+5529,Montford: The Chickasaw Rancher,tm1120937,MOVIE,2021,,96,"[''drama'', ''western'', ''history'']",['US'],tt6704894,6.7,681,2.57,6
+5530,Sex: Unzipped,tm1118822,MOVIE,2021,,59,"[''comedy'', ''documentation'']",['US'],tt15523050,2.5,395,6.184,3.8
+5560,Secret Magic Control Agency,tm1001267,MOVIE,2021,,104,"[''fantasy'', ''comedy'', ''family'', ''animation'']","[''RU'', ''US'']",tt13932162,6.2,3948,68.203,7.2
+5562,LOL Surprise: The Movie,tm1111717,MOVIE,2021,G,47,['animation'],['US'],,,,143.79,6.9
+5564,Untold: Caitlyn Jenner,tm1082515,MOVIE,2021,R,69,"[''documentation'', ''sport'']",['US'],tt15101946,6.4,2384,6.613,6.6
+5574,Puff: Wonders of the Reef,tm1119172,MOVIE,2021,PG,59,"[''documentation'', ''family'']","[''AU'', ''US'']",tt15753666,7.1,743,32.746,7.7
+5588,Creating The Queen's Gambit,tm989672,MOVIE,2021,PG-13,14,['documentation'],['US'],tt13818410,6.9,577,14.162,7.9
+5592,Honey Girls,tm1101878,MOVIE,2021,PG,90,"[''family'', ''music'', ''comedy'']",['US'],tt11847606,5,154,9.388,5.1
+5595,Resort to Love,tm1037704,MOVIE,2021,PG,101,"[''comedy'', ''romance'']",['US'],tt12929990,5.7,5586,62.295,7.3
+5601,Cobra Kai - The Afterparty,tm1074622,MOVIE,2021,,34,[],['US'],,,,1.4,
+5610,You vs. Wild: Out Cold,tm1095880,MOVIE,2021,,25,['action'],['US'],tt15250050,5.3,102,5.629,5.6
+5613,Headspace Unwind you Mind,tm1044137,MOVIE,2021,G,15,"[''animation'', ''documentation'']",['US'],tt14684160,7.2,132,10.43,6.7
+5616,Dolly Parton: A MusiCares Tribute,tm1029279,MOVIE,2021,,55,"[''music'', ''documentation'']",['US'],tt14299926,6.6,226,3.813,7.3
+5623,Accomplice,tm942277,MOVIE,2021,,52,['documentation'],"[''IL'', ''US'']",tt13947978,7.2,361,4.318,7.6
+5631,Behind the Scenes With Jane Campion,tm1164320,MOVIE,2022,,17,['documentation'],['US'],,,,3.181,7
+5639,"Strip Down, Rise Up",tm985712,MOVIE,2021,R,112,['documentation'],['US'],tt13787118,5.3,634,15.881,6.9
+5641,The Characters of the Continent,tm1147172,MOVIE,2021,,9,['documentation'],['US'],tt16740216,6.6,56,1.563,
+5657,"Crack: Cocaine, Corruption & Conspiracy",tm983466,MOVIE,2021,,89,"[''documentation'', ''crime'', ''history'']",['US'],tt13649700,6.7,3260,15.734,6.6
+5662,The Upshaws - The Afterparty,tm1039571,MOVIE,2021,R,32,[],['US'],,,,1.887,7.7
+5682,Johnny Test's Ultimate Meatloaf Quest,tm1120636,MOVIE,2021,G,20,"[''animation'', ''family'']",['US'],tt15717738,7,24,4.462,2.5
+5683,What Would Sophia Loren Do?,tm990740,MOVIE,2021,,33,['documentation'],['US'],,,,3.867,6.7
+5688,Sisters on Track,tm1033635,MOVIE,2021,PG,96,"[''documentation'', ''sport'']",['US'],tt9337574,5.8,195,15.497,7.2
+5691,Sam Smith: Love Goes – Live at Abbey Road Studios,tm1042277,MOVIE,2021,,61,"[''documentation'', ''music'']",['US'],,,,4.951,8.7
+5703,Hostage House,tm1080114,MOVIE,2021,,90,['thriller'],['US'],tt13033790,3.9,826,5.541,6.8
+5704,Convergence: Courage in a Crisis,tm1099320,MOVIE,2021,R,113,['documentation'],"[''US'', ''GB'']",tt15398694,5.4,252,9.258,5.2
+5720,Ginny & Georgia - The Afterparty,tm1019084,MOVIE,2021,R,35,[],"[''US'', ''CA'']",,,,7.61,7.8
+5777,My Heroes Were Cowboys,tm1094060,MOVIE,2021,PG,23,['documentation'],['US'],tt15084326,,,3.688,7.7
+5780,Bling Empire - The Afterparty,tm1074617,MOVIE,2021,,35,[],['US'],,,,,
+5783,Dad Stop Embarrassing Me - The Afterparty,tm1035612,MOVIE,2021,PG-13,37,[],['US'],,,,1.06,10
