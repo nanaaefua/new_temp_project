@@ -32,8 +32,24 @@ def data(state: dict) -> dict:
     info = mongo.db.Sec8_county_merged
 
     info.find({state})
-    
+        
     return render_template('table.html', info=info)
+
+@app.route('/analysis')
+def home():
+    return render_template('analysis.html')
+
+@app.route('/results')
+def home():
+    return render_template('Results.html')
+
+@app.route('/tech')
+def home():
+    return render_template('Tech.html')
+
+
+
+
 
 if __name__ == "__main__":
     app.run(debug=True, port=8001)

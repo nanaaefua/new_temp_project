@@ -1,0 +1,56 @@
+﻿,index,title,id,movie,release_year,age_certification,runtime,genres,production_countries,imdb_id,imdb_score,imdb_votes,tmdb_popularity,tmdb_score
+104,260,Inception,tm92641,MOVIE,2010,PG-13,148,"[''scifi'', ''music'', ''thriller'', ''action'']","[''GB'', ''US'']",tt1375666,8.8,2268288.0,109.09,8.4
+40,108,Forrest Gump,tm122434,MOVIE,1994,PG-13,142,"[''drama'', ''romance'', ''comedy'']",['US'],tt0109830,8.8,1994599.0,57.114,8.5
+1383,4944,Bo Burnham: Inside,tm1038686,MOVIE,2021,R,87,"[''comedy'', ''drama'', ''music'', ''reality'']",['US'],tt14545352,8.7,44074.0,12.489,8.3
+240,519,A Lion in the House,tm25842,MOVIE,2006,,225,['documentation'],['US'],tt0492472,8.7,312.0,2.821,6.5
+42,111,Saving Private Ryan,tm57554,MOVIE,1998,R,169,"[''drama'', ''war'']",['US'],tt0120815,8.6,1346020.0,54.874,8.2
+1500,5512,In Our Mothers' Gardens,tm1040733,MOVIE,2021,,84,['documentation'],['US'],tt14369930,8.6,124.0,2.31,
+744,2298,Springsteen On Broadway,tm445735,MOVIE,2018,,153,"[''documentation'', ''music'']",['US'],tt8716334,8.5,2178.0,5.263,8.0
+1076,3538,Dave Chappelle: Sticks & Stones,tm827142,MOVIE,2019,R,65,['comedy'],['US'],tt10810424,8.4,25687.0,12.023,7.7
+1251,4214,Our Planet: Behind the Scenes,tm825102,MOVIE,2019,,63,['documentation'],"[''US'', ''GB'']",tt10746342,8.4,1672.0,8.629,7.9
+486,1398,Bo Burnham: Make Happy,tm242736,MOVIE,2016,,60,"[''comedy'', ''music'', ''documentation'']",['US'],tt5777636,8.4,14356.0,7.462,8.1
+208,405,Louis C.K.: Hilarious,tm104880,MOVIE,2010,,84,['comedy'],['US'],tt1421373,8.4,11973.0,7.387,7.9
+261,706,Django Unchained,tm41792,MOVIE,2012,R,165,"[''western'', ''drama'']",['US'],tt1853728,8.4,1472668.0,56.588,8.1
+765,2361,Taylor Swift: Reputation Stadium Tour,tm448122,MOVIE,2018,PG-13,125,"[''documentation'', ''music'']",['US'],tt9426852,8.3,5293.0,11.864,8.2
+746,2305,Cuba and the Cameraman,tm349529,MOVIE,2017,,113,['documentation'],"[''CU'', ''US'']",tt7320560,8.3,4715.0,8.738,7.7
+451,1325,Winter on Fire: Ukraine's Fight for Freedom,tm220594,MOVIE,2015,,98,['documentation'],"[''UA'', ''GB'', ''US'']",tt4908644,8.3,17710.0,11.354,8.0
+378,1023,Bill Burr: I'm Sorry You Feel That Way,tm149038,MOVIE,2014,,80,"[''comedy'', ''documentation'']",['US'],tt3823690,8.3,7954.0,6.968,7.7
+367,1007,Bo Burnham: What.,tm162271,MOVIE,2013,,60,"[''comedy'', ''music'', ''documentation'']",['US'],tt3210258,8.3,11488.0,5.747,7.9
+0,1,Taxi Driver,tm84618,MOVIE,1976,R,113,"[''crime'', ''drama'']",['US'],tt0075314,8.3,795222.0,27.612,8.2
+15,49,Once Upon a Time in America,tm180542,MOVIE,1984,R,229,"[''drama'', ''crime'', ''european'']","[''US'', ''IT'']",tt0087843,8.3,342335.0,21.322,8.4
+18,52,Full Metal Jacket,tm22327,MOVIE,1987,R,116,"[''drama'', ''war'']","[''GB'', ''US'']",tt0093058,8.3,723306.0,36.502,8.1
+265,716,Warrior,tm166548,MOVIE,2011,PG-13,140,"[''drama'', ''action'', ''sport'']",['US'],tt1291584,8.2,463276.0,74.092,7.8
+293,770,John Mulaney: New in Town,tm72845,MOVIE,2012,,58,"[''comedy'', ''documentation'']",['US'],tt2246779,8.2,6608.0,5.184,8.1
+296,784,Bill Burr: You People Are All The Same,tm28171,MOVIE,2012,R,68,['comedy'],['US'],tt2290153,8.2,7370.0,7.25,7.5
+749,2319,Hasan Minhaj: Homecoming King,tm322569,MOVIE,2017,,72,"[''comedy'', ''documentation'']",['US'],tt6900940,8.2,7120.0,5.727,7.8
+999,3327,Kiss the Ground,tm927480,MOVIE,2020,,84,['documentation'],['US'],tt8618654,8.2,6607.0,9.895,8.1
+457,1333,13th,tm244788,MOVIE,2016,,100,"[''documentation'', ''history'', ''crime'']",['US'],tt5895028,8.2,34914.0,10.311,8.0
+374,1015,Cowspiracy: The Sustainability Secret,tm151716,MOVIE,2014,,90,['documentation'],['US'],tt4344904,8.2,24845.0,10.13,7.8
+1104,3625,Disclosure,tm845437,MOVIE,2020,,107,['documentation'],['US'],tt8637504,8.2,5301.0,12.967,8.2
+239,509,Swades,tm82765,MOVIE,2004,G,189,"[''drama'', ''european'']","[''IN'', ''US'']",tt0367110,8.1,89085.0,7.152,7.4
+382,1031,The Square,tm187390,MOVIE,2013,,88,"[''drama'', ''history'', ''documentation'']","[''GB'', ''US'', ''EG'']",tt2486682,8.1,8949.0,5.613,7.8
+106,262,How to Train Your Dragon,tm87484,MOVIE,2010,PG,98,"[''fantasy'', ''animation'', ''action'', ''comedy'', ''family'', ''drama'']",['US'],tt0892769,8.1,719717.0,71.782,7.8
+1055,3467,Bill Burr: Paper Tiger,tm827216,MOVIE,2019,,67,['comedy'],"[''GB'', ''US'']",tt10847306,8.1,10649.0,6.247,7.3
+14,48,Stand by Me,tm111075,MOVIE,1986,R,89,['drama'],['US'],tt0092005,8.1,392790.0,16.096,7.9
+129,295,Into the Wild,tm76066,MOVIE,2007,R,140,['drama'],['US'],tt0758758,8.1,611379.0,15.658,7.8
+1,4,The Exorcist,tm190788,MOVIE,1973,R,133,['horror'],['US'],tt0070047,8.1,391942.0,95.337,7.7
+335,933,Rush,tm176864,MOVIE,2013,R,123,"[''drama'', ''action'', ''sport'', ''european'']","[''US'', ''DE'', ''GB'']",tt1979320,8.1,465254.0,34.763,7.7
+8,13,Richard Pryor: Live in Concert,tm69997,MOVIE,1979,R,78,"[''comedy'', ''documentation'']",['US'],tt0079807,8.1,5141.0,4.681,7.5
+1424,5079,Seaspiracy,tm1018890,MOVIE,2021,,80,['documentation'],['US'],tt14152756,8.1,29604.0,9.255,7.9
+808,2484,Chasing Coral,tm313120,MOVIE,2017,,93,['documentation'],['US'],tt6333054,8.1,5143.0,10.875,7.9
+1366,4879,The Alpinist,tm937814,MOVIE,2021,PG-13,92,['documentation'],"[''US'', ''AT'', ''GB'']",tt11790780,8.0,7192.0,9.969,7.7
+1056,3469,The Silence of Others,tm369389,MOVIE,2019,,95,"[''documentation'', ''history'', ''european'']","[''FR'', ''ES'', ''US'', ''CA'']",tt8099236,8.0,2048.0,10.349,8.2
+1414,5054,Dave Chappelle: The Closer,tm1108321,MOVIE,2021,,72,['comedy'],['US'],tt15523010,8.0,24903.0,9.182,7.3
+118,281,Big Fish,tm139658,MOVIE,2003,PG-13,125,"[''drama'', ''fantasy'', ''romance'']",['US'],tt0319061,8.0,435503.0,21.904,7.8
+753,2336,Bending the Arc,tm313487,MOVIE,2017,,102,['documentation'],['US'],tt6370266,8.0,314.0,4.813,8.0
+107,264,Casino Royale,tm39030,MOVIE,2006,,139,"[''thriller'', ''action'', ''european'']","[''GB'', ''US'', ''BS'', ''CZ'', ''DE'']",tt0381061,8.0,644336.0,41.332,7.5
+589,1827,Blade Runner 2049,tm239091,MOVIE,2017,R,164,"[''scifi'', ''thriller'', ''action'', ''drama'']","[''CA'', ''HU'', ''MX'', ''ES'', ''GB'', ''US'']",tt1856101,8.0,539864.0,61.861,7.5
+223,448,Jeff Dunham: Arguing with Myself,tm30289,MOVIE,2006,PG-13,76,"[''comedy'', ''documentation'']",['US'],tt0806102,8.0,3984.0,4.891,6.7
+119,282,The Bourne Ultimatum,tm79442,MOVIE,2007,PG-13,115,"[''thriller'', ''action'']","[''DE'', ''ES'', ''US'', ''FR'']",tt0440963,8.0,627009.0,25.464,7.4
+397,1110,Jim Jefferies: Bare,tm149914,MOVIE,2014,R,76,['comedy'],['US'],tt3958494,8.0,5407.0,7.515,7.5
+376,1019,Mike Birbiglia: My Girlfriend's Boyfriend,tm171965,MOVIE,2013,,75,"[''drama'', ''documentation'', ''comedy'', ''romance'']",['US'],tt2937390,8.0,3284.0,3.449,7.5
+148,319,Blood Diamond,tm32919,MOVIE,2006,R,143,"[''thriller'', ''drama'']","[''US'', ''DE'']",tt0450259,8.0,536858.0,40.209,7.5
+331,927,The Imitation Game,tm140877,MOVIE,2014,PG-13,113,"[''thriller'', ''drama'', ''war'']","[''US'', ''GB'']",tt2084970,8.0,748654.0,46.71,8.0
+329,925,Her,tm169422,MOVIE,2013,R,126,"[''drama'', ''romance'', ''scifi'']",['US'],tt1798709,8.0,586679.0,29.436,7.9
+306,796,Sebastian Maniscalco: What's Wrong with People?,tm53034,MOVIE,2012,,75,['comedy'],['US'],tt2215489,8.0,1194.0,3.129,7.9
+366,1002,The Battered Bastards of Baseball,tm148976,MOVIE,2014,R,80,"[''documentation'', ''sport'']",['US'],tt3445270,8.0,3953.0,6.34,7.6
